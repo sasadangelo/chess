@@ -150,3 +150,19 @@ However, when you play with very beginners players it could happen that they pla
 5. Ng5 { The best move for Black is d5. } 5... d5 { White catch the Black Pawn with exd5. } 6. exd5 { Black replies with Kxd5. } 6... Nxd5 { Now White is ready to attack with Kf7. } 7. Nxf7 { As in the Knight attack the White Knight fork the Queen and the Rook but this time there is no Bishop protection. Therefore, the King can catch the White Knight removing the threat but with no possibility to castle in the next moves. Black move Kxf7. } 7... Kxf7 *
 
 
+[Event "Italian Game: Hungarian Defense"]
+[Site "https://lichess.org/study/tVbAc09e/QJYGe2bQ"]
+[Result "*"]
+[UTCDate "2022.01.22"]
+[UTCTime "16:15:54"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Italian Game: Hungarian Defense"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 7"]
+[SetUp "1"]
+
+{ The Hungarian Defense is an alternative to the Giuoco Piano and the Two Knight Defense. This is a line typically chosen as a quiet response to the aggressive Bc4. The opening is seldom seen in modern play. To play this defense Black play Be7 avoiding the complexities of the Giuoco Piano, Evans Gambit, and Two Knights Defense. White has an advantage in space and freer development, so Black must be prepared to defend a cramped position. Black play Be7. }
+7... Be7 { The Bishop protects the g5 square preventing the White Knight from attacking. The best reply for White is d4. } 8. d4 { With d4 White has an advantage in controlling the center. } *
+
+
