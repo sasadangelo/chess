@@ -150,6 +150,22 @@ However, when you play with very beginners players it could happen that they pla
 5. Ng5 { The best move for Black is d5. } 5... d5 { White catch the Black Pawn with exd5. } 6. exd5 { Black replies with Kxd5. } 6... Nxd5 { Now White is ready to attack with Kf7. } 7. Nxf7 { As in the Knight attack the White Knight fork the Queen and the Rook but this time there is no Bishop protection. Therefore, the King can catch the White Knight removing the threat but with no possibility to castle in the next moves. Black move Kxf7. } 7... Kxf7 *
 
 
+[Event "Italian Game: Ponziani-Steinitz Gambit"]
+[Site "https://lichess.org/study/tVbAc09e/Br6oeS5M"]
+[Result "*"]
+[UTCDate "2022.01.23"]
+[UTCTime "17:54:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "r1bqkb1r/pppp2pp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQ - 2 5"]
+[SetUp "1"]
+
+{ In this chapter, I would like to show you a trap I fell into by playing against the Bot Maria on Chess.com. The trap is a continuation of the Ponziani-Steinitz Gambit. I think it is an interesting trap to play against beginners. The trap is a defense against the White Knight attack. Let's start from the Black Two Knights Defense. }
+5. Ng5 { White plays Ng5 starting the Knight attack. Black lets White believe that he is falling for his attack. } 5... Nxe4 { Black plays Nxe4 and lets White starts its attack. This configuration on the chess board is called Ponziani-Steinitz Gambit. } 6. Nf7 { White is ready to fork Black Queen and Rook playing Nf7. } 6... Qf6 { Black moves the Queen with Qf6 as expected by White but this is the beginning of his trap. } 7. Nxh8 { White completed its Knight attack with Nxh8 capturing the Rook. The problem for White is that he didn't notice the checkmate at the next Black move. } 7... Qxf2# { Black checkmate with Qxf2#. } *
+
+
 [Event "Italian Game: Hungarian Defense"]
 [Site "https://lichess.org/study/tVbAc09e/QJYGe2bQ"]
 [Result "*"]
@@ -164,5 +180,37 @@ However, when you play with very beginners players it could happen that they pla
 
 { The Hungarian Defense is an alternative to the Giuoco Piano and the Two Knight Defense. This is a line typically chosen as a quiet response to the aggressive Bc4. The opening is seldom seen in modern play. To play this defense Black play Be7 avoiding the complexities of the Giuoco Piano, Evans Gambit, and Two Knights Defense. White has an advantage in space and freer development, so Black must be prepared to defend a cramped position. Black play Be7. }
 7... Be7 { The Bishop protects the g5 square preventing the White Knight from attacking. The best reply for White is d4. } 8. d4 { With d4 White has an advantage in controlling the center. } *
+
+
+[Event "Italian Game: Nepomniachtchi vs Carlsen - FIDE World Championship 2021"]
+[Site "https://lichess.org/study/tVbAc09e/YJgrjFzO"]
+[Result "*"]
+[UTCDate "2022.01.23"]
+[UTCTime "09:21:58"]
+[Variant "Standard"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 1 10"]
+[SetUp "1"]
+
+{ At the beginning of this lesson, we said that the Italian Game is played at a very high level by Grand Masters like Anish Giri, Wesley So, Maxime Vachier-Lagrave, and others. In this chapter, I will report Nepomniachtchi vs Carlsen Game 9 at the FIDE World Championship 2021. They played a combination of Two Knights Defense and Giuoco Pianissimo. }
+10. d3 { White plays d3 to defend the Bishop in c4 and the Pawn in e4. } 10... Bc5 { Black continues with Bc5 the typical move of the Giuoco Piano. } 11. c3 { White continue with c3 preparing to defend the d4 square and start the typical Giuoco Pianissimo. } 11... d6 { Black replies with a similar move d5. } 12. O-O { White is ready for castling. Note how the castling always precedes the Pawn move in d4 to avoid Black Bishop check after the Pawn exchanges. } 12... a5 { Black moves a5 to protect square b4. } 13. Re1 { White moves Re1 to protect the e4 Pawn that will hang once we move the other Pawn in d4. } 13... Ba7 { Black move Ba7 protects the Bishop still keeping control of the diagonal a7-g1. } 14. Na3 { White starts developing the Knight Na3 that during the game will move in c2 and e3. } 14... h6 { Black move h6 to protect the g5 square and avoid possible White Knight attacks. } 15. Nc2 { White Knight continues its development with Nc2. } 15... O-O { Finally, Back is ready for the castle. The Opening phase is completed and the Game enter in the Middle Game. } *
+
+
+[Event "Italian Game: Légal's Mate"]
+[Site "https://lichess.org/study/tVbAc09e/QAnd8c7K"]
+[Result "*"]
+[UTCDate "2022.01.23"]
+[UTCTime "14:40:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 1"]
+[SetUp "1"]
+
+{ The Légal Trap or Blackburne Trap (also known as Légal Pseudo-Sacrifice and Légal Mate) is a chess opening trap, characterized by a queen sacrifice followed by a checkmate with minor pieces if Black accepts the sacrifice. The trap is named after the French player Sire de Légal (1702–1792). Joseph Henry Blackburne (1841–1924), a British master and one of the world's top five players in the latter part of the 19th century, set the trap on many occasions. White can play this trap when Black plays d6 instead of the typical Giuoco Piano, Two Knights Defense, or Hungarian Defense. }
+1... d6 { Black plays d6 to open the diagonal c8-h3 to the Bishop. White replies with Nc3. } 2. Nc3 Bg4 { Black moves Bg4 to pin the Knight to the Queen. } 3. Nxe5 { White simulates a Blundler moving Nxe5 and sacrificing the Queen. } 3... Bxd1 { Black, at this point, will rush to capture the Queen. } 4. Bxf7+ { The White trap is ready to start with Bxf7+. } 4... Ke7 { The Black, at this point, will rush to capture the Queen. } 5. Nd5# { White checkmate with Nd5#. } *
 
 

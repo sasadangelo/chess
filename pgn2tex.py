@@ -97,11 +97,12 @@ with open(latex_filename, 'w') as latex_file:
             #pprint(variation.comment,depth=2)
             latex_file.write(INCLUDE_GRAPHICS + "[width=150pt]{" + board_image_filename + "}\n")
             latex_file.write("\\\\\n")
-            latex_file.write("\\\\\n") 
+            latex_file.write("\\\\\n")
+            movestring=board.san(variation.move).replace("#","\#")
             if board.turn:
-                latex_file.write(BOLD + "{White " + str(board.fullmove_number) + ". " + board.san(variation.move) + "}")
+                latex_file.write(BOLD + "{White " + str(board.fullmove_number) + ". " +  movestring+ "}")
             else:
-                latex_file.write(BOLD + "{Black " + str(board.fullmove_number) + "... " + board.san(variation.move) + "}")
+                latex_file.write(BOLD + "{Black " + str(board.fullmove_number) + "... " + movestring + "}")
             latex_file.write("\\\\\n")
             latex_file.write("\\\\\n")
             board.push(variation.move)
@@ -109,10 +110,8 @@ with open(latex_filename, 'w') as latex_file:
                 boardsvg = chess.svg.board(board=board)
                 board_image.write(boardsvg)
             image_count+=1
-            # print(re.sub('\[\%eval.*\]\n', '', variation.comment))
-            # print("")
             #latex_file.write(variation.comment + "\\\\\n")
-            latex_file.write(variation.comment.replace("\n", "\\\\"))
+            latex_file.write(variation.comment.replace("\n", "\\\\").replace("#","\#"))
             latex_file.write("\\\\\n")
             latex_file.write("\\\\\n")
             variations = variation.variations
