@@ -12,4 +12,4 @@ TBD
 ## My Chess Studies
 
 1. **Italian Game**: [Lichess study](https://lichess.org/study/tVbAc09e) | [PDF](studies/italian_game.pdf) | [Tex](studies/italian_game.tex) | [PGN](studies/italian_game.pgn) | [Images](studies/italian_game)
-2. **Spanish Game**: [Lichess study](https://lichess.org/study/Lml6kbni) | [PDF](studies/spanish_game.pdf) | [Tex](studies/spanish_game.tex) | [PGN](studies/spanish.pgn) | [Images](studies/spanish_game)
+2. **Spanish Game**: [Lichess study](https://lichess.org/study/Lml6kbni) | [PDF](studies/spanish_game.pdf) | [Tex](studies/spanish_game.tex) | [PGN](studies/spanish_game.pgn) | [Images](studies/spanish_game)
