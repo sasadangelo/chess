@@ -8,3 +8,8 @@ Once this studies are ready I will convert them in PDF using this project.
 Go on Lichess.org and open an account. Selecting the menu ...
 
 TBD
+
+## My Chess Studies
+
+1. **Italian Game**: [Lichess study](https://lichess.org/study/tVbAc09e) | [PDF](studies/italian_game.pdf) | [Tex](studies/italian_game.tex) | [PGN](studies/italian_game.pgn) | [Images](studies/italian_game)
+2. **Spanish Game**: [Lichess study](https://lichess.org/study/Ohj6JSCi) | [PDF](studies/spanish_game.pdf) | [Tex](studies/spanish_game.tex) | [PGN](studies/spanish.pgn) | [Images](studies/spanish_game)
