@@ -113,12 +113,28 @@ Depending on whether White's first move to occupy the center is e4 or d4. Let's 
 [UTCDate "2022.04.18"]
 [UTCTime "16:13:04"]
 [Variant "Standard"]
-[ECO "C40"]
-[Opening "King's Knight Opening"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
 [Annotator "https://lichess.org/@/sasadangelo"]
 
 { King's Openings are all those openings that start with White's move e4. The goal of this move is to start controlling the center and open the diagonal to the bishop in f1 and Queen in d1. Play e4. }
-1. e4 { Typically, Black responds with e5 with the same motivation. } 1... e5 { White's most common move at this point is Nf3 with the aim of attacking the pawn on e5. Play Nf3. } 2. Nf3 { Black responds by defending the same pawn with Nc6. Thus we arrive at the following arrangement called King's Opening: Two Knights Variation, which will be the starting point of many openings like Italian and Spanish Games. } *
+1. e4 { Typically, Black responds with e5 with the same motivation. } 1... e5 { This positing is the starting point of all the King's Opening variations. } *
+
+
+[Event "Openings Goals and Principles: Two Knights Variation"]
+[Site "https://lichess.org/study/IreRnAsc/uk4OkuHV"]
+[Result "*"]
+[UTCDate "2022.04.19"]
+[UTCTime "09:00:27"]
+[Variant "Standard"]
+[ECO "C44"]
+[Opening "King's Knight Opening: Normal Variation"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+{ One of the most important variation of the King's Opening is the Two Knights Variation. The reason why it is so important is that it is the starting point of important chess opening like the Italian and Spanish game. White's most common move at this point is Nf3 with the aim of attacking the pawn on e5. Play Nf3. }
+1. Nf3 { Black responds by defending the same pawn with Nc6. Thus we arrive at the following arrangement called King's Opening: Two Knights Variation, which will be the starting point of many openings like Italian and Spanish Games. } 1... Nc6 { This variation is called King's Opening: Two Knights Variation and it is the starting point for important openings like the Italian and Spanish game. } *
 
 
 [Event "Openings Goals and Principles: Weak Pawns in f3 and f7"]
