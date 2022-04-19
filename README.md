@@ -13,5 +13,14 @@ TBD
 
 ### Openings
 
-1. **Italian Game**: [Lichess study](https://lichess.org/study/tVbAc09e) | [PDF](studies/italian_game.pdf) | [Tex](studies/italian_game.tex) | [PGN](studies/italian_game.pgn) | [Images](studies/italian_game)
-2. **Spanish Game**: [Lichess study](https://lichess.org/study/Lml6kbni) | [PDF](studies/spanish_game.pdf) | [Tex](studies/spanish_game.tex) | [PGN](studies/spanish_game.pgn) | [Images](studies/spanish_game)
+1. **Openings Goals and Principles**: [Lichess study](https://lichess.org/study/IreRnAsc) | [PDF](studies/openings_goals_and_principles.pdf) | [Tex](studies/openings_goals_and_principles.tex) | [PGN](studies/openings_goals_and_principles.pgn) | [Images](studies/openings_goals_and_principles)
+2. **Italian Game**: [Lichess study](https://lichess.org/study/tVbAc09e) | [PDF](studies/italian_game.pdf) | [Tex](studies/italian_game.tex) | [PGN](studies/italian_game.pgn) | [Images](studies/italian_game)
+3. **Spanish Game**: [Lichess study](https://lichess.org/study/Lml6kbni) | [PDF](studies/spanish_game.pdf) | [Tex](studies/spanish_game.tex) | [PGN](studies/spanish_game.pgn) | [Images](studies/spanish_game)
+
+### Middle game
+
+TODO
+
+### End games
+
+TODO
