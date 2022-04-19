@@ -35,35 +35,29 @@
 When a piece controls a square it means that if an opponent's piece falls into that square then it can be captured. It is obvious, therefore, that the more squares he controls with his pieces, the more he has a chance to dominate the game. It is natural that any piece, when placed in the center of the board, controls more squares than it would simply control by standing at the edge of the board. This is why it is important to be able to control the center.
 
 In this position, White Pawn control the squares c5, d5, e5, and f5, while the Black Pawn, on the edge of the board, only control the b5 and g5 squares. }
-1. Nf3 { The second principle involves the fast development of the pieces, but what exactly does that mean? On the chessboard, the only pieces that can be moved are pawns and horses, the latter are the only pieces capable of jumping another piece, all the others must wait for the movement of the pawns to be able to act. Unlike the game of draughts, when you start a chess game it is not necessary to move all the pawns first and then the major pieces, in fact, the opposite is true.
+1. Nf3 { The second principle involves the fast development of the pieces, but what exactly does that mean? On the chessboard, the only pieces that can be moved are pawns and knights, the latter are the only pieces capable of jumping another piece, all the others must wait for the movement of the pawns to be able to act. Unlike the game of draughts, when you start a chess game it is not necessary to move all the pawns first and then the major pieces, in fact, the opposite is true.
 Generally, an attempt is made to occupy the center with the central pawns not only to control it but also to open the diagonals to the bishops and the queen. } 1... Nc6 { Furthermore, it is possible and advisable to move the Knights right away to protect or attack the Pawn in the center. For example, in this position, Black Knight threatens the Pawn in d4 that is protected by the White Knight in f3. } 2. Bd3 { Opening Principles suggests moving minor pieces like Bishops and Knights before major pieces like Rook and Queen. } 2... Nf6 { Other principles suggest moving Knights before Bishop but I disagree with it because there are well-known openings like Italian and Spanish games where the White Bishop in f1 is moved before the Knight in b1. } 3. O-O { Finally, the third goal of an opening is to remove the king from the lower/upper center of the chessboard and move it to the sides by castling with the protection of the rook.
 Also, remember that the Chess game is not the Game of Draughts. Initially, I thought I had to move all the pawns first, and then the major pieces. This is a huge mistake. Pieces such as Knights and Bishops can and must be moved in the early stages of a game. } *
 
 
 [Event "Openings Goals and Principles: Good and Bad Pieces"]
-[Site "https://lichess.org/study/IreRnAsc/bAX4tSAB"]
+[Site "https://lichess.org/study/IreRnAsc/uAjnReSB"]
 [Result "*"]
-[UTCDate "2022.02.05"]
-[UTCTime "13:35:02"]
+[UTCDate "2022.04.19"]
+[UTCTime "07:38:18"]
 [Variant "Standard"]
-[ECO "?"]
-[Opening "?"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
 [Annotator "https://lichess.org/@/sasadangelo"]
-[FEN "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPP2PPP/RNBQ1RK1 b kq - 5 3"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 1"]
 [SetUp "1"]
 
-{ When a game starts, the only pieces that you can move are the Pawns and Knights. A piece that cannot move becomes harmless for this reason, in the opening, an attempt is made to move the pieces in such a way as to give the various pieces as much mobility as possible.
-
-In the following diagram, the knight on f3 certainly enjoys greater mobility than the knight on b2. In fact, it defends the boxes in the center e5 and d4, it threatens the pawn on e5. In these conditions, it is said that the knight on f3 is active because it has a purpose that is to defend squares or threaten opposing pieces.
-
+{ When a game starts, the only pieces that you can move are the Pawns and Knights. A piece that cannot move becomes harmless for this reason, in the opening, an attempt is made to move the pieces in such a way as to give the various pieces as much mobility as possible. }
+1. d3 { In the diagram, the knight on f3 certainly enjoys greater mobility than the knight on b1. In fact, it defends the boxes in the center e5 and d4, it threatens the pawn on e5. In these conditions, it is said that the knight on f3 is active because it has a purpose that is to defend squares or threaten opposing pieces.
 Conversely, the Knight in b1 while it has a bit of mobility, it still does not have a purpose. In the opening phase, developing the Knight in b1 means giving it a purpose and a role, both active (threat) and passive (defense).
-
 Similarly, the bishop in c4 has great mobility on the a2-g8 and a6-f1 diagonals. Also, it threatens the pawn on f7. Hence it is a piece that has mobility and also plays an active role in the center of the board.
-
 Conversely, the bishop on c1 is completely paralyzed and is useless at the moment for the purposes of the game.
-
-It is clear, therefore, that a piece that has mobility and purpose by playing an active role is a good piece, conversely, a piece that passively defends a piece or square or, worse still, a piece with no purpose or even immobile is a bad piece. The goal of an opening (but actually the whole game) is to develop the pieces in order to transform them from bad to good. }
-*
+It is clear, therefore, that a piece that has mobility and purpose by playing an active role is a good piece, conversely, a piece that passively defends a piece or square or, worse still, a piece with no purpose or even immobile is a bad piece. The goal of an opening (but actually the whole game) is to develop the pieces in order to transform them from bad to good. } *
 
 
 [Event "Openings Goals and Principles: 7 Openings Principles"]
