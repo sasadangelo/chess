@@ -1,0 +1,71 @@
+[Event "Queen vs King End Game: Introduction"]
+[Site "https://lichess.org/study/9RJZi3rc/A4n9hodf"]
+[Result "*"]
+[UTCDate "2022.04.25"]
+[UTCTime "08:27:02"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/3k4/8/8/5K2/1Q6/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Queen vs King End Game is the simplest end game to play. Unless White doesn't blunder he should win the game. In order to do that, he must follow five important rules:
+1. Push the opponent's king towards one of the four board edges.
+2. Push the opponent's king towards one of the two edge corners.
+3. Avoid the stalemate with the Queen.
+4. Put the King in c3, c6, f3, or f6 depending on the corner where is the opponent's King.
+5. Give checkmate with the Queen.
+
+In order to learn how to apply these five rules, let's see them in reverse order. }
+*
+
+
+[Event "Queen vs King End Game: Checkmate with the Queen"]
+[Site "https://lichess.org/study/9RJZi3rc/WWxXu5ia"]
+[Result "*"]
+[UTCDate "2022.04.19"]
+[UTCTime "14:45:53"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "6k1/4Q3/5K2/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ If you applied perfectly the first 4 rules in the Introduction you're in a position like this. Black King is in one of the four board edges in one of the two corners. White King is three squares away from the corner in c3, c6, f3, or f6. In this example, it is in f6. Queen must be one rank away from the board edge to force the King on the edge and, at the same time, it must be four square away from the other corner edge to avoid the stalemate. In this configuration give a checkmate is really easy. Play Qg7#. } { [%cal Gf6h8,Ge7h7,Ge7e8] }
+1. Qg7# { Congratulations! Checkmate. If King was in h8 it was checkmate too, using the same move. Now the question is: starting from whatever position how we can achieve the start position of this chapter? Let's see it in the next chapter. } *
+
+
+[Event "Queen vs King End Game: Push the King towards the edge"]
+[Site "https://lichess.org/study/9RJZi3rc/fIiWKuO4"]
+[Result "*"]
+[UTCDate "2022.04.19"]
+[UTCTime "15:00:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/8/3k4/8/8/1Q2K3/8 w - - 1 1"]
+[SetUp "1"]
+
+{ Let's see how to push the Black King towards one of the edge. Suppose we want to push it towards the a8-h8 rank. }
+1. Qc3 { Notice now the Queen is in c3 and the path to Black King square form a L. We say that the Queen is "L distance" from the Black King. } { [%cal Gc3c5,Gc5d5] } 1... Kd6 { Black move away from Queen going in d6. Notice how the Black King is trapped in the square tracked by green arrows. } { [%cal Gc3h3,Gh3h8,Gh8c8,Gc8c3] } 2. Qc4 { Queen move in c4 so that it is always to L distance from the Black King. Notice how we don't touch the White King. } { [%cal Gc4c6,Gc6d6] } 2... Ke7 { King move back again in e7. White continue the L distance strategy moving in d5. Notice how Queen is pushing the King towards the rank a8-h8. It's important that the Queen don't move back for any reason. } 3. Qd5 { Now let's suppose black don't want to go back but move in f6. } { [%cal Gd5d7,Gd7e7] } 3... Kf6 { In this case, the Queen already is in a square that is L distance from Black King's square. When this occurs it's time to move the White King just to gain a tempo over the Black King. } { [%cal Gd5d6,Gd6f6] } 4. Kf3 { Let's suppose now Black King go back in g7. } { [%cal Gd5d6,Gd6f6] } 4... Kg7 { Queen move in e7 always to keep the L distance from it. } 5. Qe6 { Black King can move in h7 and White Queen continue with L strategy in f6, at this point the Black King is forced to the 8th rank. Let's suppose, instead, that Black King moves in f8. } { [%cal Ge6e7,Ge7g7] } 5... Kf8 { Black King is now on 8th rank, let's trap it with White Queen. } 6. Qd7 { Queen can definitively block it on 8th rank moving on d7. Now it's time to apply the second rule of our strategy: move the King toward one corner on the 8th rank. In our example, the Queen should push it toward the h8 corner. Let's see how to do that in the next chapter. } { [%cal Gd7d8,Gd8f8] } *
+
+
+[Event "Queen vs King End Game: Push the King toward the corner"]
+[Site "https://lichess.org/study/9RJZi3rc/CQEoG5MI"]
+[Result "*"]
+[UTCDate "2022.04.19"]
+[UTCTime "15:16:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "5k2/3Q4/8/8/8/5K2/8/8 b - - 12 6"]
+[SetUp "1"]
+
+{ Black King is blocked on the 8th rank. In order to give checkmate White need to push it toward the h8 corner. In this position, Black King is force to move in g8. }
+6... Kg8 { Queen push the Black King moving in e7. } 7. Qe7 { Black King now move in h8. } 7... Kh8 { It's important here to avoid absolutely the move Qf7 because it is a stalemate. The Queen must be 4 squares away from the other edge of the corner. From this moment White must move White King to one of its 4 positions: c3, c6 f3, or f6. In our example, White must move White King toward the f6 square. } { [%cal Ge7h7,Gf3f6] } 8. Kf4 { Move White King in f4. } 8... Kg8 { Black King can only go back and forth in g8 or h8. Let's move it in g8. } 9. Kf5 { Move White King in f5. } 9... Kh8 { Black King move in h8. } 10. Kf6 { Finally, White King in f6 three square away from both the edges. White is ready to give checkmate to the next move. } { [%cal Gf6f8,Gf6h6] } 10... Kg8 { We achieved the position studied in the chapter "Checkmate with the Queen". It's time to give checkmate with Qg7#. } 11. Qg7# { Congratulations! Checkmate. This is all the theory you need to know to win a Queen vs King end game. If you're Black the only possibilities you have is to move the Black King toward a corner and hope for a stalemate. This sometime is possible when you play with low rated players but if you play with an experienced chess player it's better to resign as soon as he Queen vs King configuration appear on the chessboard. } *
+
+

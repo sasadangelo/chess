@@ -5,6 +5,7 @@ import chess.svg
 from pprint import pprint
 import argparse
 import os
+import re
 
 ARTICLE="\documentclass{article}\n"
 TITLE="\\title"
@@ -68,7 +69,7 @@ filename_wo_suffix=os.path.splitext(args.pgn)[0]
 latex_filename=filename_wo_suffix + '.tex'
 
 image_count=1
-os.makedirs(filename_wo_suffix)
+os.makedirs(filename_wo_suffix, exist_ok=True)
 with open(latex_filename, 'w') as latex_file:
     latex_file.write(ARTICLE)
     if title != "":
@@ -84,12 +85,22 @@ with open(latex_filename, 'w') as latex_file:
     for chapter in chapters:
         chapter_title=chapter.headers["Event"].split(":", 2)[1]
         latex_file.write(SECTION + "{" + chapter_title + "}\n")
-        latex_file.write("\n")
+        board_image_filename=filename_wo_suffix + "/" + filename_wo_suffix + "_" + str(image_count) + ".svg"
+        latex_file.write(INCLUDE_GRAPHICS + "[width=150pt]{" + board_image_filename + "}\n")
+        latex_file.write("\\\\\n")
+        latex_file.write("\\\\\n")
         if chapter.comment != "" :
-            latex_file.write(chapter.comment.replace("\n", "\\\\"))
-            latex_file.write("\\\\\n")
-            latex_file.write("\\\\\n")
+            comment=chapter.comment.replace("\n", "\\\\").replace("#","\#")
+            comment=re.sub("\[%cal.*\]","", comment)
+            latex_file.write(comment)
+            if len(chapter.variations)>0:
+                latex_file.write("\\\\\n")
         board = chapter.board()
+        with open(board_image_filename, "w") as board_image:
+            print(chapter.arrows())
+            boardsvg = chess.svg.board(board=board,arrows=chapter.arrows())
+            board_image.write(boardsvg)
+        image_count+=1
         variations = chapter.variations
         while len(variations)>0:
             board_image_filename=filename_wo_suffix + "/" + filename_wo_suffix + "_" + str(image_count) + ".svg"
@@ -107,12 +118,16 @@ with open(latex_filename, 'w') as latex_file:
             latex_file.write("\\\\\n")
             board.push(variation.move)
             with open(board_image_filename, "w") as board_image:
-                boardsvg = chess.svg.board(board=board)
+                print(variation.arrows())
+                boardsvg = chess.svg.board(board=board, arrows=variation.arrows())
                 board_image.write(boardsvg)
             image_count+=1
             #latex_file.write(variation.comment + "\\\\\n")
-            latex_file.write(variation.comment.replace("\n", "\\\\").replace("#","\#"))
-            latex_file.write("\\\\\n")
-            latex_file.write("\\\\\n")
+            comment=variation.comment.replace("\n", "\\\\").replace("#","\#")
+            comment=re.sub("\[%cal.*\]","", comment)
+            latex_file.write(comment)
             variations = variation.variations
+            if len(variations)>0:
+                latex_file.write("\\\\\n")
+                latex_file.write("\\\\\n")
     latex_file.write(END)
