@@ -1,0 +1,94 @@
+[Event "Two Rooks vs King End Game: Introduction"]
+[Site "https://lichess.org/study/w4XIVyGB/2TqDIDAP"]
+[Result "*"]
+[UTCDate "2022.04.26"]
+[UTCTime "16:07:20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/5k2/8/8/1R6/6R1/2K5 w - - 0 1"]
+[SetUp "1"]
+
+{ Two Rooks vs King End Game is the simplest end game to play. Unless White doesn't blunder he should win the game. In order to do that, he must follow five important rules:
+1. Use only the two Rooks without the King help.
+2. Push the opponent's king towards one of the four board edges.
+3. Don't put Rooks in a square very close to the opponent's King.
+4. If the opponent's King is too close to one of your Rooks protect it with the other Rook.
+5. Checkmate with a Rook.
+
+In order to learn how to apply these five rules, let's start from the final position. }
+*
+
+
+[Event "Two Rooks vs King End Game: Checkmate with the Rook"]
+[Site "https://lichess.org/study/w4XIVyGB/ZtIFC7XT"]
+[Result "*"]
+[UTCDate "2022.04.26"]
+[UTCTime "16:13:11"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/7R/R7/8/8/8/8/2K5 w - - 0 1"]
+[SetUp "1"]
+
+{ Let's start the study with a possible final position. The Black King is in the 8th rank. One Rook is in the 7th rank blocking the opponent's King (see red arrow). The other Rook is ready to give checkmate. Play Ra8#. } { [%cal Rh7a7] }
+1. Ra8# { Congratulations! Checkmate. } *
+
+
+[Event "Two Rooks vs King End Game: Push the King towards the edge"]
+[Site "https://lichess.org/study/w4XIVyGB/d2AwgFpk"]
+[Result "*"]
+[UTCDate "2022.04.26"]
+[UTCTime "16:38:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/5k2/8/8/1R6/7R/2K5 w - - 0 1"]
+[SetUp "1"]
+
+{ Let's start from this position and let's see how to push the opponent's King towards one of the edge. To make the things simpler for White let's suppose that the King never go too close to the Rook.
+
+The goal of the two Rooks is to restrict the square where the opponent's King can move.
+
+Let's move one rook one rank below the Black King. Play Rh5. }
+1. Rh5 { With the move Rh5 we restricted the vertical space where the opponent King can move. } { [%cal Rh5h8,Rh5a5,Rb3b8] } 1... Ke6 { Let's move Black King with Ke6. } { [%cal Rh5h8,Rh5a5,Rb3b8] } 2. Rb6+ { With Rb6+ the Black King is force to move up in one of the square marked by green arrows. Let's suppose Black King move in d7. } { [%cal Ge6e7,Ge6d7,Ge6f7,Rb6b8,Rh5a5,Rh5h8] } 2... Kd7 { Continue with check to force the Black King toward the edge. Move Rh7+. } { [%cal Rh5h8,Rb6b8,Rb6h6] } 3. Rh7+ { Black King is force to go up. He moves in e8. } { [%cal Gd7c8,Gd7d8,Gd7e8,Rb6h6,Rb6b8,Rh7h8] } 3... Ke8 { White is ready to give checkmate with Rb8#. Play Rb8#. } { [%cal Rh7a7,Rh7h8,Rb6b8] } 4. Rb8# { Congratulations! Checkmate. However, in this chapter we used the hypothesis that Black never go too close to the Rook. This is the opposite of what Black King should do instead. In fact, if White knows how to play the Two Rooks vs King End Game there is no chance for black to draw. The only hope for Black is that White blunders. The only way to force this is to try to get close to the Rook hoping the White forgot to defend it.
+Let's see this scenario in the next chapter. } *
+
+
+[Event "Two Rooks vs King End Game: Blunder one of the Rook"]
+[Site "https://lichess.org/study/w4XIVyGB/0QN8f6p7"]
+[Result "*"]
+[UTCDate "2022.04.30"]
+[UTCTime "14:58:37"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/5k2/8/8/1R6/6R1/2K5 w - - 0 1"]
+[SetUp "1"]
+
+{ Let's start again from this position and try to analyze what White should do when Black King attacks one Rook. It's important that White Rooks are always far away from Black King, but when this is not possible, White should protect his Rooks. Play Rb5.
+
+Play Rb5 to force Black King in a limited rectangle. }
+1. Rb5 { Black plays Ke6. } { [%cal Rb5h5,Rb5b8] } 1... Ke6 { Let's play now Rg6+ to force the Black King up. } { [%cal Rb5h5,Rb5b8] } 2. Rg6+ { Now let's suppose Black plays Kf7. It tries to get close to the White Rook hoping in a blunder and capture it in the next move. } { [%cal Ge6d7,Ge6f7,Ge6e7,Rb5h5,Rb5b8] } 2... Kf7 { Now if White Play Rb7+ continuing to force the Black King up, it blunders. In fact, the Black King can capture the White Rook in the next move. } { [%cal Rg6a6,Rg6g8,Rb5b8] } 3. Rb7+ { This is a blunder. Now Black King can capture White Rook with Kxg6 entering in the Rook vs King End Game that is not a subject of this lesson. } 3... Kxg6 { White lost a Rook! Now the Rook vs King End Game start and it will be the subject of another lesson. } *
+
+
+[Event "Two Rooks vs King End Game: Protect the Rook"]
+[Site "https://lichess.org/study/w4XIVyGB/NtTIPwTy"]
+[Result "*"]
+[UTCDate "2022.04.30"]
+[UTCTime "15:16:00"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/5k2/6R1/1R6/8/8/8/2K5 w - - 4 3"]
+[SetUp "1"]
+
+{ Let's start again from this position and let's avoid to play Rb7+. White Rook in b5, instead of moving two ranks, it should move only one rank in b6. Move Rb6. In this way Black King cannot play Kg6 because the White Rook is protected by the second Rook. } { [%cal Rg6g8,Rg6a6,Rb5b8] }
+3. Rbb6 { Black King is force to move in f8, e8, e7. Let's play Ke7. } { [%cal Gf7e7,Gf7e8,Gf7f8] } 3... Ke7 { White moves Rg7+. } 4. Rg7+ { Black King moves Kf8 hoping in a White blunder. } { [%cal Rb6h6,Rb6b8,Rg7g8] } 4... Kf8 { Again White mustn't move Rb8+. The best move here is Rb7 protecting the other Rook. Play Rb7. } 5. Rbb7 { Black King is force to move Ke8. } { [%cal Gf8e8,Rb7g7,Rb7b8,Rg7g8] } 5... Ke8 { White checkmate with Rb8# or Rg8#. Play Rb8#. } 6. Rb8# { Congratulations! Checkmate. Now you learned everything you need to know to correctly play 2 Rooks vs King End game. If you're the player with only the King, the only hope you have is to get close to one of the two Rooks and hope in an opponent's blunder. } *
+
+
