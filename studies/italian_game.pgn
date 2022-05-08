@@ -18,17 +18,19 @@ Today, Grandmaster (GM) players such as Anish Giri, Wesley So, and Maxime Vachie
 
 
 [Event "Italian Game: Italian Game"]
-[Site "https://lichess.org/study/tVbAc09e/qCyUnWdh"]
+[Site "https://lichess.org/study/tVbAc09e/Te4kEVQA"]
 [Result "*"]
-[UTCDate "2022.01.17"]
-[UTCTime "14:31:03"]
+[UTCDate "2022.05.08"]
+[UTCTime "14:39:53"]
 [Variant "Standard"]
 [ECO "C50"]
 [Opening "Italian Game"]
 [Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3"]
+[SetUp "1"]
 
-{ Italian Game starts with the King’s Opening e4. Play e4, you will open the diagonals for White Queen and Bishop. }
-1. e4 { Black replies with e5 with the same motivation. } 1... e5 { This configuration on the Chessboard is called King's Opening. Move Nf3 in order to attack the Pawn in e5. } 2. Nf3 { Black replies with Nc6 in order to defend the Pawn in e5. } 2... Nc6 { This line on the Chessboard is called King's Opening: Knights Variation. In order to play the Italian Game, you need to move Bc4. } 3. Bc4 { This configuration on the Chessboard is the Italian Game. The pro of this opening is that the Bishop defends the b5 and d5 cells and, in addition, it attacks the weak Pawn f7 that is only protected by the King. Moreover, it controls the center and it allows White to castle in the next moves. The cons of this line are the hanging Bishop and that central control is not so extended. Starting from this position there could be different variations depending on the Black and White replies. For example, the Giuoco Piano, Giuoco Pianissimo, Central Attack, Knight Attack, etc. } *
+{ Italian Game starts with the Two Knights Variation (see Basic Opening and Principles study). In order to play the Italian Game, you need to move Bc4. } { [%cal Rf3e5,Gc6e5] }
+3. Bc4 { This configuration on the Chessboard is the Italian Game. The pro of this opening is that the Bishop defends the b5 and d5 cells and, in addition, it attacks the weak Pawn f7 that is only protected by the King. Moreover, it controls the center and it allows White to castle in the next moves. The cons of this line are the hanging Bishop and that central control is not so extended. Starting from this position there could be different variations depending on the Black and White replies. For example, the Giuoco Piano, Giuoco Pianissimo, Central Attack, Knight Attack, etc. } { [%cal Gc4b5,Gc4d5,Rc4f7] } *
 
 
 [Event "Italian Game: Giuoco Piano"]
@@ -43,7 +45,7 @@ Today, Grandmaster (GM) players such as Anish Giri, Wesley So, and Maxime Vachie
 [FEN "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3"]
 [SetUp "1"]
 
-3... Bc5 { The best-known variation of the Italian Game is the Giuoco Piano (Quiet Game) where Black responds to the third move with Bc5. This variation is so-called because it leads to a more positional and slower game. The Black's reasons for making this move are the same as White's one. Put pressure on the weak pawn f2, fast development of the Bishop, control the cells b4 - d4, and the possibility of castling. However, Black is one piece behind White (the Knight). The cons of this move are the same as for White. In this variation White plays c3. } 4. c3 { The goal of this move is to defend cell d4 where we will move the pawn in d2 at the next move. Black usually replies with Nf6 in order to defend the d5 cell and attack the pawn in e4. } 4... Nf6 { You can move now d4 attacking the Bishop in c5 and Pawn in e5. } 5. d4 { This variation of the Giuoco Piano is called Central Attack. The White Pawn attack the Bishop in c5 and the Pawn in e5. } *
+3... Bc5 { The best-known variation of the Italian Game is the Giuoco Piano (Quiet Game) where Black responds to the third move with Bc5. This variation is so-called because it leads to a more positional and slower game. The Black's reasons for making this move are the same as White's one. Put pressure on the weak pawn f2, fast development of the Bishop, control the cells b4 - d4, and the possibility of castling. However, Black is one piece behind White (the Knight). The cons of this move are the same as for White. In this variation White plays c3. } { [%cal Gc5b4,Gc5d4,Rc5f2] } 4. c3 { The goal of this move is to defend cell d4 where we will move the pawn in d2 at the next move. Black usually replies with Nf6 in order to defend the d5 cell and attack the pawn in e4. } { [%cal Gc3d4] } 4... Nf6 { You can move now d4 attacking the Bishop in c5 and Pawn in e5. } { [%cal Rf6e4,Gf6d5,Gd2d4] } 5. d4 { This variation of the Giuoco Piano is called Central Attack. The White Pawn attack the Bishop in c5 and the Pawn in e5. } { [%cal Rd4c5,Rd4e5] } *
 
 
 [Event "Italian Game: Giuoco Piano - Central Attack"]
@@ -65,7 +67,7 @@ The best move for Black here is the intermediate check with the bishop with Bb4.
 e5
 With this move, we endanger the opposing knight on f6. If he tries to escape, we can get a development lead. The better move here would be a pawn on d5. Here we flee with our runner and play a fairly balanced game.
 o-o
-This variant is quite risky because we are betting on an opponent's mistake. If he castles after our castling, our pawn rush is starting with cxd4. But if our opponent plays the optimal move Nxe4, the game tends to be better for Black. } *
+This variant is quite risky because we are betting on an opponent's mistake. If he castles after our castling, our pawn rush is starting with cxd4. But if our opponent plays the optimal move Nxe4, the game tends to be better for Black. } { [%cal Rc3d4,Rf1g1,Rh1f1,Re4e5] } *
 
 
 [Event "Italian Game: Giuoco Pianissimo"]
@@ -81,7 +83,7 @@ This variant is quite risky because we are betting on an opponent's mistake. If 
 [SetUp "1"]
 
 { Another well-known variation of the Italian Game is the Giuoco Pianissimo. It is a continuation of the Giuoco Piano that leads to an even more positional and slow game. To play the Giuoco Pianissimo you need to move d3. Play d3. }
-3. d3 { The White Pawn in d3 defends the Bishop in c4 and Pawn in e4. Usually Black replies with Nf6. } 3... Nf6 { White can continue the Giuoco Pianissimo playing c3 in order to control the cell d4 so that we can move d4 in the next move. Play c3. } 4. c3 { White, in the next move, can continue with d4 to perform the Central Attack described in the Giuoco Piano chapter. Here we spent an additional move to arrive at the same configuration. However, in the meanwhile, we protected the Bishop in c4 and Pawn in e4. } *
+3. d3 { The White Pawn in d3 defends the Bishop in c4 and Pawn in e4. Usually Black replies with Nf6. } { [%cal Gd3c4,Gd3e4] } 3... Nf6 { White can continue the Giuoco Pianissimo playing c3 in order to control the cell d4 so that we can move d4 in the next move. Play c3. } { [%cal Rf6e4,Gf6d5] } 4. c3 { White, in the next move, can continue with d4 to perform the Central Attack described in the Giuoco Piano chapter. Here we spent an additional move to arrive at the same configuration. However, in the meanwhile, we protected the Bishop in c4 and Pawn in e4. } { [%cal Gd3d4] } *
 
 
 [Event "Italian Game: Evan's Gambit"]
@@ -97,7 +99,7 @@ This variant is quite risky because we are betting on an opponent's mistake. If 
 [SetUp "1"]
 
 { The Evan's Gambit is a continuation of the Giuoco Piano that adds a more aggressive approach to the White strategy. This variation involves move b4 after the Giuoco Piano. }
-4. b4 { This variation is not played at a very high level but it is quite frequent at beginners and intermediate levels with an high success score. } *
+4. b4 { This variation is not played at a very high level but it is quite frequent at beginners and intermediate levels with an high success score. } { [%cal Rb4c5] } *
 
 
 [Event "Italian Game: Two Knights Defense"]
@@ -113,7 +115,7 @@ This variant is quite risky because we are betting on an opponent's mistake. If 
 [SetUp "1"]
 
 { The Two Knights Defense is an alternative to the Giuoco Piano. When White plays Bc4 to start the Italian Game the Black can reply with Kf6 instead of Bc5 of the Giuoco Piano. }
-1... Nf6 { This defense allows the White some attacks such as the Fried Liver Attack or the Knight attack. } *
+1... Nf6 { This defense allows the White some attacks such as the Fried Liver Attack or the Knight attack. } { [%cal Gf6d5,Rf6e4] } *
 
 
 [Event "Italian Game: Knight Attack"]
@@ -131,7 +133,7 @@ This variant is quite risky because we are betting on an opponent's mistake. If 
 { Let's start with the Two Knights Defense. There is a trap we can play that is very effective with players with a rating lower than 400. Sometimes I even successfully played it with players in the 400-600 range, however, it is very risky because they usually know how to neutralize it. The trap consists in playing Ng5. Play Ng5. }
 4. Ng5 { The goal here is to attack with Bishop and Knight the weak Pawn in f7.
 If Black neutralizes the attack with d5 we can move Nf7 to force the King to catch the Knight. You sacrifice it to avoid the opponent castles in the next moves. In the alternative, you can play d3 so that the Bishop in c1 will defend the Knight in g5.
-However, when you play with very beginners players it could happen that they play something different from d5. Let's say Black plays d6. } 4... d6 { Now you can move Nf7. } 5. Nxf7 { The Knight forked the Queen and the Rook. The King cannot catch it because it is defended by the Bishop. Usually, in this configuration, you earn a Rook that gives you a good advantage. However, in some games, some beginners even gave me the Queen losing the game. } *
+However, when you play with very beginners players it could happen that they play something different from d5. Let's say Black plays d6. } { [%cal Rg5f7,Rc4f7] } 4... d6 { Now you can move Nf7. } 5. Nxf7 { The Knight forked the Queen and the Rook. The King cannot catch it because it is defended by the Bishop. Usually, in this configuration, you earn a Rook that gives you a good advantage. } { [%cal Rf7h8,Rf7d8] } *
 
 
 [Event "Italian Game: Fried Liver Attack"]
@@ -147,23 +149,23 @@ However, when you play with very beginners players it could happen that they pla
 [SetUp "1"]
 
 { This is a well-known White attack against the Two Knights Defense. The goal for White is to sacrifice his Knight to avoid the Black's castling. The attack starts with Ng5. }
-5. Ng5 { The best move for Black is d5. } 5... d5 { White catch the Black Pawn with exd5. } 6. exd5 { Black replies with Nxd5. } 6... Nxd5 { Now White is ready to attack with Nf7. } 7. Nxf7 { As in the Knight attack the White Knight fork the Queen and the Rook but this time there is no Bishop protection. Therefore, the King can catch the White Knight removing the threat but with no possibility to castle in the next moves. Black move Kxf7. } 7... Kxf7 *
+5. Ng5 { The best move for Black is d5. } { [%cal Rc4f7,Rg5f7] } 5... d5 { White catch the Black Pawn with exd5. } { [%cal Rg5f7] } 6. exd5 { Black replies with Nxd5. } 6... Nxd5 { Now White is ready to attack with Nf7. } 7. Nxf7 { As in the Knight attack the White Knight fork the Queen and the Rook but this time there is no Bishop protection. Therefore, the King can catch the White Knight removing the threat but with no possibility to castle in the next moves. Black move Kxf7. } 7... Kxf7 *
 
 
 [Event "Italian Game: Ponziani-Steinitz Gambit"]
-[Site "https://lichess.org/study/tVbAc09e/Br6oeS5M"]
+[Site "https://lichess.org/study/tVbAc09e/3JMKbZ80"]
 [Result "*"]
-[UTCDate "2022.01.23"]
-[UTCTime "17:54:47"]
+[UTCDate "2022.05.08"]
+[UTCTime "17:33:19"]
 [Variant "Standard"]
 [ECO "?"]
 [Opening "?"]
 [Annotator "https://lichess.org/@/sasadangelo"]
-[FEN "r1bqkb1r/pppp2pp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQ - 2 5"]
+[FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQ - 2 5"]
 [SetUp "1"]
 
-{ In this chapter, I would like to show you a trap I fell into by playing against the Bot Maria on Chess.com. The trap is a continuation of the Ponziani-Steinitz Gambit. I think it is an interesting trap to play against beginners. The trap is a defense against the White Knight attack. Let's start from the Black Two Knights Defense. }
-5. Ng5 { White plays Ng5 starting the Knight attack. Black lets White believe that he is falling for his attack. } 5... Nxe4 { Black plays Nxe4 and lets White starts its attack. This configuration on the chess board is called Ponziani-Steinitz Gambit. } 6. Nf7 { White is ready to fork Black Queen and Rook playing Nf7. } 6... Qf6 { Black moves the Queen with Qf6 as expected by White but this is the beginning of his trap. } 7. Nxh8 { White completed its Knight attack with Nxh8 capturing the Rook. The problem for White is that he didn't notice the checkmate at the next Black move. } 7... Qxf2# { Black checkmate with Qxf2#. } *
+{ In this chapter, I would like to show you a trap I fell into by playing against the Bot Maria on Chess.com. The trap is a continuation of the Ponziani-Steinitz Gambit. I think it is an interesting trap to play against beginners. The trap is a defense against the White Knight attack. Let's start from the Black Two Knights Defense. Play Ng5. }
+5. Ng5 { White plays Ng5 starting the Knight attack. Black lets White believe that he is falling for his attack. } 5... Nxe4 { Black plays Nxe4 and lets White starts its attack. This configuration on the chess board is called Ponziani-Steinitz Gambit. } 6. Nxf7 { White is ready to fork Black Queen and Rook playing Nf7. } 6... Qf6 { Black moves the Queen with Qf6 as expected by White but this is the beginning of his trap. } 7. Nxh8 { White completed its Knight attack with Nxh8 capturing the Rook. The problem for White is that he didn't notice the checkmate at the next Black move. } 7... Qxf2# { Black checkmate with Qxf2#. } *
 
 
 [Event "Italian Game: Hungarian Defense"]
@@ -178,8 +180,8 @@ However, when you play with very beginners players it could happen that they pla
 [FEN "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 7"]
 [SetUp "1"]
 
-{ The Hungarian Defense is an alternative to the Giuoco Piano and the Two Knight Defense. This is a line typically chosen as a quiet response to the aggressive Bc4. The opening is seldom seen in modern play. To play this defense Black play Be7 avoiding the complexities of the Giuoco Piano, Evans Gambit, and Two Knights Defense. White has an advantage in space and freer development, so Black must be prepared to defend a cramped position. Black play Be7. }
-7... Be7 { The Bishop protects the g5 square preventing the White Knight from attacking. The best reply for White is d4. } 8. d4 { With d4 White has an advantage in controlling the center. } *
+{ The Hungarian Defense is an alternative to the Giuoco Piano and the Two Knight Defense. This is a line typically chosen as a quiet response to the aggressive Bc4. The opening is seldom seen in modern play. To play this defense Black play Be7 avoiding the complexities of the Giuoco Piano, Evans Gambit, and Two Knights Defense. White has an advantage in space and free development, so Black must be prepared to defend a cramped position. Black play Be7. }
+7... Be7 { The Bishop protects the g5 square preventing the White Knight from attacking. The best reply for White is d4. } { [%cal Ge7g5] } 8. d4 { With d4 White has an advantage in controlling the center. } { [%cal Rd4e5] } *
 
 
 [Event "Italian Game: Nepomniachtchi vs Carlsen - FIDE World Championship 2021"]
@@ -211,6 +213,6 @@ However, when you play with very beginners players it could happen that they pla
 [SetUp "1"]
 
 { The Légal Trap or Blackburne Trap (also known as Légal Pseudo-Sacrifice and Légal Mate) is a chess opening trap, characterized by a queen sacrifice followed by a checkmate with minor pieces if Black accepts the sacrifice. The trap has the name of the French player Sire de Légal (1702–1792). Joseph Henry Blackburne (1841–1924), a British master and one of the world's top five players in the latter part of the 19th century, set the trap on many occasions. White can play this trap when Black plays d6 instead of the typical Giuoco Piano, Two Knights Defense, or Hungarian Defense. }
-1... d6 { Black plays d6 to open the diagonal c8-h3 to the Bishop. White replies with Nc3. } 2. Nc3 Bg4 { Black moves Bg4 to pin the Knight to the Queen. } 3. Nxe5 { White simulates a Blundler moving Nxe5 and sacrificing the Queen. } 3... Bxd1 { Black, at this point, will rush to capture the Queen. } 4. Bxf7+ { The White trap is ready to start with Bxf7+. } 4... Ke7 { The Black, at this point, will rush to capture the Queen. } 5. Nd5# { White checkmate with Nd5#. } *
+1... d6 { Black plays d6 to open the diagonal c8-h3 to the Bishop. White replies with Nc3. Play Nc3. } { [%cal Gc8g4] } 2. Nc3 { Knight in c3 defends the square d5. } { [%cal Gc3d5] } 2... Bg4 { Black moves Bg4 to pin the Knight to the Queen. } 3. Nxe5 { White simulates a blundler moving Nxe5 and sacrificing the Queen. } 3... Bxd1 { Black, at this point, will rush to capture the Queen. } 4. Bxf7+ { The White trap is ready to start with Bxf7+. } 4... Ke7 { The Black, at this point, will rush to capture the Queen. } 5. Nd5# { White checkmate with Nd5#. } *
 
 

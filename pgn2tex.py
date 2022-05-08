@@ -96,6 +96,7 @@ with open(latex_filename, 'w') as latex_file:
             latex_file.write(comment)
             if len(chapter.variations)>0:
                 latex_file.write("\\\\\n")
+                latex_file.write("\\\\\n")
         board = chapter.board()
         with open(board_image_filename, "w") as board_image:
             boardsvg = chess.svg.board(board=board,arrows=chapter.arrows())
