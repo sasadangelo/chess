@@ -34,9 +34,9 @@
 
 When a piece controls a square it means that if an opponent's piece falls into that square then it can be captured. It is obvious, therefore, that the more squares he controls with his pieces, the more he has a chance to dominate the game. It is natural that any piece, when placed in the center of the board, controls more squares than it would simply control by standing at the edge of the board. This is why it is important to be able to control the center.
 
-In this position, White Pawn control the squares c5, d5, e5, and f5, while the Black Pawn, on the edge of the board, only control the b5 and g5 squares. }
-1. Nf3 { The second principle involves the fast development of the pieces, but what exactly does that mean? On the chessboard, the only pieces that can be moved are pawns and knights, the latter are the only pieces capable of jumping another piece, all the others must wait for the movement of the pawns to be able to act. Unlike the game of draughts, when you start a chess game it is not necessary to move all the pawns first and then the major pieces, in fact, the opposite is true.
-Generally, an attempt is made to occupy the center with the central pawns not only to control it but also to open the diagonals to the bishops and the queen. } 1... Nc6 { Furthermore, it is possible and advisable to move the Knights right away to protect or attack the Pawn in the center. For example, in this position, Black Knight threatens the Pawn in d4 that is protected by the White Knight in f3. } 2. Bd3 { Opening Principles suggests moving minor pieces like Bishops and Knights before major pieces like Rook and Queen. } 2... Nf6 { Other principles suggest moving Knights before Bishop but I disagree with it because there are well-known openings like Italian and Spanish games where the White Bishop in f1 is moved before the Knight in b1. } 3. O-O { Finally, the third goal of an opening is to remove the king from the lower/upper center of the chessboard and move it to the sides by castling with the protection of the rook.
+In this position, White Pawn control the squares c5, d5, e5, and f5, while the Black Pawn, on the edge of the board, only control the b5 and g5 squares. } { [%cal Gd4c5,Gd4e5,Ge4d5,Ge4f5,Ga6b5,Gh6g5] }
+1. Nf3 { The second principle involves the fast development of the pieces, but what exactly does that mean? At the beginning, on the chessboard, the only pieces that can be moved are pawns and knights, the latter are the only pieces capable of jumping another piece, all the others must wait for the movement of the pawns to be able to act. Unlike the game of draughts, when you start a chess game it is not necessary to move all the pawns first and then the major pieces, in fact, the opposite is true.
+Generally, an attempt is made to occupy the center with the central pawns not only to control it but also to open the diagonals to the bishops and the queen. } 1... Nc6 { Furthermore, it is possible and advisable to move the Knights right away to protect or attack the Pawn in the center. For example, in this position, Black Knight threatens the Pawn in d4 that is protected by the White Knight in f3. } { [%cal Gf3d4,Rc6d4] } 2. Bd3 { Opening Principles suggests moving minor pieces like Bishops and Knights before major pieces like Rook and Queen. } 2... Nf6 { Other principles suggest moving Knights before Bishop but I disagree with it because there are well-known openings like Italian and Spanish games where the White Bishop in f1 moves before the Knight in b1. } 3. O-O { Finally, the third goal of an opening is to remove the king from the center of the board and move it to the sides by castling with the protection of the rook.
 Also, remember that the Chess game is not the Game of Draughts. Initially, I thought I had to move all the pawns first, and then the major pieces. This is a huge mistake. Pieces such as Knights and Bishops can and must be moved in the early stages of a game. } *
 
 
@@ -52,12 +52,12 @@ Also, remember that the Chess game is not the Game of Draughts. Initially, I tho
 [FEN "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 1"]
 [SetUp "1"]
 
-{ When a game starts, the only pieces that you can move are the Pawns and Knights. A piece that cannot move becomes harmless for this reason, in the opening, an attempt is made to move the pieces in such a way as to give the various pieces as much mobility as possible. }
-1. d3 { In the diagram, the knight on f3 certainly enjoys greater mobility than the knight on b1. In fact, it defends the boxes in the center e5 and d4, it threatens the pawn on e5. In these conditions, it is said that the knight on f3 is active because it has a purpose that is to defend squares or threaten opposing pieces.
-Conversely, the Knight in b1 while it has a bit of mobility, it still does not have a purpose. In the opening phase, developing the Knight in b1 means giving it a purpose and a role, both active (threat) and passive (defense).
-Similarly, the bishop in c4 has great mobility on the a2-g8 and a6-f1 diagonals. Also, it threatens the pawn on f7. Hence it is a piece that has mobility and also plays an active role in the center of the board.
+{ When a game starts, the only pieces that you can move are the Pawns and Knights. A piece that cannot move becomes harmless. For this reason, in the opening, an attempt is made to move the pieces in such a way as to give the various pieces as much mobility as possible. }
+1. d3 { In the diagram, the knight on f3 certainly enjoys greater mobility than the knight on b1. In fact, it defends the d4, g5, and h4 squares and threatens the pawn on e5. In these conditions, it is said that the knight on f3 is active because it has a purpose that is to defend squares or threaten opposing pieces.
+Conversely, the Knight in b1 does not have a purpose. In the opening phase, developing the Knight in b1 means giving it a purpose and a role.
+Similarly, the bishop in c4 has great mobility on the a2-g8 and a6-f1 diagonals. He threatens the pawn on f7. Hence it is a piece that has mobility and also plays an active role in the center of the board.
 Conversely, the bishop on c1 is completely paralyzed and is useless at the moment for the purposes of the game.
-It is clear, therefore, that a piece that has mobility and purpose by playing an active role is a good piece, conversely, a piece that passively defends a piece or square or, worse still, a piece with no purpose or even immobile is a bad piece. The goal of an opening (but actually the whole game) is to develop the pieces in order to transform them from bad to good. } *
+It is clear, therefore, that a piece that has mobility and purpose by playing an active role is a good piece, conversely, a piece that passively defends a piece or square or, worse still, a piece with no purpose or even immobile is a bad piece. The goal of an opening (but actually the whole game) is to develop the pieces in order to transform them from bad to good. } { [%cal Gf3d4,Rf3e5,Gf3g5,Gf3h4,Gc4b3,Gc4a6,Rc4f7] } *
 
 
 [Event "Openings Goals and Principles: 7 Openings Principles"]
@@ -72,15 +72,15 @@ It is clear, therefore, that a piece that has mobility and purpose by playing an
 [FEN "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPP2PPP/RNBQ1RK1 b kq - 5 3"]
 [SetUp "1"]
 
-{ As already written above, for a beginner to memorize a large number of openings does not make sense. Much better to have in mind the goals mentioned above and the 7 principles which, in my opinion, if followed can give a great advantage.
+{ As already written above, for a beginner memorizing a large number of openings does not make sense. Much better to have in mind the goals mentioned above and the 7 principles which, in my opinion, if followed can give a great advantage.
 
-1. Control out the Center. This is the primary goal of an opening already explained in the previous chapter.
+1. Control the Center. This is the primary goal of an opening already explained in the previous chapter.
 2. Develop your Pieces. As described before, developing your own pieces in the opening phase means transforming a piece without a purpose and immobile into a piece with a very specific purpose (threat or defense) and with good mobility.
 3. Protect your King. Securing your King is the third goal of an Opening. Long or short castling is the way to do it. Here we add to do it before move 10.
-4. Don't move the Queen too soon. The Queen is the most powerful piece on the board and losing it can mean a major disadvantage during the game or even defeat. I have noticed that many beginners leave the game when they lose the Queen. To avoid losing it, wait to have developed all the minor pieces (Bishop and Knights) and perhaps to have protected the King with castling. When on the first rank you have only the Queen and the two Rooks then it may be the right time to move it applying the principle 5.
-5. Connect the two Rooks. After the castling, make sure that there are no other pieces between the two rooks so that they remain the last bastion of your defense. By linking them they will defend each other and defend the King. Also, they will prevent pawns from promoting each other. Furthermore, arranged on free columns, they can also play a powerful threatening role.
-6. Don't move the same piece before the move 10. This is a rule of thumb that doesn't always have to be followed. It has happened to me several times by moving the Knight twice to do a Knight Attack in the Italian Game with opponents with a rating of lower than 400 to gain great advantage. However, moving the same piece several times, in the beginning, can waste development "time" and give the opponent an advantage.
-7. Move the minor pieces first. At the beginning of the game, move only Pawns and Knights. Develop the first pawns so as to open the way for the Bishops who, generally, together with the Knights are considered the "minor pieces" and must be moved before more important pieces such as Queen and Rooks. The only exception to this rule is castling which, as mentioned above, moves the king and rook before move 10. Someone says to "move the knights before the bishops" but I disagree. It is true that moving the knight first is simpler but there are many solid openings (eg. Italian and Spanish games) where a bishop is developed before the second knight.
+4. Don't move the Queen too soon. The Queen is the most powerful piece on the board and losing it can mean a major disadvantage during the game or even defeat. I have noticed that many beginners leave the game when they lose the Queen. To avoid losing it, wait to have developed all the minor pieces (Bishop and Knights) and perhaps to have protected the King with castling. When on the first rank you have only the Queen and the two Rooks then it may be the right time to move it.
+5. Connect the two Rooks. After the castling, make sure that there are no other pieces between the two rooks so that they remain the last bastion of your defense. By linking them they will defend each other and defend the King. Also, they will prevent pawns from promoting. Furthermore, arranged on free columns, they can also play a powerful threatening role.
+6. Don't move the same piece before the move 10. This is a rule of thumb that doesn't always have to be followed. However, moving the same piece several times, in the beginning, can waste development "time" and give the opponent an advantage.
+7. Move the minor pieces first. At the beginning of the game, move only Pawns and Knights. Develop the first pawns so as to open the way for the Bishops who, generally, together with the Knights are considered the "minor pieces" and must be moved before more important pieces such as Queen and Rooks. The only exception to this rule is castling. Someone says to "move the knights before the bishops" but I disagree. It is true that moving the knight first is simpler but there are many solid openings (eg. Italian and Spanish games) where a bishop is developed before the second knight.
 
 Now that it is clear the Opening Goals and the 7 Principles that should govern it, the beginner has all the elements to start a game in a satisfactory way. However, while it is true that knowing all the Openings is a waste of time for a beginner, knowing a few can help him play with greater confidence and awareness. }
 *
@@ -118,7 +118,7 @@ Depending on whether White's first move to occupy the center is e4 or d4. Let's 
 [Annotator "https://lichess.org/@/sasadangelo"]
 
 { King's Openings are all those openings that start with White's move e4. The goal of this move is to start controlling the center and open the diagonal to the bishop in f1 and Queen in d1. Play e4. }
-1. e4 { Typically, Black responds with e5 with the same motivation. } 1... e5 { This positing is the starting point of all the King's Opening variations. } *
+1. e4 { Typically, Black responds with e5 with the same motivation. } { [%cal Gf1a6,Gd1h5] } 1... e5 { This positing is the starting point of all the King's Opening variations. } { [%cal Gf8a3,Gd8h4] } *
 
 
 [Event "Openings Goals and Principles: Two Knights Variation"]
@@ -134,7 +134,7 @@ Depending on whether White's first move to occupy the center is e4 or d4. Let's 
 [SetUp "1"]
 
 { One of the most important variation of the King's Opening is the Two Knights Variation. The reason why it is so important is that it is the starting point of important chess opening like the Italian and Spanish game. White's most common move at this point is Nf3 with the aim of attacking the pawn on e5. Play Nf3. }
-1. Nf3 { Black responds by defending the same pawn with Nc6. Thus we arrive at the following arrangement called King's Opening: Two Knights Variation, which will be the starting point of many openings like Italian and Spanish Games. } 1... Nc6 { This variation is called King's Opening: Two Knights Variation and it is the starting point for important openings like the Italian and Spanish game. } *
+1. Nf3 { Black responds by defending the same pawn with Nc6. Thus we arrive at the following arrangement called King's Opening: Two Knights Variation, which will be the starting point of many openings like Italian and Spanish Games. } { [%cal Rf3e5] } 1... Nc6 { This variation is called King's Opening: Two Knights Variation and it is the starting point for important openings like the Italian and Spanish game. } { [%cal Rf3e5,Gc6e5] } *
 
 
 [Event "Openings Goals and Principles: Weak Pawns in f3 and f7"]
@@ -164,9 +164,9 @@ Depending on whether White's first move to occupy the center is e4 or d4. Let's 
 [Annotator "https://lichess.org/@/sasadangelo"]
 
 { Queen's Openings are all those openings that start with White's move d4. The goal of this move is to start controlling the center and open the diagonal to the bishop in c1 and file for Queen in d1. Play d4. }
-1. d4 { This opening is slower in development compared to the King's one because the Queen can only move in vertical since the diagonals are blocked by the pawns in 2 and e2. } 1... d5 { Black replies with d5 to control the e4 square and avoid the White move e4 controlling the center. From this position the most played opening for White is the Queen Gambit. The most common version of the Queen Gambit depends on the Black replies and could be:
+1. d4 { This opening is slower in development compared to the King's one because the Queen can only move in vertical since the diagonals are blocked by the pawns in c2 and e2. } { [%cal Gc1h6,Gd1d3] } 1... d5 { Black replies with d5 to control the e4 square and avoid the White move e4 controlling the center. From this position the most played opening for White is the Queen Gambit. The most common version of the Queen Gambit depends on the Black replies and could be:
 - Queen Gambit accepted
 - Queen Gambit declined
-However, Black can reply with the Slav or Semi-Slav Defense and other variations. } *
+However, Black can reply with the Slav or Semi-Slav Defense and other variations. } { [%cal Gd8d5,Gc8h3] } *
 
 
