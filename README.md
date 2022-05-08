@@ -23,4 +23,5 @@ TODO
 
 ### End games
 
-TODO
+1. **Queen vs King End Game**: [Lichess study](https://lichess.org/study/9RJZi3rc) | [PDF](studies/queen_vs_king_endgame.pdf) | [Tex](studies/queen_vs_king_endgame.tex) | [PGN](studies/queen_vs_king_endgame.pgn) | [Images](studies/queen_vs_king_endgame)
+2. **Two Rooks vs King End Game**: [Lichess study](https://lichess.org/study/w4XIVyGB) | [PDF](studies/two_rooks_king_end_game.pdf) | [Tex](studies/two_rooks_king_end_game.tex) | [PGN](studies/two_rooks_king_end_game.pgn) | [Images](studies/two_rooks_king_end_game)
