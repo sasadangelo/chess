@@ -1,0 +1,121 @@
+[Event "Rook vs King End Game: Introduction"]
+[Site "https://lichess.org/study/IJ2Eu2as/faHKZfxH"]
+[Result "*"]
+[UTCDate "2022.05.13"]
+[UTCTime "12:49:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "7k/5K2/6R1/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Rook vs King End Game is a bit harder than the Two Rooks vs King and Queen vs King End Games, however, if you understand how to play it, it is very easy. Unless White doesn't blunder White (or Black if Rook and King are Black) should win the game. In order to do that, he must follow seven important rules:
+1. King must be always close to the Rook to protect it.
+2. Push the opponent's king towards one of the four board edges.
+3. Push the opponent's king towards one of the two edge corners.
+4. Put the King in g3-f2, c2-b3, b6-c6, or g6-f7 depending on the corner where is the opponent's King.
+5. Checkmate with a Rook.
+6. If you can't give Checkmate with the Rook gain a tempo with the Rook.
+7. Avoid the Stalemate.
+
+In order to learn how to apply these seven rules, let's start from the final position. }
+*
+
+
+[Event "Rook vs King End Game: Checkmate with the Rook (Example 1)"]
+[Site "https://lichess.org/study/IJ2Eu2as/WcoVgR9A"]
+[Result "*"]
+[UTCDate "2022.05.15"]
+[UTCTime "13:24:19"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "6k1/5R2/6K1/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Let's start the study with a possible final position. The Black King is in the 8th rank near the h8 corner. White Rook is in the 7th rank and White King in the 6th rank blocking the opponent's King. Black King can only move in h8. }
+1... Kh8 { Rook is ready to give checkmate with Rf8#. Play Rf8#. } 2. Rf8# { Congratulations! Checkmate. } *
+
+
+[Event "Rook vs King End Game: Checkmate with the Rook (Example 2)"]
+[Site "https://lichess.org/study/IJ2Eu2as/Sibc8NmA"]
+[Result "*"]
+[UTCDate "2022.05.15"]
+[UTCTime "13:25:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/5K1k/6R1/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+
+{ Let's invert now the White Rook and King position. The rule is the same. Black is force to move Kh8. }
+1... Kh8 { White give checkmate with Rh6#. Play Rh6#. } 2. Rh6# { Congratulations! Checkmate. } *
+
+
+[Event "Rook vs King End Game: Gain a Tempo"]
+[Site "https://lichess.org/study/IJ2Eu2as/kcKOTZqi"]
+[Result "*"]
+[UTCDate "2022.05.15"]
+[UTCTime "13:30:59"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "6k1/5R2/6K1/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Let's suppose we are again in Example 1 position but now it's White turn. To give checkmate White must gain a tempo over the Black. What does it mean? Simply White do a neutral move that doesn't alter the position on the chessboard but allow to the White to gain a tempo over Black. Play Rf6. }
+1. Rf6 { Black is forced to move Kh8. } 1... Kh8 { White is ready to give checkmate with Rf8#. Play Rf8#. } 2. Rf8# { Congratulations! Checkmate. A similar thing can be done with Example 2 with White turn to move. } *
+
+
+[Event "Rook vs King End Game: Push the King towards the edge"]
+[Site "https://lichess.org/study/IJ2Eu2as/aHP5xBt5"]
+[Result "*"]
+[UTCDate "2022.05.13"]
+[UTCTime "12:59:22"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/8/8/4R3/2k5/6K1/8 w - - 1 1"]
+[SetUp "1"]
+
+{ Let's start from this position and let's see how to push the opponent's King towards one of the edge. It's important to remember that White King and Rook must always be very close to each other. Suppose we want to push the Black King towards the 8th rank. Play Re2. }
+1. Re2 { Notice how White Rook and King are not very close and that the Rook restrict the area where the Black King can move. } { [%cal Re2a2,Re2e8] } 1... Kd3 { Black King try to threaten the White Rook to capture it to the next move. Play Kf2 to protect the Rook. } { [%cal Re2e8,Re2a2] } 2. Kf2 { Black King now is forced to move away from the White Rook. } { [%cal Re2e8,Re2a2,Gf2e2] } 2... Kd4 { Black King moves in d4. White Rook can reduce the Black King motion area moving on e3. Play Re3. } { [%cal Re2e8,Re2a2,Gf2e2] } 3. Re3 { White Rook move in e3 in a square close to the White King. Rook is protected by the King and he restricted the area where Black King can move. } { [%cal Re3e8,Re3a3,Gf2e3] } 3... Kc4 { Black King moves Kc4. White Rook cannot move away from his King, for this reason, White King should move close to the opponent's King. Play Ke2. } { [%cal Re3e8,Re3a3,Gf2e3] } 4. Ke2 { White Rook and King are very close and there is no risk for White. } { [%cal Re3e8,Re3a3,Ge2e3] } 4... Kb4 { Black King moves back to b4. White Rook can now reduce again the Black King motion area. Play Rd3. } { [%cal Re3e8,Re3a3,Ge2e3] } 5. Rd3 { Noticed how the red area is becoming smaller at every move. } { [%cal Rd3d8,Rd3a3,Ge2d3] } 5... Kb5 { Let's suppose now Black King moves in 5th rank with Kb5. Before White Rook can move in 4th rank, White King must go on the 3rd rank with Ke3. Play Ke3. } { [%cal Rd3d8,Rd3a3,Ge2d3] } 6. Ke3 { There is no change in the read area but White is preparing to reduce it at every move. } { [%cal Rd3d8,Rd3a3,Ge3d3] } 6... Kc4 { Black King can move again close to the White Rook with Kc4. In this position, White King must move with Ke4 to gain a tempo over the Black King. Play Ke4. } { [%cal Rd3d8,Rd3a3,Ge3d3] } 7. Ke4 { Now Black King is forced to move away from the White Rook. } { [%cal Rd3d8,Rd3a3,Ge4d3] } 7... Kc5 { Black King move up again with Kc5. White Rook can restrict the Black King motion area with Rd4. Play Rd4. } { [%cal Rd3d8,Rd3a3,Ge4d3] } 8. Rd4 { Notice how this end game is slower than the one with Queen or Two Rooks vs King. } { [%cal Rd4d8,Rd4a4,Ge4d4] } 8... Kb6 { Black King moves Kb6. White Rook moves Rd5 and restrict again the Black King's motion area. Play Rd5. } { [%cal Rd4d8,Rd4a4,Ge4d4] } 9. Rd5 { Red area is becoming smaller. } { [%cal Rd5d8,Rd5a5,Ge4d5] } 9... Kc7 { Black King moves Kc7. Move Ke5 before move again the White Rook. Play Ke5. } { [%cal Rd5d8,Rd5a5,Ge4d5] } 10. Ke5 { The end game is progressing. } { [%cal Rd5d8,Rd5a5,Ge5d5] } 10... Kc8 { Black King moves Kc8. White Rook moves up and reduce again the Black King's motion area. Play Rd6. } { [%cal Rd5d8,Rd5a5,Ge5d5] } 11. Rd6 { Now Black King is in 8th rank but it is not yet force to stay there. } { [%cal Rd6d8,Rd6a6,Ge5d6] } 11... Kc7 { Black King moves Kc7 trying to threaten the White Rook defended by the White King. White King moves Ke6. Play Ke6. } { [%cal Rd6d8,Rd6a6,Ge5d6] } 12. Ke6 { We have almost completed the push. } { [%cal Rd6d8,Rd6a6,Ge6d6] } 12... Kc8 { Black King moves again Kc8. White Rook moves Rd7 and force the Black King on the 8th rank. Play Rd7. } { [%cal Rd6d8,Rd6a6,Ge6d6] } 13. Rd7 { White Rook is still defended by the White King. Now it's time to force the Black King towards one of the two corners. } { [%cal Rd7d8,Rd7a7,Ge6d7] } *
+
+
+[Event "Rook vs King End Game: Push the King toward the corner"]
+[Site "https://lichess.org/study/IJ2Eu2as/rUKlGQji"]
+[Result "*"]
+[UTCDate "2022.05.13"]
+[UTCTime "13:37:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "2k5/3R4/4K3/8/8/8/8/8 b - - 26 13"]
+[SetUp "1"]
+
+{ Now our goal is to push the Black King in one of the two corner in the 8th rank. The corner a8 is the best option now. Black King is forced to move Kb8. } { [%cal Rd7d8,Rd7a7,Ge6d7] }
+13... Kb8 { Now the push can start playing Kd6. Play Kd6. } { [%cal Rd7d8,Rd7a7,Ge6d7] } 14. Kd6 { Black King moves Kc8. } { [%cal Rd7d8,Rd7a7,Gd6d7] } 14... Kc8 { The only possible move for White is Kc6 to keep the Black King trapped in the a8, b8, c8 squares. } { [%cal Rd7d8,Rd7a7,Gd6d7] } 15. Kc6 { Black King is force to move Kb8. } { [%cal Rd7d8,Rd7a7,Gc6d7] } 15... Kb8 { Now White Rook can move and reduce the red area and push the Black King towards the a8 corner. Play Rc7. } { [%cal Rd7d8,Rd7a7,Gc6d7] } 16. Rc7 { Black King is force to move Ka8. } { [%cal Rc7c8,Rc7a7,Gc6c7] } 16... Ka8 { White must pay attention to avoid the stalemate. The way to do it is to have the King in b6 and the Rook in c7 as described in the previous chapters. Play Kb6. } { [%cal Rc7c8,Rc7a7,Gc6c7] } 17. Kb6 { Black King play Kb8. } { [%cal Rc7c8,Rc7a7,Gb6c7] } 17... Kb8 { We are in the final position we saw in the previous chapters and it is White turn. We know that, under these circumstances, White must gain a tempo over the Black. White gain a tempo with Rc6. Play Rc6. } { [%cal Rc7c8,Rc7a7,Gb6c7] } 18. Rc6 { Notice how the squares a7, b7, c7 are always controlled by the White King and Black King is force now in a8. } { [%cal Rc6c8,Gb6a7,Gb6b7,Gb6c7] } 18... Ka8 { Now we are ready to give checkmate with Rc8#. Play Rc8#. } { [%cal Rc6c8,Gb6a7,Gb6b7,Gb6c7] } 19. Rc8# { Congratulations! Checkmate. } *
+
+
+[Event "Rook vs King End Game: Avoid the Stalemate"]
+[Site "https://lichess.org/study/IJ2Eu2as/Gwnp2pDd"]
+[Result "*"]
+[UTCDate "2022.05.15"]
+[UTCTime "13:15:09"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "1k6/2R5/1K6/8/8/8/8/8 b - - 3 2"]
+[SetUp "1"]
+
+{ Let's suppose we are again in this position, it is Black turn and Black King move Ka8. }
+2... Ka8 { In this position, it's important to avoid the move Rb7 because it is stalemate. Play Rb7 to verify it. } 3. Rb7 { It's draw because it's stalemate. } *
+
+
