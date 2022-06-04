@@ -1,0 +1,65 @@
+[Event "Chess Notation: Introduction"]
+[Site "https://lichess.org/study/ezdKJ7Di/9NLD1jo2"]
+[Result "*"]
+[UTCDate "2022.06.04"]
+[UTCTime "11:13:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ There are different types of chess notation, but the easiest one to learn is algebraic notation. In algebraic notation, each piece is designated a letter.
+
+King=K
+Queen=Q
+Rook=R
+Bishop=B
+Knight=N (K is already taken by the king)
+
+For capturing, simply put an “x” between the letter designating which piece is moving and the square the piece has moved to.
+
+Careful! If you are trying to capture with a pawn on square d5, do not simply write “xd5”. Make sure you put the file the pawn was originally on before the x when you write the move (the move now would be written “cxd5” or “exd5,” depending on which file the pawn was on).
+
+The pawn does not get a letter.
+
+To write a move, you write the letter of the piece moving and then the square it moves to. }
+*
+
+
+[Event "Chess Notation: Special Symbol in Chess Notation"]
+[Site "https://lichess.org/study/ezdKJ7Di/1EJLV4nm"]
+[Result "*"]
+[UTCDate "2022.06.04"]
+[UTCTime "11:13:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ There are a few other notation symbols that must be explained.
+
+- Kingside Castling: O-O
+- Queenside Castling: O-O-O
+- Check: +
+- Checkmate: # }
+*
+
+
+[Event "Chess Notation: Special Rules to solve Ambiguity"]
+[Site "https://lichess.org/study/ezdKJ7Di/w8OboBCd"]
+[Result "*"]
+[UTCDate "2022.06.04"]
+[UTCTime "11:13:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/2p3pp/5p2/3pp3/1N6/2N5/6PP/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ If there are two pieces that can move or capture to same square, simply write the file for which piece moved. If two pieces are on the same file, write the rank from which the piece moved.
+
+Tip: Remember that files are designated by the letters a-h and ranks are designated by the numbers 1-8. }
+*
+
+

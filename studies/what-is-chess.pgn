@@ -1,0 +1,332 @@
+[Event "What is Chess?: What is Chess?"]
+[Site "https://lichess.org/study/IJpFEM89/Poxasgpj"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ Chess is a game of war, invented over 1300 years ago in the country of India under the name Chaturanga. Over the years, it changed names; the rules changed, and eventually became the chess we know today.
+
+Chess is a battle of the minds. Two people face off against each other on a checkered 64-square board, each controlling their own 16 piece army — one White, one Black — their armies consisting of 1 King, 1 Queen, 2 Rooks, 2
+Bishops, 2 Knights, and 8 Pawns. }
+*
+
+
+[Event "What is Chess?: Goal of the Game"]
+[Site "https://lichess.org/study/IJpFEM89/zOmh8G9G"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ The goal of chess is to “checkmate” your opponent’s King. Checkmate occurs when the “checked” king is unable to escape “check” from the opposing army.
+
+When the King is in check, he MUST get out of check! The King can NEVER move to a square where he is attacked. Checkmate is check PLUS the King is trapped: it can’t move, block, or capture the attacking piece. If you are in check, your only options are ABC (Avoid [move], Block, or Capture) }
+*
+
+
+[Event "What is Chess?: Chessboard"]
+[Site "https://lichess.org/study/IJpFEM89/j0ziqvBr"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ The board has 64 squares, called “light” and “dark” squares. The horizontal rows are called “ranks,” and are numbered 1 through 8. The vertical columns are called “files,” and are given letters a through h. Each squares has a name, based on the rank and file to which the square belongs. For example, “e4”. White sets up on the first and second ranks, black on the seventh and eighth. Make sure both sides have a white square in the right-hand corner! }
+*
+
+
+[Event "What is Chess?: The Pieces and their Value"]
+[Site "https://lichess.org/study/IJpFEM89/8Lqfw0eK"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/8/2p5/4p3/4P3/2P5/8/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+{ Only the Knight can jump. Notice that the Knight always jumps from a light square to a dark square or vice versa. Bishops spend the whole game on the same color square. Initial placement on the board:
+
+- Queen on her own color, or queens on the d-file, like “diamonds.”
+- Kings and queens across from each other.
+- Bishops are close advisers to the King and Queen explain kingside vs. queenside.
+
+Each piece has a value in pawns. This number is indicative and doesn't have any role to win or lose a game. It is only useful to understand who has an advantage in terms of materials. Here the values:
+
+- Queen = 9 pawns
+- Rook = 5 pawns
+- Bishop = 3 pawns
+- Knight = 3 pawns
+- Pawn = 1 pawn
+
+If you sum the value of pieces captured by both the players you know who is in advantage. Mention that the king is PRICELESS because he can never be removed from the board! (In the endgame, the king is often said to have 3 or 4 points in fighting value).
+
+Why are Bishops and Knights roughly equal in value? The Bishop can move from one side of the board to the other quickly, but the Knight can jump over pieces and visit all 64 squares.
+
+“Bishops are like dogs, Knights are like cats.” — GM Dmitry Gurevich.
+
+Important idea: pieces can become more or less valuable depending on their position. }
+*
+
+
+[Event "What is Chess?: Piece Movements"]
+[Site "https://lichess.org/study/IJpFEM89/7ZWqY7rs"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ White moves first, then each side alternates. You can only move one piece at a time (exception — castling, covered later). To move, just pick up the piece and put it where you want! If capturing, start with piece you are moving (not piece to be captured) Only one piece on a square. THINK BEFORE YOU MOVE! }
+*
+
+
+[Event "What is Chess?: The Pawn"]
+[Site "https://lichess.org/study/IJpFEM89/hLgKAaLG"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/pppppppp/8/8/8/8/PPPPPPPP/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ A Pawn can only move one square forwards at a time however, on its first move, it may move two squares if desired. Otherwise, the pawn only gets to advance one square each move }
+*
+
+
+[Event "What is Chess?: Capturing with Pawn"]
+[Site "https://lichess.org/study/IJpFEM89/PxhVj7cX"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/8/8/3pn3/3P4/8/8/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ The Pawn is unique because it is the only chess piece that captures differently than its regular move. A Pawn may capture an opposing piece that is diagonally ahead one square and then take its place. } { [%cal Gd4e5] }
+1. dxe5 { White Pawn captured the opponent's Knight. } *
+
+
+[Event "What is Chess?: Pawn Promotion"]
+[Site "https://lichess.org/study/IJpFEM89/pLvlOYPa"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/P7/8/8/8/8/8/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ When a Pawn reaches the end of the board, they may promote and become either a Knight, Bishop, Rook, or Queen. A Pawn may promote to any of those four pieces regardless of what is still on the chessboard. }
+1. a8=Q+ { White Pawn promotes to Queen and now it is checking the opponent's King. } *
+
+
+[Event "What is Chess?: The Knight"]
+[Site "https://lichess.org/study/IJpFEM89/zfajz9ct"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/8/3p4/3nnpb1/4N3/8/8/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ Out of all the chess pieces, the Knight has the most interesting way to move. It may jump over pieces, and it moves in an “L” shape. Let's try it capturing the Black Bishop. Play Nxg5. } { [%cal Ge4g5] }
+1. Nxg5 { White Knight captured the Black Bishop moving in "L" shape. } *
+
+
+[Event "What is Chess?: The Bishop"]
+[Site "https://lichess.org/study/IJpFEM89/t1GBVo01"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/8/1p3pr1/8/4B3/8/5P1P/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ The Bishop can move only diagonally, each side has 2 Bishops, one on black squares and one on white squares. The Bishops (and Kings) on their starting squares. Each side has one light squared Bishop and one dark-squared Bishop. } { [%cal Ge4g6,Ge4b1,Ge4a8,Ge4h1] }
+1. Bxg6+ { White Bishop captured the Black Rook and now it is checking the opponent's King. } *
+
+
+[Event "What is Chess?: The Rook"]
+[Site "https://lichess.org/study/IJpFEM89/8u6pVTY9"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/3p4/4p3/1b4R1/8/8/8/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ The Rook can move forward, backward, and side to side. Let's see an example. } { [%cal Gg5g8,Gg5g1,Gg5h5,Gg5b5] }
+1. Rxb5 { Rook moved horizontally on the left capturing the Black Bishop. } *
+
+
+[Event "What is Chess?: The Queen"]
+[Site "https://lichess.org/study/IJpFEM89/GtgUhULF"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k1n1/2b5/8/3Q2p1/5p2/8/8/4K3 w - - 0 1"]
+[SetUp "1"]
+
+{ Queen is the most powerful piece in Chess. A player who lost a Queen usually resign immediately. Queen combines the Rook and Bishop movement. It can move forward, backward, and side to side like the Rook. Like a Bishop it can move diagonally, however, the difference with Bishop is that Queen can change square color at any time. } { [%cal Gd5d8,Gd5d1,Gd5a5,Gd5g5,Gd5g8,Gd5a8,Gd5h1,Gd5a2] }
+1. Qxg8+ { Queen captured the Black Knight and it is checking the opponent's King. } *
+
+
+[Event "What is Chess?: The King"]
+[Site "https://lichess.org/study/IJpFEM89/x5RISKD6"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/8/3r4/5rp1/4K3/6P1/3P1P1P/8 w - - 0 1"]
+[SetUp "1"]
+
+{ The King is the head of both armies. It has infinite value, because if the king is lost, the game is lost. The King can move one square in any direction however, the king may not move to a square where it would be attacked. For example, in this position the King cannot move in d3, d4, and d5 because controlled by Black Rook in d6. Moreover, it cannot move in e4 and e3 because they are controlled by Black Rook in f5. } { [%csl Ge4][%cal Ge4f5,Ge4e5,Ge4e3,Re4d5,Re4d4,Re4d3,Re4f4,Re4f3] }
+1. Kxf5 { Remember kings can only capture pieces if they are not protected by another piece. } *
+
+
+[Event "What is Chess?: En passant"]
+[Site "https://lichess.org/study/IJpFEM89/VPl1iuU7"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/3p4/8/2P5/8/8/8/4K3 b - - 0 1"]
+[SetUp "1"]
+
+{ En Passant (French for “In passing") is a special move that Pawns can make under certain circumstances. A Pawn may capture “en passant” if an opposing pawn moves two squares to arrive next to it (see diagrams). Even though the Pawn that advanced is not under attack, en passant allows it to be taken. This capture must happen immediately. }
+1... d5 { White can play En Passant with cxd6. Play cxd6. } (1... d6 { [%cal Gc5d6] }) 2. cxd6 { Black pawn was captured with the En Passant. } (2. Kd2 Kd7 { [%cal Gc5d6] }) *
+
+
+[Event "What is Chess?: Check and Checkmate"]
+[Site "https://lichess.org/study/IJpFEM89/h0xSQE7S"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ When a King comes under attack by an opposing piece, it is called “check”. If possible, the King must get out of check his next turn. If this is not possible, the King cannot escape and “checkmate” occurs. If a king is checkmated, the game ends and the side with the checkmated King loses. Let's see an example of King that escape from a check. Play e4. }
+1. e4 { King's opening started. } { [%csl Ge4] } (1. f4 e6 2. g4 Qh4#) 1... d6 { Black replies with d6. White immediately plays Bb5+ checking the opponent's King. Play Bb5+. } 2. Bb5+ { Black avoid checkmate playing Bd7. } 2... Bd7 { Black avoided the checkmate. } *
+
+
+[Event "What is Chess?: How to Escape Check"]
+[Site "https://lichess.org/study/IJpFEM89/p8bsAUng"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/p7/1pbp4/8/8/3k2P1/5PKP/2R5 w - - 0 1"]
+[SetUp "1"]
+
+{ A player can escape from a check in three ways:
+
+- A - Avoid. Move the king to a safe square
+- B - Block. Blocking the attacking piece
+- C - Capture. Capture the attacking piece
+
+White King is under check by the Black Bishop. White can escape from it capturing the Bishop with the Rook. Play Rxc6. }
+1. Rxc6 { White is not under attack anymore. } *
+
+
+[Event "What is Chess?: Checkmate and Stalemate"]
+[Site "https://lichess.org/study/IJpFEM89/ofDHTvM9"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ Checkmate occurs when a King cannot escape check by using one of the three methods.
+
+Stalemate occurs when an army has no legal moves yet the king is not currently in check. If stalemate occurs, the game is a tie. }
+*
+
+
+[Event "What is Chess?: Other Ways a Chess Game can End"]
+[Site "https://lichess.org/study/IJpFEM89/8zr8CXhM"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ There are a few other ways a chess game can end besides checkmate and stalemate. The game ends in a draw (a tie) if:
+
+- The same position is repeated three times (not necessarily in order).
+- 50 moves play out without a Pawn capture.
+- 50 moves play out where one side has only a King
+- White and Black draw by mutual agreement. }
+*
+
+
+[Event "What is Chess?: Castling"]
+[Site "https://lichess.org/study/IJpFEM89/zq04OcEH"]
+[Result "*"]
+[UTCDate "2022.06.03"]
+[UTCTime "08:51:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/8/8/8/8/8/8/4K2R w K - 0 1"]
+[SetUp "1"]
+
+{ Castling involves the King and a Rook, and it is the only move in chess where two pieces can move at once. The King moves two squares to either the right or left of his starting square and the rook jumps over the king so they are next to each other. Castling is important because it enables the king to go to a safer place while bringing a rook to a more active place on the chessboard. Let's see an example, play O-O. }
+1. O-O { Castling completed. The same is on the queenside. A Castling is possible if:
+- King and the Rook must not have moved from their starting squares beforehand (the other rook could have moved).
+- King cannot castle out of check.
+- King cannot pass through check or land in check when castling occurs.
+- The path must be completely clear between the King and the Rook concerned (if any piece is in the way, castling cannot happen). } *
+
+
