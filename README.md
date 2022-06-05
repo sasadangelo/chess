@@ -11,6 +11,11 @@ TBD
 
 ## My Chess Studies
 
+## Introduction
+
+1. **What is Chess?**: [Lichess study](https://lichess.org/study/IJpFEM89) | [PDF](studies/what-is-chess.pdf) | [Tex](studies/what-is-chess.tex) | [PGN](studies/what-is-chess.pgn) | [Images](studies/what-is-chess)
+2. **Chess Notation**: [Lichess study](https://lichess.org/study/ezdKJ7Di) | [PDF](studies/chess-notation.pdf) | [Tex](studies/chess-notation.tex) | [PGN](studies/chess-notation.pgn) | [Images](studies/chess-notation)
+
 ### Openings
 
 1. **Openings Goals and Principles**: [Lichess study](https://lichess.org/study/IreRnAsc) | [PDF](studies/openings_goals_and_principles.pdf) | [Tex](studies/openings_goals_and_principles.tex) | [PGN](studies/openings_goals_and_principles.pgn) | [Images](studies/openings_goals_and_principles)
