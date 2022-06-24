@@ -1,0 +1,120 @@
+[Event "Two Bishops vs King End Game: Introduction"]
+[Site "https://lichess.org/study/4MXMBxiS/DIfn7q0L"]
+[Result "*"]
+[UTCDate "2022.05.31"]
+[UTCTime "16:13:49"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/3k4/8/8/2B2B2/1K6/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Two Bishops vs King End Game is not a very frequent end game and it is hard to play if you don't know how to approach it. Unless White doesn't blunder, White (or Black if the Two Bishops and King are Black) should win the game. In order to do that, he must follow six important rules:
+1. King must be always be close to the Two Bishops to protect them.
+2. Push the opponent's king towards one of the four board edges.
+3. Push the opponent's king towards one of the two edge's corners.
+4. Put the King in b3, g3, b6, or g6 depending on the corner where you want to push the opponent's King.
+5. Checkmate with the Two Bishops.
+6. Avoid the Stalemate gaining a tempo.
+
+In order to learn how to apply these six rules, let's start from the final position. }
+*
+
+
+[Event "Two Bishops vs King End Game: Checkmate with the Two Bishops (Example 1)"]
+[Site "https://lichess.org/study/4MXMBxiS/MkfqNw03"]
+[Result "*"]
+[UTCDate "2022.05.31"]
+[UTCTime "16:18:54"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "6k1/3BB3/6K1/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ Black King is in the h8 corner and it can only move on g8-h8. White King is in one of its key square g6 (or b6, b3, or g3). White King controls the squares in front of the Black King. One Bishop must be in e7 to block the Black King move in the f8 square. The Two Bishops can freely move on the diagonals tracked by the green arrows. In this position White force a checkmate in two moves. Play Be6+. } { [%cal Gd7c8,Gd7h3,Ge7d8,Ge7h4,Gg6f7,Gg6g7,Gg6h7] }
+1. Be6+ { Black is forced to move Kh8. } 1... Kh8 { White checkmate with Bf6#. Play Bf6#. } 2. Bf6# { Congratulations! Checkmate. } { [%csl Gg6] } *
+
+
+[Event "Two Bishops vs King End Game: Checkmate with the Two Bishops (Example 2)"]
+[Site "https://lichess.org/study/4MXMBxiS/LV05A9Ib"]
+[Result "*"]
+[UTCDate "2022.05.31"]
+[UTCTime "16:25:22"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "1k6/4B3/1K2B3/8/8/8/8/8 w - - 3 2"]
+[SetUp "1"]
+
+{ In this position, the scenario is similar to Example 1. White King controls the squares in front of the Black King. The Two Bishops controls the two diagonals marked by the green arrows. Black King can only move in a8-b8. White checkmate in two moves. Play Bd6+. } { [%cal Ge6c8,Ge7d8,Ge6h3,Ge7h4,Gb6a7,Gb6b7,Gb6c7] }
+2. Bd6+ { Black is forced to move Ka8. } 2... Ka8 { White checkmate with Bd5#. Play Bd5#. } 3. Bd5# { Congratulations! Checkmate. } *
+
+
+[Event "Two Bishops vs King End Game: Avoid Stalemate gaining a tempo"]
+[Site "https://lichess.org/study/4MXMBxiS/6Gix0ld2"]
+[Result "*"]
+[UTCDate "2022.05.31"]
+[UTCTime "16:30:38"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "6k1/3BB3/6K1/8/8/8/8/8 b - - 6 3"]
+[SetUp "1"]
+
+{ Suppose we are in the same position of Example 1 but it is Black move. Black can only play Kh8. }
+3... Kh8 { If White play Be6 it is stalemate. To avoid this White must gain a tempo moving its White Bishop on the diagonal marked by the green arrow. Play Bc6. } { [%cal Gd7e8,Gd7a4] } 4. Bc6 { Now Black King move again in g8. } 4... Kg8 { White can start to give checkmate in two moves. Play Bd5+. } 5. Bd5+ { Black move again in h8. } 5... Kh8 { White checkmate with Bf6#. Play Bf6#. } 6. Bf6# { Congratulations! Checkmate. } *
+
+
+[Event "Two Bishops vs King End Game: Push the King towards the edge"]
+[Site "https://lichess.org/study/4MXMBxiS/2ulik89T"]
+[Result "*"]
+[UTCDate "2022.05.31"]
+[UTCTime "16:44:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/3k4/8/8/1K3B2/3B4/8 w - - 12 6"]
+[SetUp "1"]
+
+{ The goal of this chapter is to explain how to push the opponent King towards an edge starting from a random position. As first step, it's important to have the Two Bishops next each other with the King next to them. The goal for Black is to impede this. Play Be2. }
+6. Be2 { Notice how the Two Bishops are one next each other protect the squares in front of them. In this configuration, the Black King cannot get close to them. Moreover, the Two Bishops create a triangle from which the Black King cannot escape. It's important to move the White King next to the Two Bishops on one of the two side. For the moment, it's not important if you put the King on the left or right of the Two Bishops. } { [%cal Gd2c3,Gd2e3,Ge2d3,Ge2f3,Gd2a5,Ge2a6,Gd2h6,Ge2h5] } 6... Kc5 { The Black King, on the other hand, try to get close to the green arrows to escape from the Bishops triangle. Play Kc2. } { [%cal Gd2a5,Ge2a6,Gd2h6,Ge2h5,Gd2c3,Ge2d3,Gd2e3,Ge2f3] } 7. Kc2 { White King, in the meanwhile, go on the c2 square next to the two Bishops. } { [%cal Gd2a5,Ge2a6,Gd2h6,Ge2h5,Gd2c3,Ge2d3,Gd2e3,Ge2f3] } 7... Kd4 { Black King continue to move near the Bishops very close to the triangle vertex. White Bishops and King are ready to move forward. It's important to move the Bishops in a way that White King cannot escape from the green triangle. Let's see some examples. In this position, when the Black King is in front of the Bishop in the middle, the best move for White is Bd3. Play Bd3. } { [%cal Gd2a5,Ge2a6,Gd2h6,Ge2h5,Gd2c3,Ge2d3,Gd2e3,Ge2f3] } 8. Bd3 { Black King is forced to go back on c5, d5, or e5. Let's suppose Black King goes on d5. } { [%cal Gd2a5,Gd2c3,Gd2e3,Gd3a6,Gd2h6,Gd3h7,Gd3c4,Gd3e4] } 8... Kd5 { White is ready to advance the second Bishop next to the first one on the right. Play Be3. } { [%cal Gd3a6,Gd2a5,Gd3h7,Gd2h6,Gd3c4,Gd3e4,Gd2c3,Gd2e3] } 9. Be3 { In this position, Back King can go on e5, c6, d6, or e6. Let's suppose it goes on e5. } { [%cal Gd3a6,Gd3h7,Gd3c4,Gd3e4,Ge3a7,Ge3h6,Ge3d4,Ge3f4] } 9... Ke5 { It's important here advance the White King on the same rank of the Two Bishops. Play Kc3. } { [%cal Gd3c4,Gd3e4,Ge3d4,Ge3f4,Gd3a6,Gd3h7,Ge3h6,Ge3a7] } 10. Kc3 { Black King move back on e6. } { [%cal Gd3a6,Gd3c4,Gd3h7,Gd3e4,Ge3a7,Ge3h6,Ge3f4] } 10... Ke6 { In this position, Black King is two square away from White pieces and it is not very close to the green arrows. When this occurs, it's better to advance the White King to avoid the Black one get close to the advanced Bishop threatening it. Play Kd4. } { [%cal Gd3a6,Gd3h7,Gd3c4,Gd3e4,Ge3a7,Ge3h6,Ge3f4] } 11. Kd4 { As you can notice, Black King cannot advance and it is forced to go back or left/right. Let's suppose Black King goes in f6. } { [%cal Gd3a6,Gd3c4,Gd3h7,Ge3d4,Gd3e4,Ge3h6,Gd4c5,Gd4d5,Gd4e5,Ge6d7,Ge6e7,Ge6f7,Ge6f6,Ge6d6] } 11... Kf6 { White can play Be4. Play Be4. } { [%cal Gd3a6,Gd3c4,Gd3h7,Gd3e4,Ge3h6,Ge3d4,Ge3f4,Gd4c5,Gd4d5,Gd4e5] } 12. Be4 { Black King cannot escape and can only go back or on the right. Let's suppose it goes back in e7. } { [%cal Ge4a8,Ge4d5,Ge4h7,Ge3h6,Ge3d4,Gd4c5,Gd4d5,Gd4e5] } 12... Ke7 { White move the second Bishop to form again the triangle. Play Bf4. } { [%cal Ge3d4,Gd4c5,Gd4d5,Gd4e5,Ge3h6,Ge3f4,Ge4h7,Ge4a8] } 13. Bf4 { Black King move now in d7. } { [%cal Gf4b8,Gf4e5,Ge4f5,Ge4a8,Ge4h7,Gf4h6,Gf4g5,Ge4d5] } 13... Kd7 { When Black King is very close to the green arrow you must pay attention to avoid move that let it escape. In these conditions, it's better advance the White King to control the squares in front of the Black King. } { [%cal Ge4a8,Ge4d5,Ge4h7,Ge4f5,Gf4b8,Gf4g5,Gf4e5,Gf4h6] } 14. Kd5 { Black King can only move back or on the left. Let's suppose it move in e7. } { [%cal Ge4d5,Gd5c6,Gd5d6,Gd5e6,Ge4h7,Ge4f5,Gf4b8,Gf4h6,Gf4g5] } 14... Ke7 { You can advance the first Bishop with Be5. Play Be5. } { [%cal Gd5c6,Gd5d6,Gd5e6,Ge4d5,Ge4h7,Ge4f5,Gf4b8,Gf4h6,Gf4e5,Gf4g5] } 15. Be5 { Black King can move back or on the left or right. Let's suppose it moves on e8. } { [%cal Gd5c6,Gd5d6,Gd5e6,Ge5b8,Ge5d6,Ge5f6,Ge5h8,Ge4d5,Ge4f5,Ge4h7] } 15... Ke8 { White must advance the second Bishop in f5. Play Bf5. } { [%cal Gd5c6,Gd5d6,Gd5e6,Ge5b8,Ge5h8,Ge5d6,Ge5f6,Ge4h7,Ge4f5,Ge4d5] } 16. Bf5 { Black King advance again in e7. } { [%cal Ge5b8,Ge5d6,Ge5f6,Ge5h8,Gf5c8,Gf5h7,Gf5e6,Gf5g6] } 16... Ke7 { Black King is again in front of the Bishop in the middle. In this position, the best move is Be6. Play Be6. } { [%cal Ge5b8,Ge5d6,Ge5h8,Ge5f6,Gf5c8,Gf5e6,Gf5h7,Gf5g6] } 17. Be6 { Black King goes back to d8. } { [%cal Ge5h8,Ge5b8,Ge6c8,Ge6g8,Ge6d7,Ge6f7,Ge5d6,Ge5f6] } 17... Kd8 { Black King is again very close to the green arrow so you must pay attention to move in a way that avoid Black King to escape. Play Bd6. } { [%cal Ge5b8,Ge5d6,Ge6c8,Ge6d7,Ge6g8,Ge6f7,Ge5h8,Ge5f6] } 18. Bd6 { Black King is on the 8th rank and can only move in d8-e8. } { [%cal Gd6b8,Gd6c7,Ge6c8,Ge6d7,Gd6f8,Gd6e7,Ge6g8,Ge6f7] } 18... Ke8 { Now it's the White King turn to advance. Remember, you must always have the three white pieces aligned on the same rank. Play Kc6. } { [%cal Gd6b8,Gd6c7,Gd6f8,Gd6e7,Ge6c8,Ge6d7,Ge6g8,Ge6f7] } 19. Kc6 { You finally pushed the Black King on the edge on the 8th rank and the three White pieces are on the same 6th rank. Now you are ready to push the Black King on a corner and reach the final position we analyzed in the first chapters. } { [%cal Gd6b8,Gd6c7,Gd6f8,Gd6e7,Ge6c8,Ge6d7,Ge6g8,Ge6f7] } *
+
+
+[Event "Two Bishops vs King End Game: Push the King towards the corner"]
+[Site "https://lichess.org/study/4MXMBxiS/hvSwv0g9"]
+[Result "*"]
+[UTCDate "2022.06.24"]
+[UTCTime "18:18:03"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/8/2KBB3/8/8/8/8/8 b - - 39 19"]
+[SetUp "1"]
+
+{ The question you should answer now it: To what angle should I push the Black King? The short answer is: if White King is on the left push it on the left, if White King is on the right push it on the right. The long answer, however, is that is true only if the White King is two squares away from the edge or less. For example, in this position you can push the Black King on the left. To do this, you must move the Two Bishops on the 7th rank. Let's see how. Black moves Kd8. } { [%cal Gc6a6] }
+19... Kd8 { Move the first Bishop on the 7th rank. Play Bf7. } { [%cal Gd6b8,Gd6c7,Gd6f8,Gd6e7,Ge6g8,Ge6c8,Ge6d7,Ge6f7] } 20. Bf7 { As you can notice, e8 square in controlled by the Bishop so the Black King is forced to move in c8. } { [%cal Gf7e8,Gf7g8,Gd6f8,Gd6e7,Gd6b8,Gd6c7] } 20... Kc8 { Notice how White King controls the squares in front of the Black King. Let's move the second Bishop on the 7th rank. Play Be7. } { [%cal Gd6b8,Gd6c7,Gd6f8,Gd6e7,Gc6b7,Gc6c7,Gc6d7,Gf7e8,Gf7g8] } 21. Be7 { Black King is force to move in b8. } { [%cal Ge7d8,Ge7f8,Gf7e8,Gf7g8,Gc6d7,Gc6c7,Gc6b7] } 21... Kb8 { It's important here move the White King on the critical square b6 (we talked about the critical squares in the Introduction. Play Kb6. } { [%cal Ge7d8,Ge7f8,Gf7e8,Gf7g8,Gc6b7,Gc6c7,Gc6d7] } 22. Kb6 { Black King move back on c8. } { [%cal Gb6a7,Gb6b7,Gb6c7,Ge7d8,Ge7f8,Gf7e8,Gf7g8] } 22... Kc8 { We reached the final position. The Two Bishops are ready to force a checkmate in three moves. Play Be6. } { [%cal Gb6a7,Gb6b7,Gb6c7,Ge7d8,Ge7f8,Gf7e8,Gf7g8] } 23. Be6+ { Black King is forced to move Kb8. } { [%cal Ge6d7,Ge6g8,Ge7d8,Ge7f8,Gb6c7,Gb6b7,Gb6a7] } 23... Kb8 { White check again with Bd6. Play Bd6. } { [%cal Gb6a7,Gb6b7,Gb6c7,Ge6c8,Ge7d8] } 24. Bd6+ { Black King is force to move Ka8. } { [%cal Gd6c7,Ge6c8,Gb6c7,Gb6b7,Gb6a7] } 24... Ka8 { White checkmate with Bd5. Play Bd5. } { [%cal Gd6b8,Ge6c8,Gb6c7,Gb6b7,Gb6a7] } 25. Bd5# { Congratulations! Checkmate. } { [%cal Gb6a7,Gb6b7,Gb6c7,Gd5b7,Gd6b8] } *
+
+
+[Event "Two Bishops vs King End Game: Push the King towards the corner (Pay Attention)"]
+[Site "https://lichess.org/study/4MXMBxiS/24jge8LN"]
+[Result "*"]
+[UTCDate "2022.06.24"]
+[UTCTime "19:21:54"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "4k3/8/3KBB2/8/8/8/8/8 b - - 39 19"]
+[SetUp "1"]
+
+{ Let's go back to the initial position of the previous section. If White King is three squares away from the edge, it's better to move it on the other side of the Bishops. In this position, for example, you should move it in e5, f5, g6. Black King can only move in e8-f8. } { [%cal Gd6a6] }
+*
+
+
