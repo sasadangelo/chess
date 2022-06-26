@@ -11,7 +11,7 @@ TBD
 
 ## My Chess Studies
 
-## Introduction
+### Introduction
 
 1. **What is Chess?**: [Lichess study](https://lichess.org/study/IJpFEM89) | [PDF](studies/what-is-chess.pdf) | [Tex](studies/what-is-chess.tex) | [PGN](studies/what-is-chess.pgn) | [Images](studies/what-is-chess)
 2. **Chess Notation**: [Lichess study](https://lichess.org/study/ezdKJ7Di) | [PDF](studies/chess-notation.pdf) | [Tex](studies/chess-notation.tex) | [PGN](studies/chess-notation.pgn) | [Images](studies/chess-notation)
@@ -24,7 +24,11 @@ TBD
 
 ### Middle game
 
-TODO
+### Tactics
+
+Chess tactics are discussed often, but what is a chess tactic? There are many ways to describe chess tactics, but perhaps the simplest is to say that a chess tactic is a move (or series of moves) that brings an advantage to a player. This advantage can be material, like winning a piece, or even an attack that results in checkmate! Richard Teichmann's famous quote that "Chess is 99% tactics" may not be exactly true, but this sentiment shows the importance of chess tactics.
+
+1. **Fork**: [Lichess study](https://lichess.org/study/Qqx06eH1) | PDF | Tex | PGN | Images
 
 ### End games
 
