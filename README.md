@@ -26,7 +26,7 @@ TBD
 
 #### Tactics
 
-1. **Fork**: [Lichess study](https://lichess.org/study/Qqx06eH1) | PDF | Tex | PGN | Images
+1. **Fork**: [Lichess study](https://lichess.org/study/Qqx06eH1) | [PDF](studies/chess-tactics-fork.pdf) | [Tex](studies/chess-tactics-fork.tex) | [PGN](studies/chess-tactics-fork.pgn) | [Images](studies/chess-tactics-fork)
 
 ### End games
 
