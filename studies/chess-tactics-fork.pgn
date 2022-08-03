@@ -1,0 +1,131 @@
+[Event "Chess Tactics - Fork: Introduction"]
+[Site "https://lichess.org/study/Qqx06eH1/4BjcAMXl"]
+[Result "*"]
+[UTCDate "2022.08.03"]
+[UTCTime "06:23:28"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ Chess tactics are discussed often, but what is a chess tactic? There are many ways to describe chess tactics, but perhaps the simplest is to say that a chess tactic is a move (or series of moves) that brings an advantage to a player. This advantage can be material, like winning a piece, or even an attack that results in checkmate! In this lesson we will analyze the Fork.
+A Fork (or Double Attack) is one of a basic chess tactic that consists of a single piece attacking two or more pieces at the same time. The attacking piece is known as the forking piece, while the attacked troops are known as the forked pieces. }
+*
+
+
+[Event "Chess Tactics - Fork: Fork with a Rook"]
+[Site "https://lichess.org/study/Qqx06eH1/vZopWHb0"]
+[Result "*"]
+[UTCDate "2022.08.03"]
+[UTCTime "06:21:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/n2b4/6k1/8/8/8/8/2R1K3 w - - 0 1"]
+[SetUp "1"]
+
+{ In this position, the White Rook can fork the Black Knight and Bishop with the move Rc7. Let's try it, move Rc7. }
+1. Rc7 { The Rook attacks the Bishop and the Knight and it will be inevitable for black to lose a piece as he can only move one. Let's suppose he moves Nb5. } 1... Nb5 { White can capture the Bishop with the Rook. Play Rxd7. } 2. Rxd7 { Now White has an advantage in material over the Black. You can create a fork with whatever piece included Pawns and King. } *
+
+
+[Event "Chess Tactics - Fork: Fork with a Knight"]
+[Site "https://lichess.org/study/Qqx06eH1/6SEG4AUP"]
+[Result "*"]
+[UTCDate "2022.06.09"]
+[UTCTime "06:14:02"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/3q4/6k1/1n6/8/3N4/8/4K3 w - - 0 2"]
+[SetUp "1"]
+
+{ The best chess piece to use for the Fork is a Knight due to:
+1. the versatility of its unique movement on the board;
+2. it cannot be threatened by the forked pieces;
+
+In this position, White is in disadvantage of material but Knight can fork the Queen and the King with the move Ne5+. Play Ne5+. }
+2. Ne5+ { Notice Queen and King are on the same square color (White) and Knight is on the opposite one (Black). Checking the squares color is the best way to run a fork attack or defending by it. Black is forced to move the King to escape from the check. } 2... Kf5 { Knight can now capture the Queen with Nxd7 and the game finish in a draw. White saved the game. When a piece fork the King and a Queen it is called a Royal Fork. } 3. Nxd7 { Congratulation! You draw the game. } *
+
+
+[Event "Chess Tactics - Fork: Fork with a Bishop"]
+[Site "https://lichess.org/study/Qqx06eH1/VYm3SKiq"]
+[Result "*"]
+[UTCDate "2022.06.09"]
+[UTCTime "06:27:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "6r1/8/b5k1/8/8/8/8/1R3R1K b - - 0 2"]
+[SetUp "1"]
+
+{ In this position, Black will fork the two Rooks with Bd3. }
+2... Bd3 { In this position, the two Rooks on the 1st rank are forked by the Bishop. Notice how the two Rooks are on the same square color (White) and they are threatened by the Bishop on the same square color. Usually, the player with two Rooks on 1st or 8th ranks must pay attention to not have them on the same square color to avoid a fork. However, in this case White will lose one Rook. Let's suppose White move Rfe1. Play Rfe1. } 3. Rfe1 { Bishop captures the Rook. } 3... Bxb1 { White Rook captures the Black Bishop. } 4. Rxb1 { Congratulations! You are no more in disadvantage and you and Black have now equal materials. It's important to understand that a Fork is not always convenient. For example, if black didn't have a Rook the fork would have cause a further disadvantage in material once the White Rook captured the Bishop. Another example of Fork not convenient is the same position we saw in this example but with Queen instead of the Bishop. It is clear that for Black, losing a Queen for a Rook would not have been convenient. } *
+
+
+[Event "Chess Tactics - Fork: Fork with a Queen"]
+[Site "https://lichess.org/study/Qqx06eH1/GPgP9dr7"]
+[Result "*"]
+[UTCDate "2022.06.09"]
+[UTCTime "06:35:42"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "2r3k1/6p1/7p/8/1Nn5/6PQ/5P2/7K w - - 0 4"]
+[SetUp "1"]
+
+{ In this position, White can Fork three pieces with the move Qe6+. Play Qe6+. }
+4. Qe6+ { Black is forced to move the King to escape from the check. } 4... Kh7 { White can gain the Rook with Qxc8. Play Qxc8. } 5. Qxc8 { Congratulations! Fork helped you to increase your material advantage. } *
+
+
+[Event "Chess Tactics - Fork: Fork with a Pawn"]
+[Site "https://lichess.org/study/Qqx06eH1/WqpwKi6G"]
+[Result "*"]
+[UTCDate "2022.06.25"]
+[UTCTime "16:49:48"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "2k5/pb1p1pp1/2pn1r2/8/4P3/N1P4N/PP6/R5KR w - - 0 1"]
+[SetUp "1"]
+
+{ Can you fork with a Pawn? Yes, you can. But it is not the most common way to do so because a Pawn cannot move backward, only forwards in one turn as they are restricted by their file (rank) and they also only capture diagonally. It is easy to place a pawn in a forking position, but they could not attack, the queen or bishops which also have diagonal moves in the bag unless the attacking square was defended by another piece which could result in a material gain exchange. In this position, Pawn in e4 can fork the Rook and Knight with the move e5. Play e5. }
+1. e5 { The only way for Black to lose less material possible is to move the Rook. } 1... Rh6 { White capture the Black Knight with exd6. Play exd6. } 2. exd6 { Back can limit the loss capturing the White Pawn with the Rook. } 2... Rxd6 { White has now an even better position. } *
+
+
+[Event "Chess Tactics - Fork: Fork Mistakes"]
+[Site "https://lichess.org/study/Qqx06eH1/w9JM0oxc"]
+[Result "*"]
+[UTCDate "2022.06.09"]
+[UTCTime "06:40:19"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/5q2/7p/1n5k/4N3/6P1/8/7K w - - 0 5"]
+[SetUp "1"]
+
+{ Usually, it's a bad idea Fork with a piece (i.e. Knight) two opponent's piece where one is exactly the same of the forking piece. In this position, if we try to fork the Black Knight and Queen with the move Nd6 we will lose it. Play Nd6. The same rule is true for whatever piece. }
+5. Nd6 { Black can capture the White Knight with Nxd6. } 5... Nxd6 { White lost another piece and now he is in serious troubles. } *
+
+
+[Event "Chess Tactics - Fork: Fork with a King"]
+[Site "https://lichess.org/study/Qqx06eH1/ZU4aHAkK"]
+[Result "*"]
+[UTCDate "2022.08.03"]
+[UTCTime "06:33:30"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "2bq1bk1/8/p6p/PpB2np1/1P6/3r1KP1/4R2P/8 w - - 0 1"]
+[SetUp "1"]
+
+{ It may surprise you, but even a king can fork pieces! In the present example, we see the White king take matters into its own hands and fork the rook and knight. The White king is in check and must either move out of the way or block the check with another piece. Usually, we want to keep the king out of the center so that it is not vulnerable to attack. However, when pieces get exchanged and the weather clears up, the king is well advised to rush to the middle of the board and show its strength. Let's move Ke4. }
+1. Ke4 { White move shows that the Black attacking pieces are really just targets for royal taxes. Black is not able to defend both, the knight and the rook. Black is force to move the Rook. } 1... Rd7 { White captures the Black Knight with the King. } 2. Kxf5 { Well done! White reduced its disadvantage. It's important to remember that White cannot fork a Queen, moreover, it cannot fork Bishops on diagonals and Rook on files and ranks. } *
+
+
