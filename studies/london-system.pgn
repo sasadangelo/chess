@@ -1,0 +1,102 @@
+[Event "London System: Introduction"]
+[Site "https://lichess.org/study/J5o5RnFr/HWwzpYkP"]
+[Result "*"]
+[UTCDate "2022.08.13"]
+[UTCTime "13:13:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ The London Opening is a Queen’s pawn opening (see Opening Basics and Principles study) that utilizes mainly the same moves regardless of the opponent’s response limiting possible lines which suit a beginner player with less to remember but also has strong central control which suits advanced players with a solid pawn chain set-up.
+
+The first-ever game recorded in a London Encyclopedia of Chess Openings code (A46, A48 or D02) is Mason-Blackburne in London, 1883 although the London System took until 1922 to become popularised at the London BCF Congress Tournament of 1922.
+
+The London system has a negative reputation because it is thought to be played the same way every time by chess players, and to an extent, that’s not incorrect, but by the same token it is not boring – Far from it. The London is a very playable position.
+
+Because it is played in a similar fashion, London system players are often called lazy but played the right way with the right level of aggression your opponents may have to think again about your solid position, and more about their defense against it than how they feel about you playing it against them
+
+So to keep your black pieces opponents off your back for a ‘Boring and Lazy Opening’ let’s take a look at how we can attack and keep them on the back foot, and how to respond to the various ways they may try to play against you after the first couple of moves. }
+*
+
+
+[Event "London System: Zukertort Variation"]
+[Site "https://lichess.org/study/J5o5RnFr/3bAkJ8mJ"]
+[Result "*"]
+[UTCDate "2022.08.11"]
+[UTCTime "16:00:31"]
+[Variant "Standard"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+{ The London System starts from the Queen's Pawn opening (see Opening Basics and Principles study). }
+1. Nf3 { White plays Nf3 to defend the d4 Pawn. This Queen's Pawn opening continuation is called the Zukertort Variation. } *
+
+
+[Event "London System: Symmetrical Variation"]
+[Site "https://lichess.org/study/J5o5RnFr/SF0snQYx"]
+[Result "*"]
+[UTCDate "2022.08.11"]
+[UTCTime "16:00:57"]
+[Variant "Standard"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 1"]
+[SetUp "1"]
+
+{ Black replies with Nf6 to defend the d5 Pawn. }
+1... Nf6 { This is the so called Symmetrical Variation. } *
+
+
+[Event "London System: London System"]
+[Site "https://lichess.org/study/J5o5RnFr/MzepjvaW"]
+[Result "*"]
+[UTCDate "2022.08.11"]
+[UTCTime "16:01:44"]
+[Variant "Standard"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 2"]
+[SetUp "1"]
+
+{ The goal of the London System is to create a pyramid moving the Pawns in c3 and e3. In order to do that and avoid that the Bishop in c1 will be blocked it is immediately moved in f4. Play Bf4. } { [%cal Gc1f4] }
+2. Bf4 { This board configuration is the so called London System. White is now ready to create the Pawn pyramid moving the Pawns in c2 and e2 in the next moves. } { [%cal Gc2c3,Ge2e3] } *
+
+
+[Event "London System: London System (Main Line)"]
+[Site "https://lichess.org/study/J5o5RnFr/FJqHoli5"]
+[Result "*"]
+[UTCDate "2022.08.13"]
+[UTCTime "12:57:43"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 2"]
+[SetUp "1"]
+
+{ Black replies with c5 to threathen the d4 Pawn. The goal is to avoid the pyramid creation. }
+2... c5 { White supports the d4 Pawn moving e3 a creating the right side of the pyramid. } { [%cal Ge2e3] } 3. e3 { White Pawn in d4 is supported by the e3 Pawn and the Knight in f3. For this reason, Black develop the Knight in b8 to support the c5 Pawn in attacking the d4 Pawn. } { [%cal Gf2d4] } 3... Nc6 { White is ready to complete the pyramid playing c3. } { [%cal Gf2d4,Gc2c3] } 4. c3 { The pyramid configuration for White is now ready. Black replies with e6 to support the d5 Pawn and connecting the two pawn islands. } { [%cal Gf2d4,Gb2d4,Ge7e6] } 4... e6 { It's time for White to develop its minor pieces and castle. The same is for Black. Green arrows show the possible moves for both. The basic idea is that both should move the pieces trying to conquer the center. White moves Kbd2 controlling the center. } { [%cal Gb1d2,Gf1d3,Gf8d6,Gf4g3] } 5. Nbd2 { Black replies with Bd6 threathening the White Bishop in f4. } { [%cal Gf1d3,Gf8d6,Gf4g3] } 5... Bd6 { It's critical that White Bishop don't capture the Black's one because in this way it allows the Queen development controlling an important diagonal. White must move its Bishop in g3 with the move Bg3. The reason is that if Black capture it with Bxg3 the White replies with hxg3 opening the h file for the White Rook. Play Bg3. } { [%cal Gf4g3,Gf1d3,Rf4d6] } 6. Bg3 { Black is ready to castle with O-O. } { [%cal Gf1d3] } 6... O-O { White finish to develop its minor pieces with Bd3. } { [%cal Gf1d3] } 7. Bd3 { Black moves b6 and create a strong Pawn structure. } 7... b6 { It's critical for White avoid the Pawn move e5 for Black. The best way to do that is Ne5 because the Knight will be defended by the Pawn in d4. Play Ne5. } { [%cal Gf7d5,Ga7c5] } 8. Ne5 { The advance of the Black Pawn in e6 is avoided. The White Knight in e5 is supported by the d4 Pawn and Bishop in g3. The White Knight attack also the Black Knight in c6 that is immediately defended by the Black Bishop with Bb7. } { [%cal Gf2d4,Gb2e5,Gg3e5] } 8... Bb7 { White Knight in e5 threathen the Black Knight in c6 that is defended by the Bishop in b7. White advances the f2 Pawn with f4. Play f4. } { [%cal Re5c6,Gb7c6] } 9. f4 { Let's look at the powerful Pawn structure created at the supprt of the White Knight in e5. } { [%cal Ge3d4,Ge3f4,Gb2e5,Gh2e5] } 9... Ne7 { Black Knight start to move to attack the White Bishop in g3 in two moves. Black plays Ne7. } { [%cal Re7f5,Rf5g3] } 10. Qf3 { White Queen moves in f3 with Qf3 so that after the castle the two Rooks are connected. } 10... Nf5 { Black Knight moves Nf5 attacking the White Bishop in g3 that must retrocede in f2. Play Bf2. } { [%cal Rf5g3] } 11. Bf2 { White is ready to castle at the next move. Black moves Be7. } 11... Be7 { It's time for White to castle. } 12. O-O { The opening is now complete and we are ready for the Middle game. } *
+
+
+[Event "London System: Accelerated London System"]
+[Site "https://lichess.org/study/J5o5RnFr/YsiK8I2n"]
+[Result "*"]
+[UTCDate "2022.08.11"]
+[UTCTime "16:11:33"]
+[Variant "Standard"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 3 2"]
+[SetUp "1"]
+
+{ The difference between the London System and the Accelerated London System is that the white bishop is developed to the f4 square on move 2 after black plays Nf6 before white develops their Knight to f6. It provides stronger control in the center for a solid position to attack kingside. The goal of this variation is to accelerate the creation of the Pawn pyramid that is the essence of this opening. }
+2. Bf4 { White plays Bf4 immediately. } 2... Nf6 { Black replies with Nf6. White is ready to create the pyramid with e3 and c3. } { [%cal Ge2e3,Gc2c3] } 3. e3 { White start to build the right side of the pyramid with e3. } { [%cal Gf2d4] } 3... c5 { Black replies with c5 to attack the top of the pyramid. } { [%cal Gf2d4] } 4. c3 { White completes the pyramid with c3. } { [%cal Gf2d4,Gb2d4] } 4... Nc6 { Like in the London System Black continue with Nc6. } { [%cal Rc5d4,Rc6d4,Ge3d4,Gd1d4] } 5. Nf3 { White plays Nf3. } 5... e6 { Black moves e6 connecting the two Pawn islands like the London System. From this moment on, White and Black have to develop their minor pieces like the London System (see green arrows). The moves are identical to the London System, for this reason, I will avoid to repeat them. } { [%cal Gf7d5,Gf1d3,Gb1d2,Gf4g3,Gf8d6,Gb7b6,Gc8b7] } *
+
+
