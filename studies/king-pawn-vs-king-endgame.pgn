@@ -1,0 +1,326 @@
+[Event "King + Pawn vs King End Game: Introduction"]
+[Site "https://lichess.org/study/gHnlsY1u/TEAO5ZxS"]
+[Result "*"]
+[UTCDate "2022.04.30"]
+[UTCTime "16:35:54"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "6k1/8/8/8/8/8/P7/7K w - - 0 1"]
+[SetUp "1"]
+
+{ This study is devoted to King + Pawn vs. King endings. Most
+players handle these endings with confidence, but some have trouble in less common positions. Very often the problem lies in the overuse of the theory of the opposition. While opposition is a very useful concept and its best field of application is Pawn endings, its value is sometimes overestimated.
+King + Pawn vs. King endings are best explained by means of the key squares
+theory, using opposition at the right time and adapting its value to each situation. I assume the reader knows the basic mates and the Bishop + Wrong Rook's Pawn ending. In any case, a perfect demonstration of these endings can be found in many books.
+
+The following study will show:
+
+* The Rule of the Square;
+* Trade or not Trade?
+* Block the way and support the Pawn with the King;
+* Opposition;
+* Distant Opposition;
+* Distant Diagonal Opposition;
+* Opposition: Pawn on the 6th rank (Win);
+* Opposition: Pawn on the 6th rank (Draw);
+* Opposition: Pawn on the 6th rank (Knight's Pawn);
+* Opposition: Pawn on the 6th rank (Bishop's Pawn);
+* Opposition: Pawn on the 5th rank (Win);
+* Opposition: Pawn on the 5th rank (Knight's Pawn);
+* Opposition: Pawn on the 4th rank;
+* Opposition: the Rook's Pawn;
+* Imprisoning the stronger's side King; }
+*
+
+
+[Event "King + Pawn vs King End Game: The Rule of the Square"]
+[Site "https://lichess.org/study/gHnlsY1u/jXK3PQjO"]
+[Result "*"]
+[UTCDate "2022.04.30"]
+[UTCTime "16:37:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "6k1/8/8/8/8/8/P7/7K w - - 0 1"]
+[SetUp "1"]
+
+{ The first question we have to answer in King + Pawn vs. King endings is this: Can the pawn promote without the aid of the King? Calculating the race between the Pawn and the enemy King is enough to answer this question. This calculation is not complicated but, anyway, experience has taught us a simple way to solve the problem at a glance: the so-called 'rule of the square'. This rule helps us calculate and can be applied to any other endgame which presents the same race situation. Play a4. }
+1. a4 { After the Pawn advances, we draw an imaginary square that reaches the 8th rank. In this example, the vertices of the square are a4-a8-e8-e4. Black King plays Kf7. } { [%cal Ga4a8,Ga8e8,Ge8e4,Ge4a4,Ga4e8] } 1... Kf7 { Of course, the black King tries to prevent promotion. Now we are ready to state the main rule.
+"Rule of the square: If the King can reach the square of the Pawn, then he can capture the pawn; if not, the Pawn promotes."
+If. when recalling the rule, we doubt whether the king must reach the square with his move or he must already be inside, we shall observe this: if the King chased the Pawn from the rear (in this example it might be from b3) , should he be inside the square before moving? Of course not: therefore, it would be the same if the King came from farther away, be it from the pawn's rear or from its side.
+White continue with a5. } { [%cal Ga4a8,Ga8e8,Ge8e4,Ge4a4,Ga4e8] } 2. a5 { It is clear that, in this case, the enemy King has not reached the square of the pawn, so White promotes to Queen. } { [%cal Ga5a8,Ga8d8,Gd8d5,Gd5a5,Ga5d8] } 2... Ke6 { Black King moves Ke6. } { [%cal Ga5a8,Ga8d8,Ga5d8,Gd8d5,Gd5a5] } 3. a6 { White Pawn advance with a6. } { [%cal Ga6a8,Ga8c8,Gc8c6,Gc6a6,Ga6c8] } 3... Kd6 { Black King tries to capture the Pawn with Kd6. } { [%cal Ga6a8,Ga8c8,Gc8c6,Gc6a6,Ga6c8] } 4. a7 { White Pawn advance and will promote to Queen at the next move. } { [%cal Ga7a8,Ga8b8,Gb8b7,Gb7a7,Ga7b8] } 4... Kc7 { Black King move Kc7 but there is no chance to capture the White Pawn. } { [%cal Ga7a8,Ga8b8,Gb8b7,Gb7a7,Ga7b8] } 5. a8=Q { White promote the Pawn to Queen and this is a Queen vs King end game (checkout the study) and it is a win for White. } *
+
+
+[Event "King + Pawn vs King End Game: Trade or not Trade?"]
+[Site "https://lichess.org/study/gHnlsY1u/zh92XsnX"]
+[Result "*"]
+[UTCDate "2022.09.24"]
+[UTCTime "13:18:14"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "k7/1q6/8/1Q6/8/8/7P/6K1 w - - 2 11"]
+[SetUp "1"]
+
+{ The Rule of Square is very useful in position like this where we have to decide if it is convenient for us trade the Queens. If we trade the Queens, the the King will be in b7 and moving the Pawn in h4 the King is outside the square aand then the Pawn will promote to Queen. Let's see the example. } { [%cal Gh4h8,Gh4d8,Gh4d4,Gh8d8,Gd4d8,Gh2h4] }
+11. Qxb7+ { White capture the Black Queen. } { [%cal Gh4h8,Gh4d4,Gh4d8,Gd4d8,Gh8d8,Gh2h4] } 11... Kxb7 { Black King captures the White Queen. Now the White Paawn is ready to move h4. Play h4. } { [%cal Gh4h8,Gh4d8,Gh8d8,Gh4d4,Gd4d8,Gh2h4] } 12. h4 { Black tries to caputure the White Pawn moving Kc6. } { [%cal Gh4d4,Gh4d8,Gh4h8,Gd4d8,Gh8d8] } 12... Kc6 { It's too late. The Black King is outside the square and then the White Pawn will promote to Queen. } { [%cal Gh4d8,Gh4h8,Gh4d4,Gd4d8,Gh8d8] } *
+
+
+[Event "King + Pawn vs King End Game: Block the way and support the Pawn with the King"]
+[Site "https://lichess.org/study/gHnlsY1u/n9rJfnlO"]
+[Result "*"]
+[UTCDate "2022.04.30"]
+[UTCTime "16:47:52"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/4k3/2K5/8/8/8/1P6/8 w - - 0 1"]
+[SetUp "1"]
+
+{ The Black King has clearly reached the square. Now the pawn can promote only with the aid of the King. The easiest way is by blocking the enemy King's way. This concept of blocking appears very often in Pawn endings, but also in many others, and it is at the core of Rook vs. Pawn endings.
+
+We can now state the second rule, which works with almost all Pawns, the exception being the Rook's Pawn.
+
+"When possible, the stronger side's King will prevent its rival from standing in front of the pawn. If he succeeds, the Pawn promotes."
+
+Play Kc7. } { [%cal Gb2b8,Gb8h8,Gh8h2,Gh2b2] }
+1. Kc7 { Since the black king cannot get in front of the pawn, he tries to attack the pawn before it reaches the secure zone (b6-b7 -b8) . Let us use this example to point out that, if the stronger side's king has secured the side opposition on the 7th rank, the defender will not be able to disturb the pawn. } { [%cal Gb2b8,Gb8h8,Gh8h2,Gh2b2] } 1... Ke6 { Black King move in e6. } { [%cal Gb2b8,Gb8h8,Gh8h2,Gh2b2] } 2. b4 { White move in b4 try to enter in the safe zone (b6-b7-b8). } { [%cal Gb4b8,Gb8f8,Gf8f4,Gf4b4] } 2... Kd5 { White move b5. } { [%cal Gb4b8,Gb8f8,Gf8f4,Gf4b4] } 3. b5 { Black try to capture the White pawn but it is too late. } { [%cal Gb5b8,Gb8e8,Ge8e5,Ge5b5] } 3... Kc5 { White pawn move b6 and it is in the safe zone. There is no chance for Black King to capture it. White pawn will promote in 3 moves and we enter in the Queen vs King End Game (check out the study). } { [%cal Gb5b8,Gb8e8,Ge8e5,Ge5b5] } 4. b6 { Congratulations! You will promote your Pawn to Queen and you will enter in the Queen vs King end game (checkout the study). } { [%cal Gb6b8] } *
+
+
+[Event "King + Pawn vs King End Game: Opposition"]
+[Site "https://lichess.org/study/gHnlsY1u/2ypeNmUv"]
+[Result "*"]
+[UTCDate "2022.07.09"]
+[UTCTime "13:43:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/5k2/8/6K1/5P2/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ In a King and Pawn vs King end game the concept of Opposition is critical. In this position, White playing Kf5 gain the Opposition because it is in front to the opponent's King, there is only one square in between and it's Black turn. }
+1. Kf5 { Congratulation! You gained the Opposition and you'll easily promote your Pawn to Quenn. In order to learn how to do this, you need to follow the next chapters. } *
+
+
+[Event "King + Pawn vs King End Game: Distant Opposition"]
+[Site "https://lichess.org/study/gHnlsY1u/ftpxQr80"]
+[Result "*"]
+[UTCDate "2022.07.09"]
+[UTCTime "13:57:20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "k7/8/8/8/8/8/1P6/K7 w - - 1 1"]
+[SetUp "1"]
+
+{ In this position, the two King are far away and a critical question is: Can White gain the Opposition? The rule to follow to answer this question is:
+
+1. Is there an even number of squares (on the same rank, file, or diagoal) between the two Kings and it's White's turn.
+2. Is there an odd number of squares (on the same rank, file, or diagonal) between the two Kings and it's Black's turn.
+
+In 1 White has the Distant Opposition, in 2 Black has the Distant Opposition. Once White has the Distant Opposition he can easily gain the Opposition moving on the same rank, file, or diagonal. Play Ka2. }
+1. Ka2 Ka7 { Black King advance. } 2. Ka3 { White King tries to gain the Opposition. } 2... Kb6 { The same for Black. } 3. Kb4 { White has the Opposition and he will easily promote the Pawn to Queen. } *
+
+
+[Event "King + Pawn vs King End Game: Distant Diagonal Opposition"]
+[Site "https://lichess.org/study/gHnlsY1u/9DbATiMa"]
+[Result "*"]
+[UTCDate "2022.07.09"]
+[UTCTime "14:05:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "5k2/8/8/8/8/K7/1P6/8 w - - 6 3"]
+[SetUp "1"]
+
+{ The Distant Diagonal Opposition follow the same rules of the Distant Opposition, the only difference is that the two Kings are on the same diagonal. In this case, the number of squares between the two Kings is even and it's White turn.
+
+Under these conditions White has the Distant Diagonal Opposition and he can easily convert it in an Opposition and then easily promote the Pawn to QueEn. }
+*
+
+
+[Event "King + Pawn vs King End Game: Opposition: Pawn on the 6th rank (Win)"]
+[Site "https://lichess.org/study/gHnlsY1u/jYWcTmXu"]
+[Result "*"]
+[UTCDate "2022.04.30"]
+[UTCTime "17:01:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "5k2/8/5PK1/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ We have just seen what happens in the two simplest cases:
+
+1) When the King does not support the pawn.
+2) When the King supports the pawn by preventing the enemy King from standing in its way.
+
+However, the most interesting situation in a King + Pawn vs. King ending occurs when the defending king occupies a key square in front of the Pawn. Then, everything depends on the relative position of the Kings.
+
+The first important position, which we must fix in our minds, occurs when the Pawn has reached the 6th rank and is only two steps away from the promotion square. Despite the proximity of the 8th rank, we will need to examine some positions before we grasp all the important details. In this position, the pawn can take its two last steps almost automatically.
+
+Play f7. }
+1. f7 { The Pawn moves ahead and Black must retreat his king with Ke7. } 1... Ke7 { The White King can thus support promotion with Kg7. } 2. Kg7 { Black King can move in the squares marked by the green arrows. There is no way it can prevent the Pawn promotion to Queen. } { [%cal Ge7e6,Ge7d8,Ge7d7,Ge7d6] } 2... Ke6 { White can now promote the Pawn to Queen and we enter in the Queen vs King End Game (check out the study). } 3. f8=Q { Congratulations! You promote your Pawn. Using the Queen vs King end game (checkout my study) you can easily win the game. } *
+
+
+[Event "King + Pawn vs King End Game: Opposition: Pawn on the 6th rank (Draw)"]
+[Site "https://lichess.org/study/gHnlsY1u/HB37dvZK"]
+[Result "*"]
+[UTCDate "2022.04.30"]
+[UTCTime "17:17:52"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "5k2/8/5PK1/8/8/8/8/8 b - - 0 3"]
+[SetUp "1"]
+
+{ However, the result changes completely if in this position it is Black's turn. The reason is that the pawn cannot promote if both kings are opposed when the pawn reaches the 7th rank. Then we say that they are in opposition. }
+3... Kg8 { Now the kings are opposed and in this situation, almost always, the side that has the opposition has the advantage, and the side to move is at a disadvantage. As stated above, opposition has gained an excessive prestige; in some cases it is not so useful. If we want to make the most of it, and not to let it deceive us, we just have to notice how it suits us in each case.
+"In a King + Pawn vs. King ending, king opposition is decisive when the Pawn is on the 6th rank."
+This is the first important pattern we must recognise. Play f7+. } 4. f7+ { Here, the Pawn moves ahead but cannot promote. Black play Kf8. } 4... Kf8 { White is forced to move in Kf6 to avoid the Pawn capture and this lead to a stalemate.
+In this ending we have seen that, if the defending King takes the opposition when the Pawn is on the 6th rank, the Pawn cannot promote. If we go deeper, we also see that the major obstacle for the white King has been his own Pawn.
+Therefore, we can conclude that:
+1) The stronger side must not push the pawn too quickly.
+2) The Pawn should only reach the 6th rank in one of these two scenarios:
+a) its path to promotion is clear, or
+b) its advance causes the kings to be opposed (but usually this only happens when the King has reached the 6th rank before the Pawn) } 5. Kf6 { The game is a draw for stalemate. } *
+
+
+[Event "King + Pawn vs King End Game: Opposition: Pawn on the 6th rank (Knight's Pawn)"]
+[Site "https://lichess.org/study/gHnlsY1u/FvXmEyxL"]
+[Result "*"]
+[UTCDate "2022.07.09"]
+[UTCTime "14:16:52"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/8/8/8/5kp1/7K/8 w - - 1 5"]
+[SetUp "1"]
+
+{ Not all Pawns work the same. As we get closer to the edge of the board, pawns usually have their own rules. Therefore, I will devote a special section to the Rook's Pawn. The Knight's Pawn is not so exceptional, but nevertheless it presents some peculiarities due to the proximity of the edge of the board.
+
+Let us have a look at the position: It is White's turn and he cannot take the opposition, while we know that if the king moves in front of the pawn he will have to retreat from his blocking position on his next move. This position would be lost if Black had a central pawn, but with a knight's pawn White can be saved thanks to a special detail. }
+5. Kh1 { The right move is Kh1. This relative position of the Kings, called Diagonal Opposition, usually does not help much, but works in this case. } 5... Kf2 { This move would secure promotion with any other pawn, but now the White King is in stalemate and the position is drawn. The Pawn cannot promote against other
+moves either, since the White King comes back to his impregnable position in front of the Pawn } *
+
+
+[Event "King + Pawn vs King End Game: Opposition: Pawn on the 6th rank (Bishop's Pawn)"]
+[Site "https://lichess.org/study/gHnlsY1u/ncQ2kNUr"]
+[Result "*"]
+[UTCDate "2022.09.24"]
+[UTCTime "13:38:09"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "k7/8/2P5/K7/8/8/8/8 w - - 1 5"]
+[SetUp "1"]
+
+{ In this position it's easy for White do the wrong move because a natural move for White is Kb6. Doing this move the Black King gain the opposition and the game ends with a draw. The best move for White is Ka6 because it gains the opposition. Play Ka6. } { [%cal Ga5a6] }
+5. Ka6 { Black moves Kb8. } 5... Kb8 { White moves Kb6. } 6. Kb6 { Congratulations! This is the same position with Pawn on the 6th rank that is a win for White. } *
+
+
+[Event "King + Pawn vs King End Game: Opposition: Pawn on the 5th rank (Win)"]
+[Site "https://lichess.org/study/gHnlsY1u/jDn44XpU"]
+[Result "*"]
+[UTCDate "2022.04.30"]
+[UTCTime "17:37:00"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "5k2/8/4K3/5P2/8/8/8/8 w - - 1 5"]
+[SetUp "1"]
+
+{ When the pawn has not reached the 6th rank yet, the analysis grows in complexity, but there are very clear rules. If we know them, we will play the ending with accuracy and we will quickly know whether the pawn promotes or not. The essential concept here is that of Key Squares. But what are Key Squares and what is their effect?
+
+"If the strong King occupies one of the Key Squares, the pawn promotes. When the pawn is on the 5th rank, its key squares are those three in front ( e6, f6 and g6, marked in the diagram)."
+
+Since the king has reached one of them, White wins. Let's move Kf6 to get the opposition. } { [%cal Gf6g6,Gf6e6] }
+5. Kf6 { Congratulations! You got the opposition. You will promote your Pawn. Black King can only move in e8 or g8. If Black moves his King with Ke8, White should move is King on the opposite site Kg7. Viceversa, if Black King moves Kg8, White King must move in Ke7. Let's suppose the former condition occurs. } { [%cal Gf8e8,Gf8g8,Gf6g7,Gf6e7] } 5... Ke8 { White mova Kg7 and White pawn can access to the green safe zone. } { [%cal Gf6g7] } 6. Kg7 { Black moves Ke7 but it's too late to prevent the promotion. } { [%cal Gf6f8] } 6... Ke7 { White moves Pawn in the green safe zone. } { [%cal Gf6f8] } 7. f6+ { Congratulations! You will promote you Pawn to Queen and you will enter in the Queen vs King end game (check out study). } { [%cal Gf6f8] } *
+
+
+[Event "King + Pawn vs King End Game: Opposition: Pawn on the 5th rank (Knight's Pawn)"]
+[Site "https://lichess.org/study/gHnlsY1u/jqnJv5Fu"]
+[Result "*"]
+[UTCDate "2022.07.09"]
+[UTCTime "14:28:29"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "7k/5K2/8/6P1/8/8/8/8 w - - 0 7"]
+[SetUp "1"]
+
+{ Once again, the Knight's Pawn poses extra difficulties, but the Key Square rule still applies. We just need to be slightly more careful. } { [%cal Gf6h6,Gh6f6] }
+7. Kg6 { Now the Pawn cannot be stopped. } 7... Kg8 { Black has opposition but since White King is on the 6th rank in the key squares the White Pawn will promote. } 8. Kh6 { White continue with its game. } 8... Kf8 { Black go to the other side. } (8... Kh8 9. g6 Kg8 10. g7 Kf7 11. Kh7 Kf6 12. g8=Q) 9. g6 { It's time to push the Pawn. } 9... Kg8 { There is anything Black can do to stop the Pawn. } 10. g7 { White Pawn moves on the 7th rank. } 10... Kf7 { Black King is force to move on the 7th rank too. } 11. Kh7 { White King now protect the promotion square g8. White will promote the Pawn to Queen at the next move. } *
+
+
+[Event "King + Pawn vs King End Game: Opposition: Pawn on the 4th rank"]
+[Site "https://lichess.org/study/gHnlsY1u/sjGPj0Mf"]
+[Result "*"]
+[UTCDate "2022.07.09"]
+[UTCTime "17:50:15"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "5k2/8/8/8/3PK3/8/8/8 w - - 2 11"]
+[SetUp "1"]
+
+{ "If the pawn has not reached the 5th rank, its Key Squares
+are two ranks ahead."
+
+For example, for a Pawn on the 4th rank, the Key Squares are on the 6th rank; in the diagram, c6 , d6 and e6. But the rule still applies: if the white King occupies one, the Pawn promotes. The Key Squares for a Pawn on the 5th rank are the same as on the 4th rank. For a Pawn on the 2nd or 3rd rank that rule (the Key Squares are two ranks ahead) is still valid. That is, for a d3 Pawn, the Key Squares would be e5, d5 and c5; for a d2 Pawn, e4, d4 and c4.
+
+In the diagram position, the White King easily reaches one of the Key Squares, but sometimes opposition plays a role, causing the fight for the squares to be harder. } { [%cal Gd6e6,Gd6c6] }
+11. Kd5 { Heading for the Key Square c6, Ke5?? would be a mistake: in the position after Ke7, opposition would be useful in the standard way: it prevents the enemy King from going further, in this case, from reaching the key squares. } { [%cal Gd6e6,Gd6c6] } 11... Ke7 { Black moves Ke7. } { [%cal Gd6e6,Gd6c6] } 12. Kc6 { Once White has occupied one of the key squares, the pawn promotes; we already know the procedure. } { [%cal Gd6c6,Gd6e6] } 12... Kd8 { Black King is force to go back. } 13. Kd6 { White takes the Opposition. } 13... Kc8 { Black plays Kc8. } 14. Ke7 { White plays Ke7. } 14... Kc7 { Black effort to stop the White Pawn are useless. } 15. d5 { White Pawn advance in the safe area (d6-d7-d8). } { [%cal Gd6d8] } 15... Kc8 { Black King knows this and do a random move. } 16. d6 { White Pawn is in the safe zone. He will promote to Queen in two moves. } { [%cal Gd6d8] } 16... Kb7 { Black King cannot do anything to avoid the promotion. } { [%cal Gd6d8] } 17. d7 { White Pawn is in d7 and it will promote to Quenn at the next move. The game will continue as a Queen vs King end game and is a win for White (checkout my study). } { [%cal Gd7d8] } *
+
+
+[Event "King + Pawn vs King End Game: Opposition: the Rook's Pawn"]
+[Site "https://lichess.org/study/gHnlsY1u/ManQvb7O"]
+[Result "*"]
+[UTCDate "2022.07.09"]
+[UTCTime "18:04:34"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/8/8/8/6kp/8/6K1 w - - 0 17"]
+[SetUp "1"]
+
+{ So far, everything we have said is valid for all Pawns with the exception of the Rook's Pawn, which deserves special attention. In a Pawn ending, the Rook's Pawn is the most difficult to promote. It requires its path to be clear. The reason is the possibility of a stalemate when the Pawn reaches the 7th rank supported by the King, no matter from where. This new situation renders useless all our rules about the range, the opposition and the key squares stated
+in the previous endings. In this position it doesn't matter who is to move: this is always a draw. }
+17. Kh1 { White loses the opposition, but no matter: there is a
+stalemate. } 17... h2 { Stalemate. Conclusion: With a Rook's pawn, if the defender's King stands on the way, it is a draw. } *
+
+
+[Event "King + Pawn vs King End Game: Imprisoning the stronger's side King"]
+[Site "https://lichess.org/study/gHnlsY1u/lxIpPavy"]
+[Result "*"]
+[UTCDate "2022.07.09"]
+[UTCTime "18:10:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/8/p7/8/1k6/3K4/8 w - - 0 18"]
+[SetUp "1"]
+
+{ Unfortunately for the strong side, standing in the Pawn's path is not the only way for the defender to draw this ending. The vicinity of the edge of the board can also dramatically restrict the mobility of the stronger side's King.
+
+In the diagram position Black threatens Kb2, securing the Pawn's path to promotion. But it is White's turn. Play Kc1. } { [%cal Gc2c1,Gc1c2,Gb3b2] }
+18. Kc1 { This move prevents Kb2 and and threatening Kb1. Ka2 is the only way to prevent the White King from getting in the Pawn's way. However, after this move the black king loses his mobility and will not be able to let his Pawn advance. } { [%cal Gc1b1] } 18... Ka2 { White moves Kc2 and gain the horizontal opposition. } (18... a4 { W }) 19. Kc2 { A this point, there is no chance for Black to promote its Pawn. If Black moves Ka1 the White King can captures the Black Pawn in the next moves. White draw easily the game mantaining the opposition. If Black moves the Pawn it is sufficient move the White King towards the Pawn to capture it. Let's see an example. Black play Ka3. } 19... Ka3 { White keep the opposition with Kc3. } 20. Kc3 { Black advance the Pawn with a4. } 20... a4 { White moves Kc2. } 21. Kc2 { Black is forced to move Ka2. } 21... Ka2 { White move vertically towards the Pawn with Kc3. } 22. Kc3 { Black moves a3. } 22... a3 { White gain again the opposition with Kc2. } 23. Kc2 { Blaack is force to move Ka1. } 23... Ka1 { White continue with Kc1. } 24. Kc1 { Black moves the Pawn with a2. } 24... a2 { White moves Kc2. } 25. Kc2 { It's Stalmate. } *
+
+
