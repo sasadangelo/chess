@@ -10,19 +10,30 @@
 [FEN "rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 1"]
 [SetUp "1"]
 
-{ During my games to reach the score of 500 played with Black, I have often come across users playing the Wayward attack opening with the queen. This opening was considered by many experienced users to be unsuitable for a satisfying game because, if well defended, it inevitably leads to a disadvantage for white at the end of the development of the opening. The problem, however, is that when playing with very low level players (eg 0-500) it is easy for those who play with black do not know how to defend themselves and in the end White manages to win by checkmate in a few moves.
-
-Here I report 3 games in which I suffered this attack without knowing how to respond:
-https://www.chess.com/game/live/30494370735
-https://www.chess.com/game/live/30305952817
-https://www.chess.com/game/live/29508579067
+{ During my games to reach the score of 500 played with Black, I have often come across users playing the Wayward Queen Attack opening. This opening was considered by many experienced users to be unsuitable for a satisfying game because, if well defended, it inevitably leads to a disadvantage for White at the end of the development of the opening. The problem, however, is that when playing with very low level players (eg 0-500) it is easy for those who play with Black do not know how to defend themselves and in the end White manages to win by checkmate in a few moves.
 
 The goal of this article is to understand how to defend against this attack.
 
 Wayward's opening includes the following moves: 1. e4, e5; 2. Rh5, ...; thus arriving at a chessboard configuration like the diagraam.
 
-As you can see, the Queen on h5 threatens the pawn on e5 and the weak pawn on f7. Here the player has two defense possibilities. }
+As you can see, the Queen on h5 threatens the pawn on e5 and the weak pawn on f7. Here the player has two defense possibilities. } { [%cal Rh5e5,Rh5f7] }
 *
+
+
+[Event "Wayward Queen Attack: What is the Wayward Attack?"]
+[Site "https://lichess.org/study/ZDzazKo4/1gmT0MdR"]
+[Result "*"]
+[UTCDate "2022.09.27"]
+[UTCTime "17:08:56"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 1"]
+[SetUp "1"]
+
+{ The main idea of the Wayward Queen Attack is to threathen the f7 Pawn with Queen and Bishop and checkmate the King in a few moves. Let's suppose Black replies with Nc6 to defend the e5 Pawn. This is also the best move. } { [%cal Rh5e5,Rh5f7] }
+1... Nc6 { White replies with Bc4 to have two pieces that threathen the weak Pawn in f7. } { [%cal Rh5f7,Rh5e5,Gc6e5] } 2. Bc4 { The best move for Black here is g6. Let's suppose Black moves Nf6. } { [%cal Rh5f7,Rh5e5,Gc6e5,Rc4f7] } 2... Nf6 { At this point, White win the game with Qxf7#. } { [%cal Rh5f7,Rc4f7,Gc6e5,Rf6h5,Rf6e4] } 3. Qxf7# { Congratulations! You win the game. However, this is an opening that is well known in the chess world and I discourage to use it because the higher your opponent's ELO the higher the probability that your plan will fail and, at the end, you will end up with a bad position and a delay in the development. However, this study is useful for Black to learn how to defend easily from it. } *
 
 
 [Event "Wayward Queen Attack: Main Line"]
