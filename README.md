@@ -22,7 +22,7 @@ TBD
 2. **Italian Game**: [Lichess study](https://lichess.org/study/tVbAc09e) | [PDF](studies/italian_game.pdf) | [Tex](studies/italian_game.tex) | [PGN](studies/italian_game.pgn) | [Images](studies/italian_game)
 3. **Spanish Game**: [Lichess study](https://lichess.org/study/Lml6kbni) | [PDF](studies/spanish_game.pdf) | [Tex](studies/spanish_game.tex) | [PGN](studies/spanish_game.pgn) | [Images](studies/spanish_game)
 4. **London System**: [Lichess study](https://lichess.org/study/J5o5RnFr) | [PDF](studies/london-system.pdf) | [Tex](studies/london-system.tex) | [PGN](studies/london-system.pgn) | [Images](studies/london-system)
-5. **How to defend from the Wayward Queen Attack**: [Lichess study](https://lichess.org/study/ZDzazKo4/azKz8Qpl) | [PDF](studies/wayward-queen-attack.pdf) | [Tex](studies/wayward-queen-attack.tex) | [PGN](studies/wayward-queen-attack.pgn) | [Images](studies/wayward-queen-attack)
+5. **Wayward Queen Attack**: [Lichess study](https://lichess.org/study/ZDzazKo4/azKz8Qpl) | [PDF](studies/wayward-queen-attack.pdf) | [Tex](studies/wayward-queen-attack.tex) | [PGN](studies/wayward-queen-attack.pgn) | [Images](studies/wayward-queen-attack)
 
 ### Middle game
 
