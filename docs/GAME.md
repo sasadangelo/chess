@@ -7,6 +7,7 @@ The following is a list of my recent games classified by Openings.
 ### Giuoco Piano
 
 | Game | Result |
+|------|--------|
 | [snizan vs sasadangelo](https://www.chess.com/game/live/59314790765) | ![Win](img/win.png) |
 
 ### Giuoco Pianissimo
