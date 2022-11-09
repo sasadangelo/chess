@@ -4,10 +4,9 @@ The following is a list of my recent games classified by Openings.
 
 ## Italian Game
 
-### Giuoco Piano
-
 | Game | Date | Precision | Variaation |Result |
 |------|------|-----------|------------|-------|
+| [sasadangelo vs moving67](https://www.chess.com/game/live/61717857263) | 11/09/2022 | 74.4 vs 63.4 | Giuoco Pianissimo | ![Win](img/win.png) |
 | [snizan vs sasadangelo](https://www.chess.com/game/live/59314790765) | 10/12/2022 | 54.0 vs 53.2 | Giuoco Pianissimo | ![Win](img/win.png) |
 
 ## Philidor Defense
