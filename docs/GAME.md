@@ -8,7 +8,6 @@ The following is a list of my recent games classified by Openings.
 |------|------|-----------|------------|-------|
 | [Hoangt183 vs sasadangelo](https://www.chess.com/game/live/66126210243) | 30/12/2022 | 73.9 vs 81.0 | Giuoco Pianissimo | ![Win](img/win.png) |
 | [sasadangelo vs not-ash](https://www.chess.com/game/live/66125534547) | 30/12/2022 | 81.1 vs 68.7 | Giuoco Pianissimo | ![Win](img/win.png) |
-| [sasadangelo vs not-ash](https://www.chess.com/game/live/66125534547) | 30/12/2022 | 81.1 vs 68.7 | Giuoco Pianissimo | ![Win](img/win.png) |
 | [snizan vs sasadangelo](https://www.chess.com/game/live/59314790765) | 10/12/2022 | 54.0 vs 53.2 | Giuoco Pianissimo | ![Win](img/win.png) |
 
 ## Philidor Defense
