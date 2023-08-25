@@ -1,0 +1,113 @@
+[Event "Caro-Kann Defense: Introduction"]
+[Site "https://lichess.org/study/BNP60V73/1cLXyPVP"]
+[Result "*"]
+[UTCDate "2022.08.29"]
+[UTCTime "20:00:50"]
+[Variant "Standard"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+
+{ Hello! In this study, you will be learning the Caro-Kann Defense. The Caro-Kann defense was created in the 1800s by--well, Misters Caro and Kann, and is a great opening against 1. e4, the most common opening. This opening is very solid and it is not attacked easily. You should try this out in one of your games.
+
+I hope you like this defense and that you win many games with the Caro-Kann. }
+1. e4 { This defense is specially designed to fight against 1. e4, as long as the white player starts with 1. e4, you can play the Caro-Kann Defence.
+Well, to play the Caro-Kann Defence, after 1. e4 you have to make the move 1... c6 } 1... c6 { The Caro-Kann Defense is considered one of the strongest openings available to Black and has been employed by many of the world chess champions, with Anatoly Karpov probably playing better with this defence.
+The basic idea is to dominate the center controlling the d5 square that will be your next move. } { [%cal Gd2d4,Gc6d5] } 2. d4 { The common reply for White is d4. Then d5 will normally be your second move. (You can do it now) you also ask the rival if he wants to eat or maintain the tension } 2... d5 { The White player has many moves, the 4 that I indicate with the arrows being the most logical and common.
+1. Nc3, the Main Line;
+2. Nd2, the Modern Variation;
+3. e5, the Advance Variation;
+4. exd5, the Exchange Variation.
+We will study each of these options in detail in the following chapters! } { [%cal Ge4e5,Gb1d2,Gb1c3,Re4d5] } *
+
+
+[Event "Caro-Kann Defense: Main Line"]
+[Site "https://lichess.org/study/BNP60V73/hG3HrbtP"]
+[Result "*"]
+[UTCDate "2023.01.24"]
+[UTCTime "22:18:20"]
+[Variant "Standard"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+{ Let's start with Nc3. This is called the Main Line. The White player begins to develop his pieces. The goal with Nc3 is to protect the e4 Pawn. } { [%cal Rd5e4] }
+1. Nc3 { Black captures the e4 Pawn. } { [%cal Gc3e4,Rd5e4] } 1... dxe4 { White captures the Pawn with Nxe4. } 2. Nxe4 { This is the Caro-Kann Main Line. Possible continuation are:
+1. Bf5, the Classical Variation;
+2. Nd7, the Karpov Variation;
+3. Nf6. } { [%cal Gc8f5,Gb8d7,Gg8f6] } *
+
+
+[Event "Caro-Kann Defense: Classic Variation"]
+[Site "https://lichess.org/study/BNP60V73/2fy3VotM"]
+[Result "*"]
+[UTCDate "2023.01.24"]
+[UTCTime "22:27:27"]
+[Variant "Standard"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 1"]
+[SetUp "1"]
+
+{ In this position, the best move for Black is Bf5. This is the Classic Variation. } { [%cal Gc8f5] }
+1... Bf5 { The best move! It is the best because this move expels the knight from the central square e4. White plays Ng3. } { [%cal Rf5e4] } 2. Ng3 { Remove your Bishop with Bg6. } { [%cal Rg3f5] } 2... Bg6 { Now the goal for White is to castle as soon as possible, this is the reason why in the next two moves it move the Knight and Bishop on the Kingside. White plays Nf3. } 3. Nf3 { Play Nd7 to avoid the knight jump to e5. } { [%cal Gf3e5] } 3... Nd7 { White plays Bd3. } 4. Bd3 { The dark-squared Bishop is very sad. How would you bring that Bishop to life? It's your turn find the best move for Black. } 4... e6 { Well, the Bishop has life, but it needs a better square at the next move. In the meanwhile, White castle its King. } 5. O-O { Bishop needs a better square, can you find it? } 5... Bd6 { Congratulations! You completed this lesson. } *
+
+
+[Event "Caro-Kann Defense: Advance Variation"]
+[Site "https://lichess.org/study/BNP60V73/TLkikuCl"]
+[Result "*"]
+[UTCDate "2022.08.29"]
+[UTCTime "20:05:15"]
+[Variant "Standard"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"]
+[SetUp "1"]
+
+{ Of the 4 options that the white player has, 3. e5 is slightly the most common of all. }
+3. e5 { In this position, Black has three possibilities:
+1. c5, the Botvinnik-Carls Defense;
+2. Bf5;
+3. g6;
+Play 3. c5. } { [%cal Gg7g6,Gc6c5,Gc8f5] } 3... c5 { White defend the d4 Pawn playing c3. This variation is called "Botvinnik-Carls Defense". } 4. c3 { White's player builds a solid structure of pawns aiming at the kingside, it is probably in that sector that his opponent will want to attack.
+Develop your Knight to the c6 square to press the d4 pawn } { [%cal Gb2e5] } 4... Nc6 { White plays Nf3 to add an additional defender for e5 and d5 Pawns. } 5. Nf3 { Capture his pawn. } 5... cxd4 { White capture the Black Pawn in d4. } 6. cxd4 { Where is the best development square for our Black Bishop? } 6... Bg4 { Excellent! It is a similar position to the Advance Variation of the French Defense, but you have the advantage that the light-squared bishop is free and not blocked. } *
+
+
+[Event "Caro-Kann Defense: Exchange Variation"]
+[Site "https://lichess.org/study/BNP60V73/IyTIRqNz"]
+[Result "*"]
+[UTCDate "2022.08.29"]
+[UTCTime "20:19:28"]
+[Variant "Standard"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+{ In the Exchange Variation the White player prefers to be in an open position and capture the Black Pawn with 3. exd5. }
+1. exd5 { Capture the White Pawn with 3. ... cxd5. } 1... cxd5 { White plays Bd3. } 2. Bd3 { Develop your Knight that will threathen the d4 Pawn. Play Nc6. } 2... Nc6 { White protect the d4 Pawn playing c3 and creating a good Pawn structure. } 3. c3 { Develop your other Knight. } { [%cal Gb2d4] } 3... Nf6 { White play Bf4. } 4. Bf4 { It's time to develop your Bishop, what is the best development square for our Bishop? } 4... Bg4 { Very well! This is one of the ways to play for the black player, as there is a quick 4.f4 in this variation. } *
+
+
+[Event "Caro-Kann Defense: Panov Attack"]
+[Site "https://lichess.org/study/BNP60V73/9QpV9ijv"]
+[Result "*"]
+[UTCDate "2022.08.29"]
+[UTCTime "20:28:59"]
+[Variant "Standard"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+{ It may seem a bit weird to you, but I think you already know what the first moves of caro-kann are, so I wanted to take you to what I really want to show you.
+
+In the Exchange Variation, the white player can also play 4.c4. This is called the "Panov attack". }
+1. c4 { How can you give the d5 pawn some extra support? } 1... Nf6 { Very well I see that you know the theory of the Caro-Kann Defense. } 2. Nc3 { Develop your other Knight. } 2... Nc6 { White plays Nf3. } 3. Nf3 { Play 3. g6 } 3... g6 { White capture with cxd5. } 4. cxd5 { What would you play in this position? } 4... Nxd5 { Soon you will be able to move the Bishop to g7 and finish the development. } *
+
+
