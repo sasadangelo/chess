@@ -38,6 +38,8 @@ TBD
 4. **Two Bishops vs King End Game**: [Lichess study](https://lichess.org/study/4MXMBxiS) | [PDF](studies/two-bishops-vs-king-end-game.pdf) | [Tex](studies/two-bishops-vs-king-end-game.tex) | [PGN](studies/two-bishops-vs-king-end-game.pgn) | [Images](studies/two-bishops-vs-king-end-game)
 5. **King and Pawn vs King End Game**: [Lichess study](https://lichess.org/study/gHnlsY1u) | [PDF](studies/king-pawn-vs-king-endgame.pdf) | [Tex](studies/king-pawn-vs-king-endgame.tex) | [PGN](studies/king-pawn-vs-king-endgame.pgn) | [Images](studies/king-pawn-vs-king-endgame)
 
-## My Lost Games
+## My Recent Games
 
-Go to the [following page](docs/GAME.md) to see my recent lost games. They are useful for the analysis of my mistake.
+Go to the [following pages](docs/REPORT_Rapid.md) to see my recent games:
+* [Rapid Games](docs/REPORT_Rapid.md).
+* [Daily Games](docs/REPORT_Standard.md).
