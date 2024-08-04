@@ -1,7 +1,6 @@
-# Lichess studies in PDF
+# Salvatore D'Angelo Chess
 
-The goal of this project is to create a software that convert all my Lichess study in PDF format. Lichess is a Chess platform that allows you to create study plan of your Chess games. I use it to collect all my studies about openings, end games, tacticts, and so on.
-Once this studies are ready I will convert them in PDF using this project.
+The goal of this project is to create a software that help me to improve in Chess. This project contains my recent games organized by openings and all my Lichess study in PDF format. Lichess is a Chess platform that allows you to create study plan of your Chess games. I use it to collect all my studies about openings, end games, tacticts, and so on. Once this studies are ready I will convert them in PDF using this project.
 
 ## My Chess Studies
 
