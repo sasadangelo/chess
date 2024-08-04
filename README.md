@@ -38,6 +38,34 @@ TBD
 4. **Two Bishops vs King End Game**: [Lichess study](https://lichess.org/study/4MXMBxiS) | [PDF](studies/two-bishops-vs-king-end-game.pdf) | [Tex](studies/two-bishops-vs-king-end-game.tex) | [PGN](studies/two-bishops-vs-king-end-game.pgn) | [Images](studies/two-bishops-vs-king-end-game)
 5. **King and Pawn vs King End Game**: [Lichess study](https://lichess.org/study/gHnlsY1u) | [PDF](studies/king-pawn-vs-king-endgame.pdf) | [Tex](studies/king-pawn-vs-king-endgame.tex) | [PGN](studies/king-pawn-vs-king-endgame.pgn) | [Images](studies/king-pawn-vs-king-endgame)
 
+## How to grab your games
+
+Here the instructions to create the statistics of your games:
+
+1. Download the code with the command:
+```
+git clone https://github.com/sasadangelo/gamegrab
+cd gamegrab
+```
+
+2. Create a virtual environment and install dependencies:
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+
+3. Grab your games from Chess.com:
+```
+python3 gamegrab.py --num-games=100 --time-class=rapid --outfile=sasadangelo.pgn sasadangelo
+```
+
+this command download the recent 100 rapid games of the Chess.com sasadangelo user.
+
+4. Create a report of your games:
+```
+python3 report.py --num-games=100 --time-class=rapid --outfile=sasadangelo.pgn sasadangelo
+```
+
 ## My Recent Games
 
 Go to the [following pages](docs/REPORT_Rapid.md) to see my recent games:
