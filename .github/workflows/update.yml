@@ -1,0 +1,62 @@
+name: Update Chess Stats
+
+on:
+  schedule:
+    - cron: '0 5 1 * *' # The action runs at 5 UTC every 1st of the month
+  workflow_dispatch: # Add the chance to run the workflow manually
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' # Specify the Python version
+
+    - name: Install dependencies
+      run: |
+        python -m venv venv
+        source venv/bin/activate
+        pip install -r requirements.txt
+
+    - name: Grab all sasadangelo games from Chess.com
+      run: |
+        source venv/bin/activate
+        python3 gamegrab.py --outfile=sasadangelo.pgn --num-games=100 sasadangelo
+
+    - name: Create the Rapid report for sasadangelo games
+      run: |
+        source venv/bin/activate
+        python3 report.py --user sasadangelo --num-games 100 --time-control rapid --output docs/REPORT_Rapid.md
+
+    - name: Create the Daily report for sasadangelo games
+      run: |
+        source venv/bin/activate
+        python3 report.py --user sasadangelo --num-games 100 --time-control daily --output docs/REPORT_Standard.md
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if [[ -n $(git status --porcelain) ]]; then
+            echo "changes=true" >> "$GITHUB_OUTPUT";
+        fi
+
+    - name: Commit changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add docs/REPORT_*.md
+        CURRENT_DATE=$(date +'%B %d')
+        git commit -m "Update reports to $CURRENT_DATE"
+
+    - name: Push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
