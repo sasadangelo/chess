@@ -1,0 +1,138 @@
+[Event "King + 2 pawns vs. King: Introduction"]
+[Site "https://lichess.org/study/dtmao4gW/diWfqx9F"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[UTCDate "2024.07.09"]
+[UTCTime "20:19:34"]
+
+{ We already know what happens with a single pawn. Obviously, a King with two Pawns almost always wins (95 on 100, according to our stats) . This figure would be even higher if we left aside those cases where the capture of one of the pawns is forced. We can distinguish three scenarios:
+
+1) Connected pawns. Here both pawns defend each other and then the king approaches to give them support. The ending is always won unless a pawn is captured. The only important thing to know is this: if we have a rook's pawn on the 7th rank, we have to give it up in order to promote the knight's pawn.
+2) Doubled pawns
+3) Isolated pawns }
+ *
+
+
+[Event "King + 2 pawns vs. King: Doubled Pawns 1"]
+[Site "https://lichess.org/study/dtmao4gW/b8Mqyrsd"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/1k6/8/1P6/1P6/1K6/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.07.09"]
+[UTCTime "20:24:09"]
+
+{ The most interesting case in this section. If we have rook's pawns we know the important thing is not the number of Pawns but the position of the King. Let us see what happens with other pawns.
+
+The standard (and easy) procedure: to use the less advanced pawn to waste a move when the critical position (king opposition on the 6th rank) arises. Here White follows this procedure, but he has to be careful due to two special circumstances worth noting :
+A) We are dealing with knight's pawns, which usually involves stalemate motifs.
+B) The pawns are together, which complicates the defence of the more advanced pawn. The following variation illustrates this idea. }
+1. Kc4 { Kc4 is a bad move for White. Black can defend with Kb6. } 1... Kb6 { At this point, the Pawn in b5 is lost and there is no way White can force a win. } *
+
+
+[Event "King + 2 pawns vs. King: Doubled Pawns 2"]
+[Site "https://lichess.org/study/dtmao4gW/bTy8Oawn"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/1k6/8/1P6/1P6/1K6/8/8 w - - 2 2"]
+[SetUp "1"]
+[UTCDate "2024.07.09"]
+[UTCTime "20:29:42"]
+
+{ The best move for White is Kc3. }
+2. Kc3 { Black move Kc7. } 2... Kc7 { Let's see how this variation continue. } 3. Kd4 Kb6 4. Kc4 Kc7 5. Kc5 Kb7 6. b6 Ka6 { White can't play Kc6 because it is stalemate. } 7. b7 { Pay attention here, Kc6 is stalemate. } 7... Kxb7 8. Kb5 { White has the opposition and win the game (see King + Pawn vs King study). } *
+
+
+[Event "King + 2 pawns vs. King: Doubled Pawns 3"]
+[Site "https://lichess.org/study/dtmao4gW/vVGFLCct"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/1k6/8/1P6/1P6/1K6/8/8 w - - 1 8"]
+[SetUp "1"]
+[UTCDate "2024.07.09"]
+[UTCTime "20:38:19"]
+
+8. Kc3 Kc7 9. Kd4 Kb6 10. Kc4 Kc7 11. Kc5 Kb7 12. b6 { Trying to trouble White as much as possible. Direct play would go as follows: } 12... Kb8 13. Kb5 Kc8 14. b7+ Kb8 15. Kc5 { White must give up the most advanced pawn to gain the key squares of the other pawn. } 15... Kxb7 16. Kb5 { White has the opposition and win the game (see King + Pawn vs King study). } *
+
+
+[Event "King + 2 pawns vs. King: Doubled Pawns 4"]
+[Site "https://lichess.org/study/dtmao4gW/UpTrdQVH"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/1k6/8/1P6/1P6/1K6/8/8 w - - 1 16"]
+[SetUp "1"]
+[UTCDate "2024.07.09"]
+[UTCTime "20:44:19"]
+
+16. Kc3 Kc7 17. Kd4 Kb6 18. Kc4 Kc7 19. Kc5 Kb7 20. b6 Kb8 21. Kc6 Kc8 22. b7+ Kb8 { b5 looks logical } 23. b5 Ka7 { In this position, White has to give up the more advanced pawn, because Kc7 is stalemate. } 24. b8=Q+ Kxb8 25. Kb6 { White has the opposition and win the game (see King + Pawn vs King study). It is easy to see that, if we cannot lose a move with the less advanced pawn, it is impossible to win. This situation arises if the pawn is on the 5th rank. If you have doubts, I recommend that you check it as an Exercise.
+Conclusion: Two doubled pawns always win, except in these two situations:
+1) Rook's pawns.
+2) The less advanced pawn is on the 5th rank. } *
+
+
+[Event "King + 2 pawns vs. King: Isolated Pawns - Introduction"]
+[Site "https://lichess.org/study/dtmao4gW/LjfxKdfL"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/8/5k2/5P1P/8/8/K7 w - - 1 25"]
+[SetUp "1"]
+[UTCDate "2024.07.09"]
+[UTCTime "20:55:00"]
+
+{ Here the winning chances are great, too. The only situation worth studying occurs when the enemy king threatens the pawns. However, usually the pawns have one of these resources at their disposal:
+
+1) Mutual defence: one pawn threatens to promote to avoid the capture of the other one.
+2) Delay the capture of one pawn until the strong king arrives to defend them and reaches the key squares of the other one. }
+ *
+
+
+[Event "King + 2 pawns vs. King: Isolted Pawns - Mutual defense"]
+[Site "https://lichess.org/study/dtmao4gW/HSIZFByh"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/8/5k2/5P1P/8/8/K7 w - - 1 25"]
+[SetUp "1"]
+[UTCDate "2024.07.09"]
+[UTCTime "20:55:42"]
+
+{ This is the first resource: Two pawns separated by one file can defend each other as long as the king does not attack the more advanced one. }
+25. h5 { Thus the h-pawn prevents the capture of the f-pawn and gives the white king time to come near. If the king captures the f-pawn, he will be outside the square of the h-pawn. For this reason, he moves Kf6. } 25... Kf6 26. Kb2 Kg7 { The king is about to capture the advanced pawn, but ... } 27. f5 Kh6 28. f6 { Here we have the same situation as on move 1. The f6 pawn prevents the capture of the h5 pawn. Now White just has to bring the king near and promote one pawn. This is a very useful procedure, especially when there are more pawns on the board. If the pawns are separated by more files, the situation becomes more interesting, assuming, of course, that there are more pawns on the board. Otherwise, it is almost impossible that the stronger side's king does not manage to secure promotion of one pawn. } *
+
+
+[Event "King + 2 pawns vs. King: Isolated Pawns - Delay the Capture"]
+[Site "https://lichess.org/study/dtmao4gW/aTemV2Ro"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/sasadangelo"]
+[FEN "8/8/2k5/8/P2P4/8/8/7K b - - 0 28"]
+[SetUp "1"]
+[UTCDate "2024.07.09"]
+[UTCTime "21:16:26"]
+
+{ It is Black's turn. However, there is not a single square on the whole board from which the white king fails to support his pawns in time. Let us see a possible sequence of play. }
+28... Kd5 29. a5 { Preventing the capture of the central pawn. } 29... Kc6 30. Kg2 Kb5 31. Kf3 Kxa5 32. Ke4 Kb6 33. Kd5 Kc7 34. Ke6 { The white king has reached one of the key squares of the d4 pawn. Therefore, the most important scenario arises with more pawns on the board. We will come back to this idea when we deal with the floating square. White won the game. } { [%csl Gc6,Gd6,Ge6] } *
+
+
