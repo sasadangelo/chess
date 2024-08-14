@@ -30,6 +30,7 @@ The goal of this project is to create a software that help me to improve in Ches
 3. **Rook vs King End Game**: [Lichess study](https://lichess.org/study/IJ2Eu2as) | [PDF](studies/rook_vs_king_end_game.pdf) | [Tex](studies/rook_vs_king_end_game.tex) | [PGN](studies/rook_vs_king_end_game.pgn) | [Images](studies/rook_vs_king_end_game)
 4. **Two Bishops vs King End Game**: [Lichess study](https://lichess.org/study/4MXMBxiS) | [PDF](studies/two-bishops-vs-king-end-game.pdf) | [Tex](studies/two-bishops-vs-king-end-game.tex) | [PGN](studies/two-bishops-vs-king-end-game.pgn) | [Images](studies/two-bishops-vs-king-end-game)
 5. **King and Pawn vs King End Game**: [Lichess study](https://lichess.org/study/gHnlsY1u) | [PDF](studies/king-pawn-vs-king-endgame.pdf) | [Tex](studies/king-pawn-vs-king-endgame.tex) | [PGN](studies/king-pawn-vs-king-endgame.pgn) | [Images](studies/king-pawn-vs-king-endgame)
+6. **King + 2 Pawns vs King End Game**: [Lichess study](https://lichess.org/study/dtmao4gW/diWfqx9F) | [PDF](studies/king-2-pawns-vs-king-endgame.pdf) | [Tex](studies/king-2-pawns-vs-king-endgame.tex) | [PGN](studies/king-2-pawns-vs-king-endgame.pgn) | [Images](studies/king-2-pawns-vs-king-endgame)
 
 ## How to grab your games
 
