@@ -74,8 +74,8 @@ class Game:
         self.start_time = self.__convert_to_local_time(self.game.headers["Date"], self.game.headers["StartTime"])
         self.end_time = self.__convert_to_local_time(self.game.headers["EndDate"], self.game.headers["EndTime"])
         self.time_control = self.__parse_time_control(self.game.headers["TimeControl"])
-        self.opening_code = self.game.headers["ECO"]
-        self.opening_url = self.game.headers["ECOUrl"]
+        self.opening_code = self.game.headers.get("ECO", "A00")
+        self.opening_url = self.game.headers.get("ECOUrl", "")
         opening_name, opening_variation = opening_map.get(self.opening_code, ("Unknown Opening", "Unknown Variation"))
         # Assegna il nome e la variante dell'apertura ai campi della tua classe
         self.opening_name = opening_name if opening_name != "Unknown Opening" else self.opening_code
