@@ -34,10 +34,30 @@ jobs:
         source venv/bin/activate
         python3 report.py --user sasadangelo --num-games 100 --time-control rapid --output docs/REPORT_Rapid.md
 
+    - name: Create the Rapid report (White) for sasadangelo games
+      run: |
+        source venv/bin/activate
+        python3 report.py --user sasadangelo --num-games 100 --time-control rapid --output docs/REPORT_Rapid_White.md --color white
+
+    - name: Create the Rapid report (Black) for sasadangelo games
+      run: |
+        source venv/bin/activate
+        python3 report.py --user sasadangelo --num-games 100 --time-control rapid --output docs/REPORT_Rapid_Black.md --color black
+
     - name: Create the Daily report for sasadangelo games
       run: |
         source venv/bin/activate
         python3 report.py --user sasadangelo --num-games 100 --time-control daily --output docs/REPORT_Standard.md
+
+    - name: Create the Daily report (White) for sasadangelo games
+      run: |
+        source venv/bin/activate
+        python3 report.py --user sasadangelo --num-games 100 --time-control daily --output docs/REPORT_Standard_White.md --color white
+
+    - name: Create the Daily report (Black) for sasadangelo games
+      run: |
+        source venv/bin/activate
+        python3 report.py --user sasadangelo --num-games 100 --time-control daily --output docs/REPORT_Standard_Black.md --color black
 
     - name: Check for changes
       id: check_changes

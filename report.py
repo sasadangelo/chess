@@ -8,6 +8,7 @@ if __name__ == "__main__":
     parser.add_argument('--num-games', type=int, default=-1, required=True, help='Number of recent games to select')
     parser.add_argument('--time-control', type=str, default="", required=True, help='The desired chess game time control (daily, rapid, blitz, bullet, etc.)')
     parser.add_argument('--output', type=str, default="docs/REPORT.md", required=False, help='The output report')
+    parser.add_argument('--color', type=str, default="any", required=False, help='The pieces color (white, black, or any)')
     args = parser.parse_args()
 
     pgn_file_name = args.user + ".pgn"
@@ -23,9 +24,10 @@ if __name__ == "__main__":
             report_file.write( "| Opening | Date and Time | Variation | Result |\n")
             report_file.write( "|---------|---------------|-----------|--------|\n")
             for game in games:
-                if game.result == "1/2-1/2":
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
-                elif (game.white_player == args.user and game.result == "1-0") or (game.black_player == args.user and game.result == "0-1"):
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Win](img/win.png) |\n")
-                else:
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Lose](img/lose.png) |\n")
+                if (args.color == "any") or (args.color == "white" and game.white_player == args.user) or (args.color == "black" and game.black_player == args.user):
+                    if game.result == "1/2-1/2":
+                        report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
+                    elif (game.white_player == args.user and game.result == "1-0") or (game.black_player == args.user and game.result == "0-1"):
+                        report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Win](img/win.png) |\n")
+                    else:
+                        report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Lose](img/lose.png) |\n")
