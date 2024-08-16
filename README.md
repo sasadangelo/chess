@@ -64,4 +64,8 @@ python3 report.py --num-games=100 --time-class=rapid --outfile=sasadangelo.pgn s
 
 Go to the following pages to see my recent games:
 * [Rapid Games](docs/REPORT_Rapid.md).
+* [Rapid Games (White)](docs/REPORT_Rapid_White.md).
+* [Rapid Games (Black)](docs/REPORT_Rapid_Black.md).
 * [Daily Games](docs/REPORT_Standard.md).
+* [Daily Games (White)](docs/REPORT_Standard_White.md).
+* [Daily Games (Black](docs/REPORT_Standard_Black.md).
