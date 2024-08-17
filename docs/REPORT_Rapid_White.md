@@ -1,7 +1,7 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
 
-## Italian Game (21)
+## Italian Game (16)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
@@ -21,11 +21,6 @@
 | [sasadangelo (1045) vs kaifa173 (1048)](https://www.chess.com/game/live/108582881184) | 20240806 15:54 | [Anti Fried Liver Defense](https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense) | ![Win](img/win.png) |
 | [sasadangelo (1036) vs KaustubhNB (1000)](https://www.chess.com/game/live/108582527550) | 20240806 15:30 | [Anti Fried Liver Defense](https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense) | ![Win](img/win.png) |
 | [sasadangelo (1045) vs ccggzzcccckk (1033)](https://www.chess.com/game/live/108557561932) | 20240804 22:52 | [Anti Fried Liver Defense](https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening-4...h6-5.c3) | ![Win](img/win.png) |
-
-## King's Pawn Opening (7)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
 
 ## Philidor Defense (7)
 
@@ -50,17 +45,7 @@
 | [sasadangelo (1013) vs kushpatel04 (1030)](https://www.chess.com/game/live/108634872746) | 20240809 18:52 | [Mieses-Kotrč, Main Line, Lasker Variation](https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3) | ![Lose](img/lose.png) |
 | [sasadangelo (1053) vs marceloconstantini (1039)](https://www.chess.com/game/live/108557699856) | 20240804 23:04 | [Mieses-Kotrč, Main Line, Lasker Variation](https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8-4.d4) | ![Win](img/win.png) |
 
-## Queen's Pawn Opening (6)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
-## Spanish Game (5)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
-## French Defense (5)
+## French Defense (4)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
@@ -69,39 +54,13 @@
 | [sasadangelo (1044) vs Giovanni_777 (1036)](https://www.chess.com/game/live/108665747238) | 20240811 17:24 | [Normal Variation](https://www.chess.com/openings/Pirc-Defense-Small-Center-Defense) | ![Draw](img/draw.png) |
 | [sasadangelo (1013) vs Aliawadallah (1008)](https://www.chess.com/game/live/108648671640) | 20240810 16:11 | [Normal Variation](https://www.chess.com/openings/Pirc-Defense-Small-Center-Defense) | ![Lose](img/lose.png) |
 
-## Petrov's Defense (4)
+## Petrov's Defense (3)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
 | [sasadangelo (1021) vs THARAKRAM27 (1037)](https://www.chess.com/game/live/108632980416) | 20240809 16:48 | [Classical, Stafford Gambit](https://www.chess.com/openings/Petrovs-Defense-Classical-Damiano-Variation-4.Qe2) | ![Lose](img/lose.png) |
 | [sasadangelo (1045) vs mohamed5446755 (1062)](https://www.chess.com/game/live/108585108228) | 20240806 18:22 | [Classical, Stafford Gambit](https://www.chess.com/openings/Petrovs-Defense-Classical-Damiano-Variation-4.Qe2) | ![Lose](img/lose.png) |
 | [sasadangelo (1036) vs mnj3566 (1029)](https://www.chess.com/game/live/108582691720) | 20240806 15:41 | [Classical, Stafford Gambit](https://www.chess.com/openings/Petrovs-Defense-Classical-Stafford-Gambit-4.Nxc6-dxc6) | ![Draw](img/draw.png) |
-
-## Queen's Gambit (3)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
-## Vienna Game (3)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [sasadangelo (1075) vs AndyB217 (1079)](https://www.chess.com/game/live/108715961308) | 20240814 16:58 | [Falkbeer, Stanley Variation](https://www.chess.com/openings/Vienna-Game-Falkbeer-Variation) | ![Lose](img/lose.png) |
-
-## Bishop's Opening (3)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
-## London System (3)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
-## Three Knights Opening (2)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
 
 ## Caro-Kann Defense (2)
 
@@ -117,41 +76,17 @@
 | [sasadangelo (1043) vs dkddetol (1033)](https://www.chess.com/game/live/108699172230) | 20240813 17:21 | [-](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6) | ![Draw](img/draw.png) |
 | [sasadangelo (1028) vs nSveK (1027)](https://www.chess.com/game/live/108665242308) | 20240811 16:49 | [-](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6) | ![Lose](img/lose.png) |
 
-## Scotch Game (2)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
-## Four Knights Game (2)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
-## A06 (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
 ## Irregular Openings (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
 | [sasadangelo (1085) vs AngelBigBrain21 (1063)](https://www.chess.com/game/live/117579010621) | 20240816 22:30 | [Uncommon Opening]() | ![Win](img/win.png) |
 
-## D04 (1)
+## Vienna Game (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-
-## C78 (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
-## English Opening (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
+| [sasadangelo (1075) vs AndyB217 (1079)](https://www.chess.com/game/live/108715961308) | 20240814 16:58 | [Falkbeer, Stanley Variation](https://www.chess.com/openings/Vienna-Game-Falkbeer-Variation) | ![Lose](img/lose.png) |
 
 ## Pirc Defense (1)
 
@@ -159,32 +94,17 @@
 |---------|---------------|-----------|--------|
 | [sasadangelo (1043) vs RoloLoroCa (1048)](https://www.chess.com/game/live/108697315968) | 20240813 15:22 | [-](https://www.chess.com/openings/Pirc-Defense-2.d4) | ![Win](img/win.png) |
 
-## Center Game (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
 ## Nimzowitsch Defense (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
 | [sasadangelo (1058) vs dansk53 (1031)](https://www.chess.com/game/live/108669419066) | 20240811 21:39 | [Scandinavian, Bogoljubov, Vehre Variation](https://www.chess.com/openings/Owens-Defense-2.d4-Bb7-3.Nc3-e6-4.a3) | ![Win](img/win.png) |
 
-## C30 (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-
 ## Sicilian Defense (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
 | [sasadangelo (1029) vs DV1985 (1012)](https://www.chess.com/game/live/108659823714) | 20240811 09:32 | [Paulsen-Basman Defense](https://www.chess.com/openings/Sicilian-Defense-Pin-Variation) | ![Win](img/win.png) |
-
-## A45 (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
 
 ## C16 (1)
 

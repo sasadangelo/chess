@@ -8,13 +8,13 @@ if __name__ == "__main__":
     parser.add_argument('--num-games', type=int, default=-1, required=True, help='Number of recent games to select')
     parser.add_argument('--time-control', type=str, default="", required=True, help='The desired chess game time control (daily, rapid, blitz, bullet, etc.)')
     parser.add_argument('--output', type=str, default="docs/REPORT.md", required=False, help='The output report')
-    parser.add_argument('--color', type=str, default="any", required=False, help='The pieces color (white, black, or any)')
+    parser.add_argument('--color', type=str, default="", required=False, help='The pieces color (white, black, or any)')
     args = parser.parse_args()
 
-    pgn_file_name = args.user + ".pgn"
     num_games = args.num_games if args.num_games >= 0 else None
     time_control = args.time_control if args.time_control != "" else None
-    game_collection = GameCollection(pgn_file_name, num_games, time_control)
+    color = args.color if args.color != "" else None
+    game_collection = GameCollection(args.user, num_games, time_control, color)
 
     # Apre il file REPORT.md in modalità scrittura
     with open(args.output, "w") as report_file:
@@ -24,7 +24,7 @@ if __name__ == "__main__":
             report_file.write( "| Opening | Date and Time | Variation | Result |\n")
             report_file.write( "|---------|---------------|-----------|--------|\n")
             for game in games:
-                if (args.color == "any") or (args.color == "white" and game.white_player == args.user) or (args.color == "black" and game.black_player == args.user):
+                if (args.color == "") or (args.color == "white" and game.white_player == args.user) or (args.color == "black" and game.black_player == args.user):
                     if game.result == "1/2-1/2":
                         report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
                     elif (game.white_player == args.user and game.result == "1-0") or (game.black_player == args.user and game.result == "0-1"):

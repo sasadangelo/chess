@@ -101,21 +101,25 @@ class Game:
         self.black_player = self.game.headers["TimeControl"]
 
 class GameCollection:
-    def __init__(self, pgn_file, num_games=None, time_control=None):
-        self.games = self.__load_games(pgn_file, num_games, time_control)
+    def __init__(self, username, num_games=None, time_control=None, color=None):
+        self.games = self.__load_games(username, num_games, time_control, color)
         self.games_by_opening = self.__create_opening_map()
 
-    def __load_games(self, pgn_file, num_games=None, time_control=None):
+    def __load_games(self, username, num_games=None, time_control=None, color=None):
         games = []
+        pgn_file = username + ".pgn"
         with open(pgn_file) as pgn:
             while True:
                 chess_game = chess.pgn.read_game(pgn)
                 if chess_game is None:
                     break
                 game = Game(chess_game)
-                if (time_control is None) or \
+                if ((time_control is None) or \
                     (time_control=="rapid" and game.time_control == TimeControlType.RAPID) or \
-                    (time_control=="standard" and game.time_control == TimeControlType.STANDARD):
+                    (time_control=="standard" and game.time_control == TimeControlType.STANDARD)) and \
+                   (color is None or \
+                    (color == "white" and game.white_player == username) or \
+                    (color == "black" and game.black_player == username)):
                     games.append(game)
                 if num_games and len(games) > num_games:
                     break

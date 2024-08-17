@@ -47,17 +47,17 @@ jobs:
     - name: Create the Daily report for sasadangelo games
       run: |
         source venv/bin/activate
-        python3 report.py --user sasadangelo --num-games 100 --time-control daily --output docs/REPORT_Standard.md
+        python3 report.py --user sasadangelo --num-games 100 --time-control standard --output docs/REPORT_Standard.md
 
     - name: Create the Daily report (White) for sasadangelo games
       run: |
         source venv/bin/activate
-        python3 report.py --user sasadangelo --num-games 100 --time-control daily --output docs/REPORT_Standard_White.md --color white
+        python3 report.py --user sasadangelo --num-games 100 --time-control standard --output docs/REPORT_Standard_White.md --color white
 
     - name: Create the Daily report (Black) for sasadangelo games
       run: |
         source venv/bin/activate
-        python3 report.py --user sasadangelo --num-games 100 --time-control daily --output docs/REPORT_Standard_Black.md --color black
+        python3 report.py --user sasadangelo --num-games 100 --time-control standard --output docs/REPORT_Standard_Black.md --color black
 
     - name: Check for changes
       id: check_changes
