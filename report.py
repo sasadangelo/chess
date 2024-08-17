@@ -1,5 +1,5 @@
 import argparse
-from src.model.games import GameCollection, Game
+from src.model.games import GameCollection, ResultGame
 
 if __name__ == "__main__":
     # Configura il parser per gestire gli argomenti da riga di comando
@@ -19,15 +19,20 @@ if __name__ == "__main__":
     # Apre il file REPORT.md in modalità scrittura
     with open(args.output, "w") as report_file:
         report_file.write(f"# Chess games Report for the latest {args.num_games} {args.user}'s games.\n\n")
+        report_file.write(f"Total games: {game_collection.total_games}\n")
+        report_file.write(f"- Win games: {game_collection.win_games} ({game_collection.win_games*100/game_collection.total_games:.2f} %)\n")
+        report_file.write(f"- Lost games: {game_collection.lost_games} ({game_collection.lost_games*100/game_collection.total_games:.2f} %)\n")
+        report_file.write(f"- Draw games: {game_collection.draw_games} ({game_collection.draw_games*100/game_collection.total_games:.2f} %)\n")
         for opening_name, games in game_collection.games_by_opening.items():
             report_file.write(f"\n## {opening_name} ({len(games)})\n\n")
             report_file.write( "| Opening | Date and Time | Variation | Result |\n")
             report_file.write( "|---------|---------------|-----------|--------|\n")
             for game in games:
                 if (args.color == "") or (args.color == "white" and game.white_player == args.user) or (args.color == "black" and game.black_player == args.user):
-                    if game.result == "1/2-1/2":
-                        report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Draw](img/draw.png) |\n")
-                    elif (game.white_player == args.user and game.result == "1-0") or (game.black_player == args.user and game.result == "0-1"):
-                        report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Win](img/win.png) |\n")
+                    if game.result == ResultGame.DRAW:
+                        image_markdown = "![Draw](img/draw.png)"
+                    elif game.result == ResultGame.WIN:
+                        image_markdown = "![Win](img/win.png)"
                     else:
-                        report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | ![Lose](img/lose.png) |\n")
+                        image_markdown = "![Lose](img/lose.png)"
+                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | {image_markdown} |\n")

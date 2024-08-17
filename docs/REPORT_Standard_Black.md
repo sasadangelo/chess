@@ -1,5 +1,9 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
+Total games: 2
+- Win games: 1 (50.00 %)
+- Lost games: 1 (50.00 %)
+- Draw games: 0 (0.00 %)
 
 ## Scotch Game (1)
 

@@ -1,5 +1,9 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
+Total games: 49
+- Win games: 22 (44.90 %)
+- Lost games: 26 (53.06 %)
+- Draw games: 1 (2.04 %)
 
 ## King's Pawn Opening (7)
 

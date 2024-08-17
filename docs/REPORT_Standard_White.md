@@ -1,5 +1,9 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
+Total games: 3
+- Win games: 0 (0.00 %)
+- Lost games: 3 (100.00 %)
+- Draw games: 0 (0.00 %)
 
 ## Italian Game (2)
 

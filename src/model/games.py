@@ -62,12 +62,16 @@ class TimeControlType(enum.Enum):
     BLITZ = 4
     BULLET = 5
 
+class ResultGame(enum.Enum):
+    WIN = 0
+    LOSE = 1
+    DRAW = 2
+
 class Game:
-    def __init__(self, game):
+    def __init__(self, username, game):
         self.game = game
         self.white_player = self.game.headers["White"]
         self.black_player = self.game.headers["Black"]
-        self.result = self.game.headers["Result"]
         self.link = self.game.headers["Link"]
         self.white_elo = self.game.headers["WhiteElo"]
         self.black_elo = self.game.headers["BlackElo"]
@@ -80,6 +84,12 @@ class Game:
         # Assegna il nome e la variante dell'apertura ai campi della tua classe
         self.opening_name = opening_name if opening_name != "Unknown Opening" else self.opening_code
         self.opening_variation = opening_variation if opening_name != "Unknown Variation" else self.opening_code
+        if self.game.headers["Result"] == "1/2-1/2":
+            self.result = ResultGame.DRAW
+        elif (self.white_player == username and self.game.headers["Result"] == "1-0") or (self.black_player == username and self.game.headers["Result"] == "0-1"):
+            self.result = ResultGame.WIN
+        else:
+            self.result = ResultGame.LOSE
 
     def __convert_to_local_time(self, date_str, time_str):
         # Combina data e ora in un unico formato datetime
@@ -102,6 +112,10 @@ class Game:
 
 class GameCollection:
     def __init__(self, username, num_games=None, time_control=None, color=None):
+        self.total_games = 0;
+        self.win_games = 0;
+        self.lost_games = 0;
+        self.draw_games = 0;
         self.games = self.__load_games(username, num_games, time_control, color)
         self.games_by_opening = self.__create_opening_map()
 
@@ -113,13 +127,20 @@ class GameCollection:
                 chess_game = chess.pgn.read_game(pgn)
                 if chess_game is None:
                     break
-                game = Game(chess_game)
+                game = Game(username, chess_game)
                 if ((time_control is None) or \
                     (time_control=="rapid" and game.time_control == TimeControlType.RAPID) or \
                     (time_control=="standard" and game.time_control == TimeControlType.STANDARD)) and \
                    (color is None or \
                     (color == "white" and game.white_player == username) or \
                     (color == "black" and game.black_player == username)):
+                    self.total_games+=1
+                    if game.result == ResultGame.WIN:
+                        self.win_games+=1
+                    if game.result == ResultGame.LOSE:
+                        self.lost_games+=1
+                    if game.result == ResultGame.DRAW:
+                        self.draw_games+=1
                     games.append(game)
                 if num_games and len(games) > num_games:
                     break
