@@ -35,4 +35,8 @@ if __name__ == "__main__":
                         image_markdown = "![Win](img/win.png)"
                     else:
                         image_markdown = "![Lose](img/lose.png)"
-                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{game.opening_variation}]({game.opening_url}) | {image_markdown} |\n")
+                    url_text = game.opening_variation
+                    if url_text == "-":
+                        url_text = "read variation here"
+
+                    report_file.write(f"| [{game.white_player} ({game.white_elo}) vs {game.black_player} ({game.black_elo})]({game.link}) | {game.start_time.strftime("%Y%m%d %H:%M")} | [{url_text}]({game.opening_url}) | {image_markdown} |\n")

@@ -9,7 +9,7 @@ Total games: 2
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [R_o1993 (1397) vs sasadangelo (1075)](https://www.chess.com/game/daily/685625439) | 20240802 09:02 | [-](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4) | ![Lose](img/lose.png) |
+| [R_o1993 (1397) vs sasadangelo (1075)](https://www.chess.com/game/daily/685625439) | 20240802 09:02 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4) | ![Lose](img/lose.png) |
 
 ## Irregular Openings (1)
 

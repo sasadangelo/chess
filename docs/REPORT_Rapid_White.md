@@ -77,8 +77,8 @@ Total games: 46
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1043) vs dkddetol (1033)](https://www.chess.com/game/live/108699172230) | 20240813 17:21 | [-](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6) | ![Draw](img/draw.png) |
-| [sasadangelo (1028) vs nSveK (1027)](https://www.chess.com/game/live/108665242308) | 20240811 16:49 | [-](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6) | ![Lose](img/lose.png) |
+| [sasadangelo (1043) vs dkddetol (1033)](https://www.chess.com/game/live/108699172230) | 20240813 17:21 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6) | ![Draw](img/draw.png) |
+| [sasadangelo (1028) vs nSveK (1027)](https://www.chess.com/game/live/108665242308) | 20240811 16:49 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6) | ![Lose](img/lose.png) |
 
 ## Irregular Openings (1)
 
@@ -96,7 +96,7 @@ Total games: 46
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1043) vs RoloLoroCa (1048)](https://www.chess.com/game/live/108697315968) | 20240813 15:22 | [-](https://www.chess.com/openings/Pirc-Defense-2.d4) | ![Win](img/win.png) |
+| [sasadangelo (1043) vs RoloLoroCa (1048)](https://www.chess.com/game/live/108697315968) | 20240813 15:22 | [read variation here](https://www.chess.com/openings/Pirc-Defense-2.d4) | ![Win](img/win.png) |
 
 ## Nimzowitsch Defense (1)
 
