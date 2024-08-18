@@ -1,4 +1,4 @@
-# My Endgames Exercises
+# My End Games Exercises
 
 ## King + Pawn vs King End Games
 
