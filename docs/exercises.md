@@ -2,8 +2,8 @@
 
 ## King + Pawn vs King End Games
 
-1. [Exercise 1 (Easy)](https://lichess.org/?fen=8/8/8/8/8/4k3/3P4/4K3%20b%20-%20-%200%201#ai)
-2. [Exercise 2 (Easy)](https://www.chess.com/analysis?tab=analysis&position=8/8/8/8/8/3k4/3P4/3K4%20w%20-%20-%200%201)
+1. [Attacking King in Fron 1](https://lichess.org/?fen=4k3/8/4K3/8/8/8/4P3/8%20w%20-%20-%200%201#ai)
+2. [Exercise 2 (Easy)](https://lichess.org/?fen=8/8/8/8/8/3k4/3P4/3K4%20w%20-%20-%200%201#ai)
 3. [Exercise 3 (Easy)](https://www.chess.com/analysis?tab=analysis&position=8/8/8/8/8/3k4/2PK4/8%20w%20-%20-%200%201)
 4. [Exercise 4 (Intermediate)](https://www.chess.com/analysis?tab=analysis&position=8/8/8/8/3k4/8/3P4/4K3%20w%20-%20-%200%201)
 5. [Exercise 5 (Intermediate)](https://www.chess.com/analysis?tab=analysis&position=8/8/8/8/8/4k3/2P5/3K4%20w%20-%20-%200%201)
