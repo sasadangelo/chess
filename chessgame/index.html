@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gioco di scacchi da posizione FEN</title>
+    <!-- Includiamo lo stile di chessboard.js -->
+    <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
+    <style>
+        #board {
+            width: 400px;
+            margin: 20px auto;
+        }
+        #fenInput {
+            width: 100%;
+            padding: 8px;
+        }
+        button {
+            padding: 10px 20px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Gioca a scacchi da una posizione FEN</h1>
+    <div id="board"></div>
+
+    <!-- Input per inserire una posizione FEN -->
+    <input type="text" id="fenInput" placeholder="Inserisci FEN" value="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1">
+    <button id="startBtn">Inizia da FEN</button>
+
+    <!-- Includiamo le librerie -->
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/chessboard-1.0.0.min.js"></script>
+    <script src="js/chess.min.js"></script>
+
+    <script>
+        // Inizializza la scacchiera e il gioco
+        var board = null;
+        var game = new Chess();
+
+        // Funzione per aggiornare la scacchiera con una posizione FEN
+        function updateBoard(fen) {
+            game.load(fen); // Carica la posizione FEN nel motore scacchi
+            board.position(fen); // Aggiorna la scacchiera visiva
+        }
+
+        // Configurazione iniziale della scacchiera
+        var config = {
+            draggable: true,
+            position: 'start',
+            onDrop: function(source, target) {
+                var move = game.move({
+                    from: source,
+                    to: target,
+                    promotion: 'q' // sempre promuovi a regina per semplicità
+                });
+
+                // Se la mossa è illegale, ritorna il pezzo indietro
+                if (move === null) return 'snapback';
+            }
+        };
+
+        board = Chessboard('board', config);
+
+        // Aggiungi evento al pulsante per caricare la FEN
+        document.getElementById('startBtn').addEventListener('click', function() {
+            var fen = document.getElementById('fenInput').value;
+            updateBoard(fen);
+        });
+    </script>
+</body>
+</html>
+
