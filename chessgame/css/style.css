@@ -1,0 +1,12 @@
+#board {
+  width: 400px;
+  margin: 20px auto;
+}
+#fenInput {
+  width: 100%;
+  padding: 8px;
+}
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+}
