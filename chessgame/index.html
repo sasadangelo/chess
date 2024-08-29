@@ -3,18 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gioca a Scacchi</title>
+    <title>End Game Gym</title>
     <!-- Includiamo lo stile di chessboard.js -->
     <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1 style="text-align: center;">Gioca a Scacchi</h1>
-    <div id="board"></div>
+    <h1 style="text-align: center;">End Game Gym</h1>
 
-    <!-- Input per inserire una posizione FEN -->
-    <input type="text" id="fenInput" placeholder="Inserisci FEN" value="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1">
-    <button id="startBtn">Inizia da FEN</button>
+    <!-- Dropdown per selezionare la categoria -->
+    <select id="categorySelect">
+        <option value="">Select a Category</option>
+    </select>
+
+    <!-- Dropdown per selezionare il gioco -->
+    <select id="gameSelect">
+        <option value="">Select an End Game</option>
+    </select>
+
+    <button id="startBtn">Play</button>
+
+    <div id="board"></div>
 
     <!-- Includiamo le librerie -->
     <script src="js/jquery-3.6.0.min.js"></script>
