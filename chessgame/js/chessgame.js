@@ -89,7 +89,7 @@ board = Chessboard('board', config);
 // Funzione per far giocare il computer
 function makeBestMove() {
     if (game.game_over()) {
-        alert('Game over');
+        checkGameOver(); // Check the game state
         return;
     }
 
@@ -102,19 +102,41 @@ function makeBestMove() {
 
 stockfish.onmessage = function(event) {
     var message = event.data; // Accedi al contenuto del messaggio
-    console.log(message)
-    console.log(message.includes('bestmove'))
-    console.log(engineRunning)
-
 
     if (message.includes('bestmove') && engineRunning) {
         var bestMove = message.split(' ')[1];
-        console.log(bestMove)
-        console.log(game.move(bestMove, { sloppy: true }));
-        board.position(game.fen());
+        var move = game.move(bestMove, { sloppy: true });
+        if (move !== null) {
+            board.position(game.fen());
+
+            if (game.game_over()) {
+                checkGameOver(); // Check the game state after the engine's move
+            }
+        }
         engineRunning = false;
     }
 };
+
+// Function to check if the game is over and who won
+function checkGameOver() {
+    if (game.in_checkmate()) {
+        if (game.turn() === 'w') {
+            alert('Checkmate! Black wins.');
+        } else {
+            alert('Checkmate! White wins.');
+        }
+    } else if (game.in_stalemate()) {
+        alert('Stalemate! It\'s a draw.');
+    } else if (game.in_draw()) {
+        alert('Draw!');
+    } else if (game.insufficient_material()) {
+        alert('Draw due to insufficient material!');
+    } else if (game.in_threefold_repetition()) {
+        alert('Draw due to threefold repetition!');
+    } else {
+        alert('Game over.');
+    }
+}
 
 // Aggiungi evento al pulsante per caricare la FEN del gioco selezionato
 $('#startBtn').on('click', function() {
