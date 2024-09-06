@@ -1,43 +1,70 @@
 <!DOCTYPE html>
-<html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>End Game Gym</title>
-    <!-- Includiamo lo stile di chessboard.js -->
-    <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-    <h1 style="text-align: center;">End Game Gym</h1>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>End Game Gym</title>
+        <!-- Includiamo lo stile di chessboard.js -->
+        <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="../assets/css/styles.css">
+    </head>
+    <body>
+        <header>
+            <div class="container">
+              <div id="logo">
+                <img src="../assets/img/logo.png" alt="Logo" width="120" height="120">
+              </div>
+              <nav id="social-nav">
+                <a href="#" target="_blank"><img src="../assets/img/facebook.png" alt="Facebook"></a>
+                <a href="#" target="_blank"><img src="../assets/img/twitter.png" alt="Twitter"></a>
+                <a href="#" target="_blank"><img src="../assets/img/instagram.png" alt="Instagram"></a>
+              </nav>
+            </div>
+        </header>
+        <div class="container main">
+            <aside id="sidebar">
+                <ul>
+                    <li><a href="../index.html">Overview</a></li>
+                    <li><a href="../chessgame/index.html">End Game Gym</a></li>
+                </ul>
+            </aside>
+            <main id="content">
+                <h1>End Game Gym</h1>
+                <div style="text-align: center;">
+                    <label><input type="radio" name="mode" value="automatic" checked> Automatic Mode</label>
+                    <label><input type="radio" name="mode" value="manual"> Manual Mode</label>
+                </div>
 
-    <div style="text-align: center;">
-        <label><input type="radio" name="mode" value="automatic" checked> Automatic Mode</label>
-        <label><input type="radio" name="mode" value="manual"> Manual Mode</label>
-    </div>
+                <div id="manualOptions" style="text-align: center;">
+                    <!-- Dropdown per selezionare la categoria -->
+                    <select id="categorySelect">
+                        <option value="">Select a category</option>
+                    </select>
+                    <!-- Dropdown per selezionare il gioco -->
+                    <select id="gameSelect">
+                        <option value="">Select a game</option>
+                    </select>
+                </div>
 
-    <div id="manualOptions" style="text-align: center;">
-        <!-- Dropdown per selezionare la categoria -->
-        <select id="categorySelect">
-            <option value="">Select a category</option>
-        </select>
-        <!-- Dropdown per selezionare il gioco -->
-        <select id="gameSelect">
-            <option value="">Select a game</option>
-        </select>
-    </div>
+                <button id="startBtn" style="display: block; margin: 20px auto;">Start Game</button>
 
-    <button id="startBtn" style="display: block; margin: 20px auto;">Start Game</button>
+                <div id="board"></div>
 
-    <div id="board"></div>
-
-    <!-- Includiamo le librerie -->
-    <script src="js/jquery-3.6.0.min.js"></script>
-    <script src="js/chessboard-1.0.0.min.js"></script>
-    <script src="js/chess.min.js"></script>
-    <!-- Includi Stockfish -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/stockfish.js/10.0.2/stockfish.min.js"></script>
-    <script src="js/chessgame.js"></script>
-</body>
+                <!-- Includiamo le librerie -->
+                <script src="js/jquery-3.6.0.min.js"></script>
+                <script src="js/chessboard-1.0.0.min.js"></script>
+                <script src="js/chess.min.js"></script>
+                <!-- Includi Stockfish -->
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/stockfish.js/10.0.2/stockfish.min.js"></script>
+                <script src="js/chessgame.js"></script>
+            </main>
+        </div>
+        <footer>
+            <div class="container">
+              <p>&copy; 2024 Salvatore D'Angelo Chess Gym. All rights reserved.</p>
+            </div>
+          </footer>
+      </body>
 </html>
 
