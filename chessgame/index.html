@@ -11,17 +11,23 @@
 <body>
     <h1 style="text-align: center;">End Game Gym</h1>
 
-    <!-- Dropdown per selezionare la categoria -->
-    <select id="categorySelect">
-        <option value="">Select a Category</option>
-    </select>
+    <div style="text-align: center;">
+        <label><input type="radio" name="mode" value="automatic" checked> Automatic Mode</label>
+        <label><input type="radio" name="mode" value="manual"> Manual Mode</label>
+    </div>
 
-    <!-- Dropdown per selezionare il gioco -->
-    <select id="gameSelect">
-        <option value="">Select an End Game</option>
-    </select>
+    <div id="manualOptions" style="text-align: center;">
+        <!-- Dropdown per selezionare la categoria -->
+        <select id="categorySelect">
+            <option value="">Select a category</option>
+        </select>
+        <!-- Dropdown per selezionare il gioco -->
+        <select id="gameSelect">
+            <option value="">Select a game</option>
+        </select>
+    </div>
 
-    <button id="startBtn">Play</button>
+    <button id="startBtn" style="display: block; margin: 20px auto;">Start Game</button>
 
     <div id="board"></div>
 

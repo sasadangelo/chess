@@ -63,13 +63,18 @@ $('#categorySelect').on('change', function() {
 // Funzione per aggiornare la scacchiera con una posizione FEN
 function updateBoard(fen) {
     game.load(fen); // Carica la posizione FEN nel motore scacchi
+    // Aggiorna l'orientamento della scacchiera in base al turno
+    var orientation = game.turn() === 'b' ? 'black' : 'white';
+    board.orientation(orientation);
     board.position(fen); // Aggiorna la scacchiera visiva
 }
 
+console.log(game.turn())
 // Configurazione iniziale della scacchiera
 var config = {
     draggable: true,
     position: 'start',
+    orientation: game.turn() === 'b' ? 'black' : 'white',
     onDrop: function(source, target) {
         var move = game.move({
             from: source,
@@ -138,17 +143,42 @@ function checkGameOver() {
     }
 }
 
-// Aggiungi evento al pulsante per caricare la FEN del gioco selezionato
-$('#startBtn').on('click', function() {
-    var gameId = $('#gameSelect').val();
-    var categoryId = $('#categorySelect').val();
+// Function to start a new game
+function startNewGame() {
+    var mode = $('input[name="mode"]:checked').val();
 
-    if (gameId && categoryId) {
-        var selectedGame = games[categoryId].find(game => game.ID === gameId);
-        if (selectedGame) {
-            updateBoard(selectedGame.FEN);
+    if (mode === 'manual') {
+        var gameId = $('#gameSelect').val();
+        var categoryId = $('#categorySelect').val();
+
+        if (gameId && categoryId) {
+            var selectedGame = games[categoryId].find(game => game.ID === gameId);
+            if (selectedGame) {
+                updateBoard(selectedGame.FEN);
+            }
+        } else {
+            alert('Please select a category and a game.');
         }
-    } else {
-        alert('Seleziona una categoria e un gioco.');
+    } else if (mode === 'automatic') {
+        var randomCategory = Object.keys(games)[Math.floor(Math.random() * Object.keys(games).length)];
+        var randomGame = games[randomCategory][Math.floor(Math.random() * games[randomCategory].length)];
+        updateBoard(randomGame.FEN);
+        alert('Automatically selected game: ' + randomGame.Name);
     }
+}
+// Start the game when the button is clicked
+$('#startBtn').on('click', startNewGame);
+
+// Toggle manual options based on the selected mode
+$('input[name="mode"]').on('change', function() {
+    if ($(this).val() === 'manual') {
+        $('#manualOptions').show();
+    } else {
+        $('#manualOptions').hide();
+    }
+});
+
+// Hide manual options by default when the document is ready
+$(document).ready(function() {
+    $('#manualOptions').hide(); // Hide manual options by default
 });

@@ -1,0 +1,80 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Basic Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f0f0f0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background-color: #fff; /* Colore bianco */
+  color: #333; /* Colore testo header */
+  padding: 10px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Ombra leggera */
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#logo img {
+  height: 120px; /* Altezza del logo */
+}
+
+#social-nav {
+  display: flex;
+}
+
+#social-nav a {
+  margin-left: 10px;
+}
+
+.nav-bar {
+  height: 15px;
+  background-color: #142e51; /* Colore blu */
+}
+
+.main {
+  display: flex;
+}
+
+#sidebar {
+  width: 20%;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+}
+
+#sidebar ul li {
+  margin-bottom: 10px;
+}
+
+#content {
+  flex: 1; /* Occupa tutto lo spazio disponibile */
+  background-color: #fff;
+  padding: 20px;
+}
+
+footer {
+  background-color: #142e51; /* Colore blu */
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
