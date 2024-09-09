@@ -1,24 +1,31 @@
 ID, Category_ID, Name, FEN
-1, 5, Pawn Racing, 6k1/8/8/8/8/8/P7/7K w - - 0 1
-2, 5, King Protection, 8/4k3/2K5/8/8/8/1P6/8 w - - 0 1
-3, 5, Opposition, 8/5k2/8/6K1/5P2/8/8/8 w - - 0 1
-4, 5, Distant Opposition, k7/8/8/8/8/8/1P6/K7 w - - 0 1
-5, 5, Distant Diagonal Opposition, 5k2/8/8/8/8/K7/1P6/8 w - - 0 1
-6, 5, Opposition: Pawn on 6th Rank (Win), 5k2/8/5PK1/8/8/8/8/8 w - - 0 1
-7, 5, Opposition: Pawn on 6th Rank (Draw), 5k2/8/5PK1/8/8/8/8/8 b - - 0 1
-8, 5, Opposition: Knight's Pawn on 6th Rank (Draw), 8/8/8/8/8/5kp1/7K/8 w - - 0 1
-9, 5, Opposition: Rook's Pawn on 6th Rank (Draw), 8/8/8/8/8/6kp/8/6K1 w - - 0 1
-10, 5, Opposition: Bishop's Pawn on 6th Rank (Win), k7/8/2P5/K7/8/8/8/8 w - - 0 1
-11, 5, Opposition: Pawn on 5th Rank (Win), 5k2/8/4K3/5P2/8/8/8/8 w - - 0 1
-12, 5, Opposition: Knight's Pawn on 5th Rank (Draw), 7k/5K2/8/6P1/8/8/8/8 w - - 0 1
-13, 5, Opposition: Knight's Pawn on 4th Rank (Win), 8/k7/8/1K6/1P6/8/8/8 w - - 0 1
-14, 5, Opposition: Pawn on 4th Rank (Win), 5k2/8/8/8/3PK3/8/8/8 w - - 0 1
-15, 5, Imprisoning the stronger's side King (Draw), 8/8/8/p7/8/1k6/3K4/8 w - - 0 1
-16, 5, King and Pawn Win 1 (Win), 4k3/8/4K3/8/4P3/8/8/8 w - - 0 1
-17, 5, King and Pawn Win 2 (Win), 4k3/8/4K3/4P3/8/8/8/8 w - - 0 1
-18, 5, Attacking King in Front 1 (Win), 4k3/8/4K3/8/8/8/4P3/8 w - - 0 1
-19, 5, Attacking King in Front 2 (Win), 4k3/8/8/8/8/8/4P3/4K3 w - - 0 1
-20, 5, King Racing (Draw), 8/8/8/8/8/8/1k5P/6K1 b - - 0 1
-21, 6, Double Pawns (Win), 8/1k6/8/1P6/1P6/1K6/8/8 w - - 0 1
-22, 6, Isolated Pawns - Mutual Defense (Win), 8/8/8/5k2/5P1P/8/8/K7 w - - 0 1
-23, 6, Isolated Pawns - Delay in Capture (Win), 8/8/2k5/8/P2P4/8/8/7K w - - 0 1
+ 1, 1, King in the Corner, 6k1/3Q4/8/5K2/8/8/8/8 w - - 0 1
+ 2, 1, King in the Corner 2, 1k6/8/8/8/K3Q3/8/8/8 w - - 0 1
+ 3, 1, Force King to the Edge, 8/4k3/8/8/2Q3K1/8/8/8 w - - 0 1
+ 4, 1, Force King to the Edge 2, 8/8/2K5/8/4Q3/1k6/8/8 w - - 0 1
+ 5, 1, Pawn Promotion, 8/8/2KP4/8/8/2k5/8/8 w - - 0 1
+ 6, 1, Game of Patience, 8/8/8/5k2/8/8/6Q1/7K w - - 0 1
+ 7, 1, King on the Edge, 8/8/8/7k/8/8/5Q2/7K w - - 0 1
+ 8, 5, Pawn Racing, 6k1/8/8/8/8/8/P7/7K w - - 0 1
+ 9, 5, King Protection, 8/4k3/2K5/8/8/8/1P6/8 w - - 0 1
+10, 5, Opposition, 8/5k2/8/6K1/5P2/8/8/8 w - - 0 1
+11, 5, Distant Opposition, k7/8/8/8/8/8/1P6/K7 w - - 0 1
+12, 5, Distant Diagonal Opposition, 5k2/8/8/8/8/K7/1P6/8 w - - 0 1
+13, 5, Opposition: Pawn on 6th Rank (Win), 5k2/8/5PK1/8/8/8/8/8 w - - 0 1
+14, 5, Opposition: Pawn on 6th Rank (Draw), 5k2/8/5PK1/8/8/8/8/8 b - - 0 1
+15, 5, Opposition: Knight's Pawn on 6th Rank (Draw), 8/8/8/8/8/5kp1/7K/8 w - - 0 1
+16, 5, Opposition: Rook's Pawn on 6th Rank (Draw), 8/8/8/8/8/6kp/8/6K1 w - - 0 1
+17, 5, Opposition: Bishop's Pawn on 6th Rank (Win), k7/8/2P5/K7/8/8/8/8 w - - 0 1
+18, 5, Opposition: Pawn on 5th Rank (Win), 5k2/8/4K3/5P2/8/8/8/8 w - - 0 1
+19, 5, Opposition: Knight's Pawn on 5th Rank (Draw), 7k/5K2/8/6P1/8/8/8/8 w - - 0 1
+20, 5, Opposition: Knight's Pawn on 4th Rank (Win), 8/k7/8/1K6/1P6/8/8/8 w - - 0 1
+21, 5, Opposition: Pawn on 4th Rank (Win), 5k2/8/8/8/3PK3/8/8/8 w - - 0 1
+22, 5, Imprisoning the stronger's side King (Draw), 8/8/8/p7/8/1k6/3K4/8 w - - 0 1
+23, 5, King and Pawn Win 1 (Win), 4k3/8/4K3/8/4P3/8/8/8 w - - 0 1
+24, 5, King and Pawn Win 2 (Win), 4k3/8/4K3/4P3/8/8/8/8 w - - 0 1
+25, 5, Attacking King in Front 1 (Win), 4k3/8/4K3/8/8/8/4P3/8 w - - 0 1
+26, 5, Attacking King in Front 2 (Win), 4k3/8/8/8/8/8/4P3/4K3 w - - 0 1
+27, 5, King Racing (Draw), 8/8/8/8/8/8/1k5P/6K1 b - - 0 1
+28, 6, Double Pawns (Win), 8/1k6/8/1P6/1P6/1K6/8/8 w - - 0 1
+29, 6, Isolated Pawns - Mutual Defense (Win), 8/8/8/5k2/5P1P/8/8/K7 w - - 0 1
+30, 6, Isolated Pawns - Delay in Capture (Win), 8/8/2k5/8/P2P4/8/8/7K w - - 0 1
