@@ -1,143 +1,152 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
-Total games: 47
-- Win games: 26 (55.32 %)
-- Lost games: 19 (40.43 %)
-- Draw games: 2 (4.26 %)
+Total games: 51
+- Win games: 28 (54.90 %)
+- Lost games: 21 (41.18 %)
+- Draw games: 2 (3.92 %)
 
-## Spanish Game (6)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [duartech (1133) vs sasadangelo (1125)](https://www.chess.com/game/live/118785031369) | 20240830 19:29 | [Morphy Defense](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Anderssen-Variation-5...b5-6.Bb3-Be7) | ![Win](img/win.png) |
-| [Albertojhb1 (1138) vs sasadangelo (1117)](https://www.chess.com/game/live/117827932483) | 20240819 17:32 | [Modern Steinitz Defence](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Jaffe-Gambit) | ![Win](img/win.png) |
-| [Uchiha_Madaraj (1028) vs sasadangelo (1085)](https://www.chess.com/game/live/117577183503) | 20240816 19:57 | [5. O-O](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Columbus-Variation...5.O-O-b5-6.Bb3-Bc5) | ![Lose](img/lose.png) |
-| [santiagosebastian1972 (1075) vs sasadangelo (1075)](https://www.chess.com/game/live/108732153796) | 20240815 13:47 | [Morphy Defence, Exchange Variation](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Kings-Bishop-Variation) | ![Win](img/win.png) |
-| [omar-mohmamed (1015) vs sasadangelo (1050)](https://www.chess.com/game/live/108669240424) | 20240811 19:26 | [Morphy Defence, Exchange Variation](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation-4...dxc6) | ![Win](img/win.png) |
-| [JimmyMole (1044) vs sasadangelo (1034)](https://www.chess.com/game/live/108668936866) | 20240811 19:03 | [Morphy Defence, Exchange Variation](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation-4...dxc6) | ![Lose](img/lose.png) |
-
-## Queen's Pawn Opening (6)
+## Queen's Pawn Opening (9)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [aleksibennett (1047) vs sasadangelo (1080)](https://www.chess.com/game/live/108913355400) | 20240825 19:52 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation) | ![Win](img/win.png) |
-| [Mai_Hoo_Spiderman (1076) vs sasadangelo (1088)](https://www.chess.com/game/live/108852084542) | 20240822 11:30 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Bf4) | ![Draw](img/draw.png) |
-| [RobertWardBooth (1083) vs sasadangelo (1093)](https://www.chess.com/game/live/108787615712) | 20240818 18:53 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Nf6-3.e3-Bf5) | ![Win](img/win.png) |
-| [pernis7 (1090) vs sasadangelo (1084)](https://www.chess.com/game/live/108739098558) | 20240815 21:46 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Nf3) | ![Win](img/win.png) |
-| [mobinantony (1090) vs sasadangelo (1068)](https://www.chess.com/game/live/108715096712) | 20240814 14:03 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Nf3) | ![Lose](img/lose.png) |
-| [wouter434 (1030) vs sasadangelo (1035)](https://www.chess.com/game/live/108665901842) | 20240811 15:35 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Bf4-Bf5) | ![Lose](img/lose.png) |
+| [SkullLunar (1128) vs sasadangelo (1121)](https://www.chess.com/game/live/124898915141) | 20241109 14:42 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Nf6-3.e3-Bf5) | ![Win](img/win.png) |
+| [ladolcevitta (1196) vs sasadangelo (1117)](https://www.chess.com/game/live/124833565739) | 20241108 20:36 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Nf6-3.e3-c5) | ![Win](img/win.png) |
+| [obeaugrand (1090) vs sasadangelo (1107)](https://www.chess.com/game/live/120771625220) | 20241108 19:45 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3-Nf6) | ![Win](img/win.png) |
+| [stresslessplaychess (1089) vs sasadangelo (1090)](https://www.chess.com/game/live/120766727836) | 20241108 15:10 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3) | ![Win](img/win.png) |
+| [Danilo1958 (1068) vs sasadangelo (1072)](https://www.chess.com/game/live/120732619778) | 20241106 19:40 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack-2...f6-3.Bh4) | ![Lose](img/lose.png) |
+| [Cacfams (1078) vs sasadangelo (1042)](https://www.chess.com/game/live/120653246002) | 20241102 17:29 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3) | ![Lose](img/lose.png) |
+| [victormouton (1049) vs sasadangelo (1019)](https://www.chess.com/game/live/120596719942) | 20241030 19:32 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Nf6-3.e3-Bf5) | ![Lose](img/lose.png) |
+| [Carlos_koeman (1044) vs sasadangelo (1041)](https://www.chess.com/game/live/120478218984) | 20241029 17:55 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...Nf6-3.Bf4-Bf5) | ![Lose](img/lose.png) |
+| [GrosieMatis (1057) vs sasadangelo (1041)](https://www.chess.com/game/live/120349259416) | 20241028 10:05 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.c3-Nf6) | ![Lose](img/lose.png) |
 
 ## King's Pawn Opening (6)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [horselessknight2023 (1062) vs sasadangelo (1072)](https://www.chess.com/game/live/108876208202) | 20240823 17:37 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Wayward-Queen-Attack-2...Nc6-3.Bc4) | ![Win](img/win.png) |
-| [rici19741 (1071) vs sasadangelo (1093)](https://www.chess.com/game/live/108750903574) | 20240816 15:33 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation) | ![Win](img/win.png) |
-| [Leonard03303 (1033) vs sasadangelo (1068)](https://www.chess.com/game/live/108714729246) | 20240814 13:39 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Napoleon-Attack) | ![Win](img/win.png) |
-| [valiantsinpiatrou (1034) vs sasadangelo (1034)](https://www.chess.com/game/live/108695386132) | 20240813 11:04 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Napoleon-Attack) | ![Lose](img/lose.png) |
-| [bonfaceotieno (1048) vs sasadangelo (1058)](https://www.chess.com/game/live/108675861848) | 20240812 07:15 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation-2...Nf6) | ![Win](img/win.png) |
-| [DBanks1 (1043) vs sasadangelo (1034)](https://www.chess.com/game/live/108669868870) | 20240811 20:14 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Wayward-Queen-Attack-2...Nc6-3.Bc4) | ![Lose](img/lose.png) |
+| [SriramNedunchezhiyan (1078) vs sasadangelo (1097)](https://www.chess.com/game/live/120749847136) | 20241107 17:39 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Mengarini-Opening) | ![Win](img/win.png) |
+| [rajyadav9 (1091) vs sasadangelo (1081)](https://www.chess.com/game/live/120708531050) | 20241105 15:09 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-1...e5) | ![Lose](img/lose.png) |
+| [horsehunter901 (1067) vs sasadangelo (1066)](https://www.chess.com/game/live/120674237480) | 20241103 19:27 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation-2...d5) | ![Draw](img/draw.png) |
+| [onepapa-4 (1011) vs sasadangelo (1049)](https://www.chess.com/game/live/120615847546) | 20241031 18:50 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-1...e5) | ![Win](img/win.png) |
+| [gauravpapdiwal (1026) vs sasadangelo (1019)](https://www.chess.com/game/live/120596951264) | 20241030 19:45 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Napoleon-Attack) | ![Lose](img/lose.png) |
+| [GoryachkinS (1039) vs sasadangelo (1049)](https://www.chess.com/game/live/120336136166) | 20241027 16:15 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-1...e5) | ![Win](img/win.png) |
 
-## Scotch Game (4)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [Winther974 (1101) vs sasadangelo (1124)](https://www.chess.com/game/live/118778999339) | 20240830 17:45 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4) | ![Win](img/win.png) |
-| [karthikkumar1986 (1077) vs sasadangelo (1104)](https://www.chess.com/game/live/108982633296) | 20240829 16:46 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4) | ![Win](img/win.png) |
-| [WillsDad69 (1083) vs sasadangelo (1088)](https://www.chess.com/game/live/108948103294) | 20240827 18:26 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4) | ![Win](img/win.png) |
-| [BorisAliev (1035) vs sasadangelo (1034)](https://www.chess.com/game/live/108697267700) | 20240813 13:19 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4) | ![Lose](img/lose.png) |
-
-## Italian Game (4)
+## D35 (5)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [SamReese0403 (1087) vs sasadangelo (1096)](https://www.chess.com/game/live/108948184364) | 20240827 18:31 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation) | ![Win](img/win.png) |
-| [Rahul_gurjar1 (1153) vs sasadangelo (1102)](https://www.chess.com/game/live/117833352271) | 20240819 19:04 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Variation-5...d6) | ![Lose](img/lose.png) |
-| [Mohamedg5e4 (1065) vs sasadangelo (1093)](https://www.chess.com/game/live/108762761772) | 20240817 09:25 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-4.O-O-d6-5.c3-Nf6) | ![Win](img/win.png) |
-| [harjeetSingh7711 (1048) vs sasadangelo (1044)](https://www.chess.com/game/live/108665577488) | 20240811 15:12 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6) | ![Win](img/win.png) |
+| [bndnchrs (1185) vs sasadangelo (1111)](https://www.chess.com/game/live/124834208505) | 20241108 20:50 | [Unknown Variation](https://www.chess.com/openings/Queens-Gambit-Declined-Exchange-Variation-4...exd5-5.Nf3-Be7-6.Bf4) | ![Lose](img/lose.png) |
+| [prath044 (1107) vs sasadangelo (1089)](https://www.chess.com/game/live/120734510078) | 20241106 21:39 | [Unknown Variation](https://www.chess.com/openings/Queens-Gambit-Declined-Exchange-Variation-4...exd5-5.Nf3) | ![Lose](img/lose.png) |
+| [MuricasTeam (1075) vs sasadangelo (1074)](https://www.chess.com/game/live/120674480752) | 20241103 19:42 | [Unknown Variation](https://www.chess.com/openings/Queens-Gambit-Declined-Exchange-Variation-4...exd5) | ![Win](img/win.png) |
+| [EnfantdeFrancis (1002) vs sasadangelo (1035)](https://www.chess.com/game/live/123965410749) | 20241029 19:24 | [Unknown Variation](https://www.chess.com/openings/Queens-Gambit-Declined-Harrwitz-Attack) | ![Win](img/win.png) |
+| [rockinchair (1056) vs sasadangelo (1057)](https://www.chess.com/game/live/120323548294) | 20241027 00:04 | [Unknown Variation](https://www.chess.com/openings/Queens-Gambit-Declined-Exchange-Variation-4...exd5-5.Nf3) | ![Win](img/win.png) |
 
-## Bishop's Opening (3)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [Mrneev33 (1069) vs sasadangelo (1072)](https://www.chess.com/game/live/108852517044) | 20240822 12:00 | [Berlin Defense](https://www.chess.com/openings/Bishops-Opening-Berlin-Defense) | ![Lose](img/lose.png) |
-| [Sothar (1048) vs sasadangelo (1059)](https://www.chess.com/game/live/108699655012) | 20240813 15:50 | [Berlin Defense](https://www.chess.com/openings/Bishops-Opening-Berlin-Defense) | ![Win](img/win.png) |
-| [Pippo2601 (1022) vs sasadangelo (1042)](https://www.chess.com/game/live/108697056156) | 20240813 13:04 | [Berlin Defense](https://www.chess.com/openings/Bishops-Opening-Berlin-Ponziani-Gambit-3...exd4) | ![Win](img/win.png) |
-
-## Vienna Game (3)
+## Italian Game (5)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [SpyingPaladin (1068) vs sasadangelo (1100)](https://www.chess.com/game/live/108788068066) | 20240818 19:25 | [Max Lange, Vienna Gambit](https://www.chess.com/openings/Vienna-Game-Max-Lange-Vienna-Gambit) | ![Win](img/win.png) |
-| [Pawntastic67 (1084) vs sasadangelo (1092)](https://www.chess.com/game/live/108787955612) | 20240818 19:17 | [Max Lange, Meitner-Mieses Gambit](https://www.chess.com/openings/Bishops-Opening-2...Nc6-3.d3-Nf6) | ![Win](img/win.png) |
-| [MetalZone94 (1157) vs sasadangelo (1085)](https://www.chess.com/game/live/117578403857) | 20240816 20:19 | [Max Lange, Meitner-Mieses Gambit](https://www.chess.com/openings/Vienna-Game-Max-Lange-Meitner-Mieses-Gambit) | ![Lose](img/lose.png) |
+| [Clopyara2323 (1166) vs sasadangelo (1098)](https://www.chess.com/game/live/124737025177) | 20241107 17:51 | [Two Knights Defense](https://www.chess.com/openings/Italian-Game-Fried-Liver-Attack-6...Kxf7-7.Qf3) | ![Lose](img/lose.png) |
+| [will7282354 (1094) vs sasadangelo (1058)](https://www.chess.com/game/live/120694781934) | 20241104 20:50 | [Giuoco Piano, Center Attack](https://www.chess.com/openings/Giuoco-Piano-Game-Center-Attack-Greco-Gambit-9.bxc3) | ![Lose](img/lose.png) |
+| [AgentCOBALT971 (1045) vs sasadangelo (1049)](https://www.chess.com/game/live/120348796524) | 20241028 09:27 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Variation-5...O-O) | ![Win](img/win.png) |
+| [gigidigi (1068) vs sasadangelo (1041)](https://www.chess.com/game/live/120318614370) | 20241026 18:31 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6-5.Bg5) | ![Lose](img/lose.png) |
+| [isa_amd (997) vs sasadangelo (1017)](https://www.chess.com/game/live/120312956516) | 20241026 12:54 | [Giuoco Piano, Center Attack](https://www.chess.com/openings/Giuoco-Piano-Game-Center-Attack-5...exd4-6.cxd4) | ![Win](img/win.png) |
 
-## Center Game (2)
+## Four Knights Game (4)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [mmadigani (1137) vs sasadangelo (1104)](https://www.chess.com/game/live/118614536447) | 20240828 20:07 | [Accepted Variation](https://www.chess.com/openings/Center-Game-Accepted-3.Qxd4) | ![Lose](img/lose.png) |
-| [brandonsnyder99 (1075) vs sasadangelo (1042)](https://www.chess.com/game/live/108669707238) | 20240811 20:01 | [Accepted Variation](https://www.chess.com/openings/Center-Game-Accepted-3.Qxd4) | ![Lose](img/lose.png) |
+| [JirkaEl (1055) vs sasadangelo (1074)](https://www.chess.com/game/live/120706959938) | 20241105 13:37 | [Spanish Variation, Ranken Variation](https://www.chess.com/openings/Four-Knights-Game-Spanish-Variation-Ranken-Variation-5...dxc6) | ![Win](img/win.png) |
+| [Ninjasharkdudu (1060) vs sasadangelo (1033)](https://www.chess.com/game/live/120625479834) | 20241101 08:32 | [Scotch Variation](https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation-Accepted-5.Nxd4) | ![Lose](img/lose.png) |
+| [RonGalbao (1023) vs sasadangelo (1035)](https://www.chess.com/game/live/120610926498) | 20241031 14:15 | [Scotch Variation](https://www.chess.com/openings/Four-Knights-Game) | ![Win](img/win.png) |
+| [domigam (1047) vs sasadangelo (1057)](https://www.chess.com/game/live/120332031156) | 20241027 12:00 | [Scotch Variation](https://www.chess.com/openings/Four-Knights-Game-Scotch-Variation) | ![Win](img/win.png) |
+
+## Irregular Openings (3)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [Rahatsizturizm (1150) vs sasadangelo (1128)](https://www.chess.com/game/live/124836004389) | 20241108 21:20 | [Uncommon Opening](https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5) | ![Win](img/win.png) |
+| [moussa1965 (1045) vs sasadangelo (1041)](https://www.chess.com/game/live/120616016800) | 20241031 19:00 | [Uncommon Opening](https://www.chess.com/openings/The-Cow-2...e5) | ![Lose](img/lose.png) |
+| [vijayvjne (1033) vs sasadangelo (1049)](https://www.chess.com/game/live/120318503978) | 20241026 18:25 | [Uncommon Opening](https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5) | ![Win](img/win.png) |
+
+## Scotch Game (3)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [dmtriy7 (1019) vs sasadangelo (1034)](https://www.chess.com/game/live/120654196484) | 20241102 18:24 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4) | ![Win](img/win.png) |
+| [PouleGeante2603 (1126) vs sasadangelo (1035)](https://www.chess.com/game/live/123964781087) | 20241029 19:13 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4) | ![Lose](img/lose.png) |
+| [lall92 (1017) vs sasadangelo (1025)](https://www.chess.com/game/live/120316175340) | 20241026 16:14 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4) | ![Win](img/win.png) |
 
 ## Queen's Gambit (2)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [Bart_M (1088) vs sasadangelo (1096)](https://www.chess.com/game/live/108839941396) | 20240821 17:27 | [Declined Variation](https://www.chess.com/openings/Queens-Gambit-Declined) | ![Win](img/win.png) |
-| [shmuly1 (1095) vs sasadangelo (1085)](https://www.chess.com/game/live/117579593003) | 20240816 20:38 | [Declined Variation](https://www.chess.com/openings/Queens-Gambit-Declined-Traditional-Variation-4...Be7-5.e3-O-O) | ![Win](img/win.png) |
+| [koenkam (1169) vs sasadangelo (1122)](https://www.chess.com/game/live/124900184681) | 20241109 15:08 | [Declined Variation](https://www.chess.com/openings/Queens-Gambit-Declined-3.e3-Nf6) | ![Win](img/win.png) |
+| [auguthiz (1097) vs sasadangelo (1081)](https://www.chess.com/game/live/120733967522) | 20241106 21:02 | [Declined Variation](https://www.chess.com/openings/Queens-Gambit-Declined-3.Nf3-Nf6-4.e3) | ![Lose](img/lose.png) |
 
-## D04 (2)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [Wamedo89 (1108) vs sasadangelo (1085)](https://www.chess.com/game/live/108762890866) | 20240817 09:36 | [Unknown Variation](https://www.chess.com/openings/Colle-System) | ![Lose](img/lose.png) |
-| [InquisitiveScot (1096) vs sasadangelo (1085)](https://www.chess.com/game/live/117578381487) | 20240816 20:17 | [Unknown Variation](https://www.chess.com/openings/Colle-System) | ![Lose](img/lose.png) |
-
-## Three Knights Opening (2)
+## London System (2)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [dl8thegreat (1107) vs sasadangelo (1075)](https://www.chess.com/game/live/108738886164) | 20240815 21:28 | [read variation here](https://www.chess.com/openings/Three-Knights-Opening-3...Bc5) | ![Lose](img/lose.png) |
-| [selimozellll (1072) vs sasadangelo (1076)](https://www.chess.com/game/live/108714981590) | 20240814 13:56 | [read variation here](https://www.chess.com/openings/Three-Knights-Opening-3...Bc5) | ![Win](img/win.png) |
+| [Fuentess1 (1135) vs sasadangelo (1120)](https://www.chess.com/game/live/124897172437) | 20241109 14:17 | [read variation here](https://www.chess.com/openings/London-System-3...Bf5-4.e3) | ![Lose](img/lose.png) |
+| [muhamed00jfouri (1045) vs sasadangelo (1058)](https://www.chess.com/game/live/120654894286) | 20241102 19:06 | [read variation here](https://www.chess.com/openings/London-System-3...c5-4.c3) | ![Win](img/win.png) |
+
+## Reti Opening (2)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [Wizzitop (1091) vs sasadangelo (1098)](https://www.chess.com/game/live/120767008922) | 20241108 15:26 | [King's Indian Attack (Barcza System)](https://www.chess.com/openings/Kings-Indian-Attack...3.Bg2-e5-4.d3-Nf6) | ![Win](img/win.png) |
+| [Rrahimii (1074) vs sasadangelo (1050)](https://www.chess.com/game/live/120655164782) | 20241102 19:22 | [King's Indian Attack (Barcza System)](https://www.chess.com/openings/Kings-Indian-Attack...3.Bg2-e5-4.d3-Nf6) | ![Lose](img/lose.png) |
+
+## King's Gambit (2)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [RayHunsb (1063) vs sasadangelo (1097)](https://www.chess.com/game/live/120734289020) | 20241106 21:24 | [Accepted Variation, Schallopp Defense](https://www.chess.com/openings/Kings-Gambit-Accepted-MacLeod-Defense) | ![Win](img/win.png) |
+| [ploomploom (1015) vs sasadangelo (1049)](https://www.chess.com/game/live/120319283910) | 20241026 19:09 | [Accepted Variation, Schallopp Defense](https://www.chess.com/openings/Kings-Gambit-Accepted-Fischer-Defense-4.d4) | ![Win](img/win.png) |
+
+## A50 (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [rfisk2 (1099) vs sasadangelo (1081)](https://www.chess.com/game/live/120749683460) | 20241107 17:30 | [Unknown Variation](https://www.chess.com/openings/Indian-Game-Black-Knights-Tango-3.Nf3-e6-4.g3-d5) | ![Draw](img/draw.png) |
+
+## Center Game (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [dooxood (1074) vs sasadangelo (1080)](https://www.chess.com/game/live/120711702550) | 20241105 18:05 | [Accepted, Hall Variation](https://www.chess.com/openings/Center-Game-Accepted-Normal-Variation) | ![Lose](img/lose.png) |
+
+## Nimzowitsch-Larsen Attack (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [smestan (1038) vs sasadangelo (1058)](https://www.chess.com/game/live/120706766564) | 20241105 13:25 | [Nimzowitsch-Larsen Variation](https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6) | ![Win](img/win.png) |
+
+## Bishop's Opening (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [younisshehata (1058) vs sasadangelo (1058)](https://www.chess.com/game/live/120673964518) | 20241103 19:10 | [Berlin Defense](https://www.chess.com/openings/Bishops-Opening-Berlin-Defense-3.f3) | ![Win](img/win.png) |
+
+## D04 (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [Ludostyle (1025) vs sasadangelo (1019)](https://www.chess.com/game/live/120597486832) | 20241030 20:17 | [Unknown Variation](https://www.chess.com/openings/Colle-System) | ![Lose](img/lose.png) |
+
+## A40 (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [MVWhitecore (1045) vs sasadangelo (1041)](https://www.chess.com/game/live/120332521692) | 20241027 12:33 | [Unknown Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense-2.Nf3-d6-3.c4) | ![Lose](img/lose.png) |
+
+## Spanish Game (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [IvanHalak (1055) vs sasadangelo (1065)](https://www.chess.com/game/live/120332315750) | 20241027 12:19 | [Morphy Defence, Exchange Variation](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation-4...dxc6) | ![Win](img/win.png) |
 
 ## Ponziani (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [Divs_16 (1126) vs sasadangelo (1116)](https://www.chess.com/game/live/118736997413) | 20240830 06:08 | [read variation here](https://www.chess.com/openings/Ponziani-Opening-Jaenisch-Counterattack-4.d4) | ![Lose](img/lose.png) |
-
-## D35 (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [MaximusZtriker76 (1147) vs sasadangelo (1114)](https://www.chess.com/game/live/118690110305) | 20240829 17:05 | [Unknown Variation](https://www.chess.com/openings/Queens-Gambit-Declined-Queens-Knight-Variation-3...Nf6) | ![Win](img/win.png) |
-
-## D03 (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [J-TR (1104) vs sasadangelo (1072)](https://www.chess.com/game/live/108941470912) | 20240827 11:42 | [Unknown Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Torre-Attack) | ![Lose](img/lose.png) |
-
-## Reti Opening (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [Traubensaft123 (1197) vs sasadangelo (1085)](https://www.chess.com/game/live/117579013887) | 20240816 20:30 | [1...d5](https://www.chess.com/openings/Reti-Opening-Tennison-Gambit) | ![Win](img/win.png) |
-
-## English Opening (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [Anurag_Bisht (1096) vs sasadangelo (1083)](https://www.chess.com/game/live/108715681786) | 20240814 14:40 | [Anglo-Indian Defence](https://www.chess.com/openings/English-Opening-Anglo-Indian-Defense) | ![Draw](img/draw.png) |
-
-## Petrov's Defense (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [RaMendes (1030) vs sasadangelo (1026)](https://www.chess.com/game/live/108696865046) | 20240813 12:52 | [Classical, Stafford Gambit](https://www.chess.com/openings/Petrovs-Defense-Urusov-Gambit) | ![Lose](img/lose.png) |
-
-## London System (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [McBurnzz (1045) vs sasadangelo (1042)](https://www.chess.com/game/live/108695195122) | 20240813 10:49 | [read variation here](https://www.chess.com/openings/London-System) | ![Lose](img/lose.png) |
+| [onji123 (1028) vs sasadangelo (1041)](https://www.chess.com/game/live/120319010640) | 20241026 18:53 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6-3.d3) | ![Win](img/win.png) |
