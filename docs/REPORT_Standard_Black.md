@@ -1,26 +1,24 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
-Total games: 5
-- Win games: 2 (40.00 %)
-- Lost games: 3 (60.00 %)
-- Draw games: 0 (0.00 %)
-
-## Italian Game (3)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [JAHIEL (1122) vs sasadangelo (1094)](https://www.chess.com/game/daily/770815047) | 20250208 18:51 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6-5.O-O-d6) | ![Lose](img/lose.png) |
-| [Massimobelpanno (1128) vs sasadangelo (1125)](https://www.chess.com/game/daily/761339085) | 20250121 18:33 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6) | ![Win](img/win.png) |
-| [onurbilir (1216) vs sasadangelo (1083)](https://www.chess.com/game/daily/761339469) | 20250121 18:34 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game...5.d3-O-O-6.h3-d6) | ![Lose](img/lose.png) |
+Total games: 3
+- Win games: 2 (66.67 %)
+- Lost games: 0 (0.00 %)
+- Draw games: 1 (33.33 %)
 
 ## Queen's Gambit (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [Ed_Ant2007 (1152) vs sasadangelo (1114)](https://www.chess.com/game/daily/771835123) | 20250210 19:32 | [Declined, Three Knights, Harrwitz Attack](https://www.chess.com/openings/Queens-Gambit-Declined-Three-Knights-Harrwitz-Attack) | ![Win](img/win.png) |
+| [BenniBig86 (1055) vs sasadangelo (1194)](https://www.chess.com/game/daily/785025845) | 20250309 18:53 | [Declined Variation](https://www.chess.com/openings/Queens-Gambit-Declined) | ![Draw](img/draw.png) |
 
-## D04 (1)
+## Spanish Game (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [erovikt-1958 (1198) vs sasadangelo (1111)](https://www.chess.com/game/daily/771128537) | 20250209 12:04 | [Unknown Variation](https://www.chess.com/openings/Colle-System-3...Bg4) | ![Lose](img/lose.png) |
+| [DenisRunner (1150) vs sasadangelo (1193)](https://www.chess.com/game/daily/780117091) | 20250227 07:13 | [Morphy Defence, Exchange Variation](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Normal-Variation) | ![Win](img/win.png) |
+
+## Queen's Pawn Opening (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [Hiouchi (1130) vs sasadangelo (1184)](https://www.chess.com/game/daily/780111335) | 20250227 06:49 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation...4.Nb5-Na6-5.e3-c6-6.Nc3) | ![Win](img/win.png) |
