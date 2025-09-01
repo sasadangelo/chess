@@ -1,19 +1,24 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
 Total games: 3
-- Win games: 1 (33.33 %)
-- Lost games: 2 (66.67 %)
+- Win games: 0 (0.00 %)
+- Lost games: 3 (100.00 %)
 - Draw games: 0 (0.00 %)
 
-## Caro-Kann Defense (2)
+## Sicilian Defense (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1182) vs Hiouchi (1146)](https://www.chess.com/game/daily/780111315) | 20250227 06:49 | [Campomanes Attack](https://www.chess.com/openings/Caro-Kann-Defense-Campomanes-Attack) | ![Lose](img/lose.png) |
-| [sasadangelo (1173) vs Hiouchi (1142)](https://www.chess.com/game/daily/780111349) | 20250227 06:49 | [Campomanes Attack](https://www.chess.com/openings/Caro-Kann-Defense-2.d4-d5-3.Nc3) | ![Lose](img/lose.png) |
+| [sasadangelo (1071) vs seili-struzani (1209)](https://www.chess.com/game/daily/853597450) | 20250820 06:30 | [Paulsen-Basman Defense](https://www.chess.com/openings/Sicilian-Defense-French-Variation-3.d4) | ![Lose](img/lose.png) |
 
-## Italian Game (1)
+## B54 (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1194) vs BenniBig86 (1044)](https://www.chess.com/game/daily/785025757) | 20250309 18:53 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-4...d6) | ![Win](img/win.png) |
+| [sasadangelo (1082) vs MRM-1972 (1132)](https://www.chess.com/game/daily/853597684) | 20250820 06:31 | [Unknown Variation](https://www.chess.com/openings/Sicilian-Defense-Open-Variation-4...e5) | ![Lose](img/lose.png) |
+
+## Petrov's Defense (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [sasadangelo (1098) vs MRM-1972 (1177)](https://www.chess.com/game/daily/853597634) | 20250820 06:30 | [Classical, Stafford Gambit](https://www.chess.com/openings/Petrovs-Defense-Classical-Attack) | ![Lose](img/lose.png) |

@@ -1,37 +1,36 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
-Total games: 6
-- Win games: 3 (50.00 %)
-- Lost games: 2 (33.33 %)
-- Draw games: 1 (16.67 %)
+Total games: 5
+- Win games: 2 (40.00 %)
+- Lost games: 3 (60.00 %)
+- Draw games: 0 (0.00 %)
 
-## Caro-Kann Defense (2)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [sasadangelo (1182) vs Hiouchi (1146)](https://www.chess.com/game/daily/780111315) | 20250227 06:49 | [Campomanes Attack](https://www.chess.com/openings/Caro-Kann-Defense-Campomanes-Attack) | ![Lose](img/lose.png) |
-| [sasadangelo (1173) vs Hiouchi (1142)](https://www.chess.com/game/daily/780111349) | 20250227 06:49 | [Campomanes Attack](https://www.chess.com/openings/Caro-Kann-Defense-2.d4-d5-3.Nc3) | ![Lose](img/lose.png) |
-
-## Queen's Gambit (1)
+## Sicilian Defense (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [BenniBig86 (1055) vs sasadangelo (1194)](https://www.chess.com/game/daily/785025845) | 20250309 18:53 | [Declined Variation](https://www.chess.com/openings/Queens-Gambit-Declined) | ![Draw](img/draw.png) |
+| [sasadangelo (1071) vs seili-struzani (1209)](https://www.chess.com/game/daily/853597450) | 20250820 06:30 | [Paulsen-Basman Defense](https://www.chess.com/openings/Sicilian-Defense-French-Variation-3.d4) | ![Lose](img/lose.png) |
 
-## Italian Game (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [sasadangelo (1194) vs BenniBig86 (1044)](https://www.chess.com/game/daily/785025757) | 20250309 18:53 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-4...d6) | ![Win](img/win.png) |
-
-## Spanish Game (1)
+## B54 (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [DenisRunner (1150) vs sasadangelo (1193)](https://www.chess.com/game/daily/780117091) | 20250227 07:13 | [Morphy Defence, Exchange Variation](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Normal-Variation) | ![Win](img/win.png) |
+| [sasadangelo (1082) vs MRM-1972 (1132)](https://www.chess.com/game/daily/853597684) | 20250820 06:31 | [Unknown Variation](https://www.chess.com/openings/Sicilian-Defense-Open-Variation-4...e5) | ![Lose](img/lose.png) |
+
+## King's Pawn Opening (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [Etrawanshkov (1200) vs sasadangelo (1098)](https://www.chess.com/game/daily/854933252) | 20250823 07:05 | [read variation here](https://www.chess.com/openings/Kings-Pawn-Opening-1...e5) | ![Win](img/win.png) |
+
+## Petrov's Defense (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [sasadangelo (1098) vs MRM-1972 (1177)](https://www.chess.com/game/daily/853597634) | 20250820 06:30 | [Classical, Stafford Gambit](https://www.chess.com/openings/Petrovs-Defense-Classical-Attack) | ![Lose](img/lose.png) |
 
 ## Queen's Pawn Opening (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [Hiouchi (1130) vs sasadangelo (1184)](https://www.chess.com/game/daily/780111335) | 20250227 06:49 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation...4.Nb5-Na6-5.e3-c6-6.Nc3) | ![Win](img/win.png) |
+| [ticonsiglia (1018) vs sasadangelo (1113)](https://www.chess.com/game/daily/852839264) | 20250818 11:30 | [Cigorin Variation](https://www.chess.com/openings/Queens-Pawn-Opening-1...d5) | ![Win](img/win.png) |
