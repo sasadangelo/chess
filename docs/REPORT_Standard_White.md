@@ -1,24 +1,18 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
-Total games: 3
+Total games: 2
 - Win games: 0 (0.00 %)
-- Lost games: 3 (100.00 %)
-- Draw games: 0 (0.00 %)
+- Lost games: 1 (50.00 %)
+- Draw games: 1 (50.00 %)
 
-## Sicilian Defense (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [sasadangelo (1071) vs seili-struzani (1209)](https://www.chess.com/game/daily/853597450) | 20250820 06:30 | [Paulsen-Basman Defense](https://www.chess.com/openings/Sicilian-Defense-French-Variation-3.d4) | ![Lose](img/lose.png) |
-
-## B54 (1)
+## Spanish Game (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1082) vs MRM-1972 (1132)](https://www.chess.com/game/daily/853597684) | 20250820 06:31 | [Unknown Variation](https://www.chess.com/openings/Sicilian-Defense-Open-Variation-4...e5) | ![Lose](img/lose.png) |
+| [sasadangelo (1105) vs Massimobelpanno (1137)](https://www.chess.com/game/daily/861728657) | 20250908 15:17 | [read variation here](https://www.chess.com/openings/Ruy-Lopez-Opening-Cozio-Defense-4.Nc3-d6) | ![Lose](img/lose.png) |
 
-## Petrov's Defense (1)
+## Alekhine's Defense (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1098) vs MRM-1972 (1177)](https://www.chess.com/game/daily/853597634) | 20250820 06:30 | [Classical, Stafford Gambit](https://www.chess.com/openings/Petrovs-Defense-Classical-Attack) | ![Lose](img/lose.png) |
+| [sasadangelo (1116) vs marianoxo (1111)](https://www.chess.com/game/daily/861583751) | 20250908 07:53 | [read variation here](https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.e5-Nfd7-4.d4-c5) | ![Draw](img/draw.png) |
