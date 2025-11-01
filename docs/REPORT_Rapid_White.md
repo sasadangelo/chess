@@ -1,71 +1,82 @@
 # Chess games Report for the latest 100 sasadangelo's games.
 
-Total games: 20
-- Win games: 9 (45.00 %)
-- Lost games: 9 (45.00 %)
-- Draw games: 2 (10.00 %)
+Total games: 21
+- Win games: 6 (28.57 %)
+- Lost games: 13 (61.90 %)
+- Draw games: 2 (9.52 %)
 
-## Italian Game (9)
+## Italian Game (8)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1063) vs ToddDirect (1062)](https://www.chess.com/game/live/143751943754) | 20250930 20:04 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-4...d6-5.d4) | ![Draw](img/draw.png) |
-| [sasadangelo (1063) vs selemac (1064)](https://www.chess.com/game/live/143751311276) | 20250930 19:44 | [read variation here](https://www.chess.com/openings/Italian-Game) | ![Win](img/win.png) |
-| [sasadangelo (1047) vs Dezdaddy555 (1051)](https://www.chess.com/game/live/143750868802) | 20250930 19:30 | [read variation here](https://www.chess.com/openings/Giuoco-Piano-Game-4.O-O-Nf6-5.d3-O-O-6.c3) | ![Lose](img/lose.png) |
-| [sasadangelo (1055) vs HimothyTheFifth (1038)](https://www.chess.com/game/live/143707512980) | 20250929 17:43 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-4...d6-5.d4) | ![Win](img/win.png) |
-| [sasadangelo (1072) vs Chasseland (1098)](https://www.chess.com/game/live/143610382430) | 20250927 06:12 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-Giuoco-Pianissimo-Variation-5...O-O-6.Bg5) | ![Lose](img/lose.png) |
-| [sasadangelo (1072) vs Javikuz93 (1041)](https://www.chess.com/game/live/143599182730) | 20250926 20:58 | [Two Knights Defense](https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening-4...h6-5.c3) | ![Win](img/win.png) |
-| [sasadangelo (1040) vs Taichichris (1004)](https://www.chess.com/game/live/143475232086) | 20250923 18:12 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-Giuoco-Pianissimo-Variation-5...d6-6.Nbd2) | ![Win](img/win.png) |
-| [sasadangelo (1041) vs am_ir8 (1024)](https://www.chess.com/game/live/143399052322) | 20250921 19:29 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line) | ![Win](img/win.png) |
-| [sasadangelo (1040) vs fernagen (1017)](https://www.chess.com/game/live/143398500976) | 20250921 19:11 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-Giuoco-Pianissimo-Variation-5...d6-6.Nbd2) | ![Win](img/win.png) |
+| [sasadangelo (1133) vs JTASIS (1153)](https://www.chess.com/game/live/144902812394) | 20251030 07:46 | [Giuoco Piano, Main Line](https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-Giuoco-Pianissimo-Variation-5...O-O-6.Nbd2-d5) | ![Lose](img/lose.png) |
+| [sasadangelo (1132) vs Chess83746 (1155)](https://www.chess.com/game/live/144889457658) | 20251029 21:12 | [read variation here](https://www.chess.com/openings/Italian-Game) | ![Lose](img/lose.png) |
+| [sasadangelo (1140) vs yashin74 (1136)](https://www.chess.com/game/live/144888922520) | 20251029 20:54 | [read variation here](https://www.chess.com/openings/Italian-Game) | ![Win](img/win.png) |
+| [sasadangelo (1132) vs TyP1293 (1139)](https://www.chess.com/game/live/144888669538) | 20251029 20:45 | [read variation here](https://www.chess.com/openings/Italian-Game) | ![Lose](img/lose.png) |
+| [sasadangelo (1163) vs SearchingforMates (1157)](https://www.chess.com/game/live/144841698964) | 20251028 17:21 | [read variation here](https://www.chess.com/openings/Italian-Game) | ![Win](img/win.png) |
+| [sasadangelo (1155) vs qwe167jnhgb (1144)](https://www.chess.com/game/live/144804634340) | 20251027 18:59 | [read variation here](https://www.chess.com/openings/Italian-Game-3...d6) | ![Win](img/win.png) |
+| [sasadangelo (1139) vs FPLWarlord (1142)](https://www.chess.com/game/live/144802331422) | 20251027 17:54 | [Two Knights Defense](https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening) | ![Win](img/win.png) |
+| [sasadangelo (1170) vs carb_on_monoxide (1188)](https://www.chess.com/game/live/144632557644) | 20251023 11:42 | [read variation here](https://www.chess.com/openings/Italian-Game-3...d6) | ![Lose](img/lose.png) |
+
+## Nimzowitsch Defense (2)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [sasadangelo (1148) vs buyana123 (1162)](https://www.chess.com/game/live/144849781484) | 20251028 21:22 | [Scandinavian, Bogoljubov, Vehre Variation](https://www.chess.com/openings/Owens-Defense...4.Nf3-Bb4-5.Bd3-Nf6) | ![Lose](img/lose.png) |
+| [sasadangelo (1187) vs SAKO_od (1161)](https://www.chess.com/game/live/144611406598) | 20251022 20:30 | [Scandinavian, Bogoljubov, Vehre Variation](https://www.chess.com/openings/Owens-Defense...3.Nc3-e6-4.Nf3-Bb4) | ![Win](img/win.png) |
 
 ## Scandinavian Defense (2)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1071) vs KyaPPPP (1048)](https://www.chess.com/game/live/143752112398) | 20250930 20:09 | [Mieses-Kotrč, Main Line, Lasker Variation](https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Main-Line-4.d4-c6-5.Nf3) | ![Win](img/win.png) |
-| [sasadangelo (1056) vs Lalitmanas (1069)](https://www.chess.com/game/live/143610693518) | 20250927 06:26 | [Mieses-Kotrč, Main Line, Lasker Variation](https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3) | ![Lose](img/lose.png) |
+| [sasadangelo (1156) vs keiwan0 (1182)](https://www.chess.com/game/live/144843255844) | 20251028 18:03 | [Mieses-Kotrč, Main Line, Lasker Variation](https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3) | ![Lose](img/lose.png) |
+| [sasadangelo (1139) vs logan07sj (1157)](https://www.chess.com/game/live/144724143380) | 20251025 17:24 | [Mieses-Kotrč, Main Line, Lasker Variation](https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Main-Line-4.d4-c6-5.Nf3) | ![Lose](img/lose.png) |
 
-## King's Pawn Opening (2)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [sasadangelo (1047) vs Animesh_Singh104 (1055)](https://www.chess.com/game/live/143707727240) | 20250929 17:49 | [King's Knight Variation](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation) | ![Lose](img/lose.png) |
-| [sasadangelo (1047) vs Shothkangthir (1082)](https://www.chess.com/game/live/143671638206) | 20250928 18:56 | [King's Knight Variation](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation) | ![Lose](img/lose.png) |
-
-## Philidor Defense (2)
+## Sicilian Defense (2)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1048) vs Steelerssix (1053)](https://www.chess.com/game/live/143629213594) | 20250927 16:44 | [Exchange Variation](https://www.chess.com/openings/Philidor-Defense-3.d4) | ![Lose](img/lose.png) |
-| [sasadangelo (1049) vs Rolly1964 (1050)](https://www.chess.com/game/live/143473637088) | 20250923 17:28 | [Exchange Variation](https://www.chess.com/openings/Philidor-Defense-3.d4) | ![Lose](img/lose.png) |
+| [sasadangelo (1163) vs Wick3nd (1126)](https://www.chess.com/game/live/144806926244) | 20251027 20:06 | [Open Variation](https://www.chess.com/openings/Sicilian-Defense-Nyezhmetdinov-Rossolimo-Attack-3...e6-4.O-O) | ![Win](img/win.png) |
+| [sasadangelo (1162) vs Carboran (1170)](https://www.chess.com/game/live/144643695250) | 20251023 16:49 | [2.Nf3](https://www.chess.com/openings/Sicilian-Defense-2.Nf3) | ![Lose](img/lose.png) |
 
-## C11 (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [sasadangelo (1047) vs AYellowMonkey (1018)](https://www.chess.com/game/live/143707158010) | 20250929 17:33 | [Unknown Variation](https://www.chess.com/openings/French-Defense-Classical-Delayed-Exchange-Variation) | ![Win](img/win.png) |
-
-## B45 (1)
+## C15 (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1080) vs isaachld (1097)](https://www.chess.com/game/live/143599813830) | 20250926 21:22 | [Unknown Variation](https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation-5.Nc3) | ![Lose](img/lose.png) |
+| [sasadangelo (1163) vs Gedoniz (1164)](https://www.chess.com/game/live/144807249860) | 20251027 20:16 | [Unknown Variation](https://www.chess.com/openings/French-Defense-Winawer-Delayed-Exchange-Variation-4...exd5) | ![Draw](img/draw.png) |
+
+## B06 (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [sasadangelo (1131) vs manish_2809A (1152)](https://www.chess.com/game/live/144729336768) | 20251025 20:06 | [Unknown Variation](https://www.chess.com/openings/Modern-Defense-with-1-e4-2.d4-Bg7-3.Nf3) | ![Lose](img/lose.png) |
+
+## Philidor Defense (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [sasadangelo (1154) vs AbbasAnes (1164)](https://www.chess.com/game/live/144694747962) | 20251024 22:34 | [Exchange Variation](https://www.chess.com/openings/Philidor-Defense-Exchange-Variation...5.Nc3-Be7-6.Bd3-O-O-7.O-O) | ![Lose](img/lose.png) |
+
+## King's Pawn Opening (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [sasadangelo (1154) vs RostyslavP (1133)](https://www.chess.com/game/live/144694036896) | 20251024 22:04 | [King's Knight Variation](https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation) | ![Draw](img/draw.png) |
 
 ## Scotch Game (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1048) vs OSSFO (1042)](https://www.chess.com/game/live/143598709978) | 20250926 20:41 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...d6) | ![Lose](img/lose.png) |
-
-## Sicilian Defense (1)
-
-| Opening | Date and Time | Variation | Result |
-|---------|---------------|-----------|--------|
-| [sasadangelo (1057) vs zacarizac (1062)](https://www.chess.com/game/live/143598548608) | 20250926 20:36 | [Open, Franco-Sicilian Variation](https://www.chess.com/openings/Sicilian-Defense-Open-Lowenthal-Variation-5.Nxc6-bxc6) | ![Win](img/win.png) |
+| [sasadangelo (1154) vs Svetlana_Klochenok (1159)](https://www.chess.com/game/live/144644397882) | 20251023 17:09 | [read variation here](https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-d6) | ![Lose](img/lose.png) |
 
 ## Pirc Defense (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1040) vs VasuGupta99 (1054)](https://www.chess.com/game/live/143555153716) | 20250925 18:35 | [read variation here](https://www.chess.com/openings/Lion-Defense-4.Nf3) | ![Draw](img/draw.png) |
+| [sasadangelo (1170) vs mins2235 (1165)](https://www.chess.com/game/live/144643191560) | 20251023 16:36 | [read variation here](https://www.chess.com/openings/Pirc-Defense-2.d4-Nf6-3.Nc3) | ![Lose](img/lose.png) |
+
+## Caro-Kann Defense (1)
+
+| Opening | Date and Time | Variation | Result |
+|---------|---------------|-----------|--------|
+| [sasadangelo (1179) vs Joueur2210 (1209)](https://www.chess.com/game/live/144611631384) | 20251022 20:37 | [Classical Variation](https://www.chess.com/openings/Caro-Kann-Defense-Classical-Variation) | ![Lose](img/lose.png) |
