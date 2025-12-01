@@ -5,8 +5,8 @@ Total games: 1
 - Lost games: 1 (100.00 %)
 - Draw games: 0 (0.00 %)
 
-## Spanish Game (1)
+## Ponziani (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [Massimobelpanno (1156) vs sasadangelo (1093)](https://www.chess.com/game/daily/867514829) | 20250922 10:51 | [Morphy Defence, Exchange Variation](https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation-4...dxc6) | ![Lose](img/lose.png) |
+| [Massimobelpanno (1154) vs sasadangelo (1080)](https://www.chess.com/game/daily/890635169) | 20251116 15:34 | [read variation here](https://www.chess.com/openings/Ponziani-Opening-Jaenisch-Counterattack) | ![Lose](img/lose.png) |
