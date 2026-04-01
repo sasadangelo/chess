@@ -5,8 +5,8 @@ Total games: 1
 - Lost games: 0 (0.00 %)
 - Draw games: 1 (100.00 %)
 
-## Petrov's Defense (1)
+## Italian Game (1)
 
 | Opening | Date and Time | Variation | Result |
 |---------|---------------|-----------|--------|
-| [sasadangelo (1080) vs Massimobelpanno (1140)](https://www.chess.com/game/daily/894094681) | 20251124 18:49 | [Classical, Stafford Gambit](https://www.chess.com/openings/Petrovs-Defense-Classical-Variation) | ![Draw](img/draw.png) |
+| [sasadangelo (1103) vs Massimobelpanno (1143)](https://www.chess.com/game/daily/926255837) | 20260204 19:03 | [Two Knights Defense](https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening-4...d5-5.exd5-Nxd5) | ![Draw](img/draw.png) |
