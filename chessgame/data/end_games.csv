@@ -1,32 +1,43 @@
-ID, Category_ID, Name, FEN
- 1, 1, King in the Corner, 6k1/3Q4/8/5K2/8/8/8/8 w - - 0 1
- 2, 1, King in the Corner 2, 1k6/8/8/8/K3Q3/8/8/8 w - - 0 1
- 3, 1, Force King to the Edge, 8/4k3/8/8/2Q3K1/8/8/8 w - - 0 1
- 4, 1, Force King to the Edge 2, 8/8/2K5/8/4Q3/1k6/8/8 w - - 0 1
- 5, 1, Pawn Promotion, 8/8/2KP4/8/8/2k5/8/8 w - - 0 1
- 6, 1, Game of Patience, 8/8/8/5k2/8/8/6Q1/7K w - - 0 1
- 7, 1, King on the Edge, 8/8/8/7k/8/8/5Q2/7K w - - 0 1
- 8, 5, Pawn Racing, 6k1/8/8/8/8/8/P7/7K w - - 0 1
- 9, 5, King Protection, 8/4k3/2K5/8/8/8/1P6/8 w - - 0 1
-10, 5, Opposition, 8/5k2/8/6K1/5P2/8/8/8 w - - 0 1
-11, 5, Distant Opposition, k7/8/8/8/8/8/1P6/K7 w - - 0 1
-12, 5, Distant Diagonal Opposition, 5k2/8/8/8/8/K7/1P6/8 w - - 0 1
-13, 5, Opposition: Pawn on 6th Rank (Win), 5k2/8/5PK1/8/8/8/8/8 w - - 0 1
-14, 5, Opposition: Pawn on 6th Rank (Draw), 5k2/8/5PK1/8/8/8/8/8 b - - 0 1
-15, 5, Opposition: Knight's Pawn on 6th Rank (Draw), 8/8/8/8/8/5kp1/7K/8 w - - 0 1
-16, 5, Opposition: Rook's Pawn on 6th Rank (Draw), 8/8/8/8/8/6kp/8/6K1 w - - 0 1
-17, 5, Opposition: Bishop's Pawn on 6th Rank (Win), k7/8/2P5/K7/8/8/8/8 w - - 0 1
-18, 5, Opposition: Pawn on 5th Rank (Win), 5k2/8/4K3/5P2/8/8/8/8 w - - 0 1
-19, 5, Opposition: Knight's Pawn on 5th Rank (Draw), 7k/5K2/8/6P1/8/8/8/8 w - - 0 1
-20, 5, Opposition: Knight's Pawn on 4th Rank (Win), 8/k7/8/1K6/1P6/8/8/8 w - - 0 1
-21, 5, Opposition: Pawn on 4th Rank (Win), 5k2/8/8/8/3PK3/8/8/8 w - - 0 1
-22, 5, Imprisoning the stronger's side King (Draw), 8/8/8/p7/8/1k6/3K4/8 w - - 0 1
-23, 5, King and Pawn Win 1 (Win), 4k3/8/4K3/8/4P3/8/8/8 w - - 0 1
-24, 5, King and Pawn Win 2 (Win), 4k3/8/4K3/4P3/8/8/8/8 w - - 0 1
-25, 5, Attacking King in Front 1 (Win), 4k3/8/4K3/8/8/8/4P3/8 w - - 0 1
-26, 5, Attacking King in Front 2 (Win), 4k3/8/8/8/8/8/4P3/4K3 w - - 0 1
-27, 5, King Racing (Draw), 8/8/8/8/8/8/1k5P/6K1 b - - 0 1
-28, 6, Double Pawns (Win), 8/1k6/8/1P6/1P6/1K6/8/8 w - - 0 1
-29, 6, Isolated Pawns - Mutual Defense (Win), 8/8/8/5k2/5P1P/8/8/K7 w - - 0 1
-30, 6, Isolated Pawns - Delay in Capture (Win), 8/8/2k5/8/P2P4/8/8/7K w - - 0 1
-31, 7, sasadangelo vs royerfabien (2024/19/08), 4k3/5p2/5B2/5KP1/8/8/8/8 w - - 0 1
+ID, Category_ID, Name, FEN, Objective
+1, 1, King in the Corner, 6k1/3Q4/8/5K2/8/8/8/8 w - - 0 1, Win
+2, 1, King in the Corner 2, 1k6/8/8/8/K3Q3/8/8/8 w - - 0 1, Win
+3, 1, Force King to the Edge, 8/4k3/8/8/2Q3K1/8/8/8 w - - 0 1, Win
+4, 1, Force King to the Edge 2, 8/8/2K5/8/4Q3/1k6/8/8 w - - 0 1, Win
+5, 1, Pawn Promotion, 8/8/2KP4/8/8/2k5/8/8 w - - 0 1, Win
+6, 1, Game of Patience, 8/8/8/5k2/8/8/6Q1/7K w - - 0 1, Win
+7, 1, King on the Edge, 8/8/8/7k/8/8/5Q2/7K w - - 0 1, Win
+8, 5, Pawn Racing, 6k1/8/8/8/8/8/P7/7K w - - 0 1, Win
+9, 5, King Protection, 8/4k3/2K5/8/8/8/1P6/8 w - - 0 1, Win
+10, 5, Opposition, 8/5k2/8/6K1/5P2/8/8/8 w - - 0 1, Win
+11, 5, Distant Opposition, k7/8/8/8/8/8/1P6/K7 w - - 0 1, Win
+12, 5, Distant Diagonal Opposition, 5k2/8/8/8/8/K7/1P6/8 w - - 0 1, Win
+13, 5, Opposition: Pawn on 6th Rank (Win), 5k2/8/5PK1/8/8/8/8/8 w - - 0 1, Win
+14, 5, Opposition: Pawn on 6th Rank (Draw), 5k2/8/5PK1/8/8/8/8/8 b - - 0 1, Draw
+15, 5, Opposition: Knight's Pawn on 6th Rank (Draw), 8/8/8/8/8/5kp1/7K/8 w - - 0 1, Draw
+16, 5, Opposition: Rook's Pawn on 6th Rank (Draw), 8/8/8/8/8/6kp/8/6K1 w - - 0 1, Draw
+17, 5, Opposition: Bishop's Pawn on 6th Rank (Win), k7/8/2P5/K7/8/8/8/8 w - - 0 1, Win
+18, 5, Opposition: Pawn on 5th Rank (Win), 5k2/8/4K3/5P2/8/8/8/8 w - - 0 1, Win
+19, 5, Opposition: Knight's Pawn on 5th Rank (Draw), 7k/5K2/8/6P1/8/8/8/8 w - - 0 1, Win
+20, 5, Opposition: Knight's Pawn on 4th Rank (Win), 8/k7/8/1K6/1P6/8/8/8 w - - 0 1, Win
+21, 5, Opposition: Pawn on 4th Rank (Win), 5k2/8/8/8/3PK3/8/8/8 w - - 0 1, Win
+22, 5, Imprisoning the stronger's side King (Draw), 8/8/8/p7/8/1k6/3K4/8 w - - 0 1, Draw
+23, 5, King and Pawn Win 1 (Win), 4k3/8/4K3/8/4P3/8/8/8 w - - 0 1, Win
+24, 5, King and Pawn Win 2 (Win), 4k3/8/4K3/4P3/8/8/8/8 w - - 0 1, Win
+25, 5, Attacking King in Front 1 (Win), 4k3/8/4K3/8/8/8/4P3/8 w - - 0 1, Win
+26, 5, Attacking King in Front 2 (Win), 4k3/8/8/8/8/8/4P3/4K3 w - - 0 1, Win
+27, 5, King Racing (Draw), 8/8/8/8/8/8/1k5P/6K1 b - - 0 1, Draw
+28, 6, Double Pawns (Win), 8/1k6/8/1P6/1P6/1K6/8/8 w - - 0 1, Win
+29, 6, Isolated Pawns - Mutual Defense (Win), 8/8/8/5k2/5P1P/8/8/K7 w - - 0 1, Win
+30, 6, Isolated Pawns - Delay in Capture (Win), 8/8/2k5/8/P2P4/8/8/7K w - - 0 1, Win
+31, 7, sasadangelo vs royerfabien (2024/19/08), 4k3/5p2/5B2/5KP1/8/8/8/8 w - - 0 1, Win
+32, 8, Two Knights vs King (avoid the corner), 6k1/8/5NK1/3N4/8/8/8/8 b - - 0 1, Draw
+33, 8, Bishop vs Queen, 6K1/8/8/2B5/8/2k5/p7/8 b - - 0 1, Win
+34, 8, Knight vs Queen (watch the fork), 8/8/8/3nk3/8/3Q4/8/7K w - - 0 1, Win
+35, 8, King and Pawn: Opposition Introduction, 8/3k4/8/8/3P4/3K4/8/8 b - - 0 1, Draw
+36, 8, King and Pawn: Do or Die Position, 8/3k4/3P4/3K4/8/8/8/8 b - - 0 1, Draw
+38, 8, Rook-Pawn Endgame (Draw), 6k1/8/5K1P/8/8/8/8/8 w - - 0 1, Draw
+49, 8, Knight-Pawn Endgame (Win), 6k1/8/5KP1/8/8/8/8/8 w - - 0 1, Win
+40, 8, Test: Queen vs Bishop Stalemate Trap, k7/8/1K1b4/8/8/8/1Q6/8 w - - 0 1, Win
+41, 8, Test: Watch the Knight Fork, 8/8/2Q5/8/2nk4/8/5K2/8 w - - 0 1, Win
+42, 8, Test: Rook-Pawn King Move, 8/6k1/7P/7K/8/8/8/8 b - - 0 1, Draw
+43, 8, Test: Two Knights Cannot Win, 8/8/3N4/8/3N4/k7/8/1K6 w - - 0 1, Draw

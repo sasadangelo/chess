@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tactics Gym</title>
+        <!-- Includiamo lo stile di chessboard.js -->
+        <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="../assets/css/styles.css">
+        <style>
+            #tacticsFilters { text-align: center; margin-bottom: 10px; }
+            #tacticsFilters select { padding: 6px; margin: 0 5px; }
+            #puzzleInfo { text-align: center; font-weight: bold; margin-top: 10px; }
+            #feedback { text-align: center; min-height: 1.5em; margin-top: 10px; }
+            #feedback.correct { color: #2e7d32; }
+            #feedback.wrong { color: #c62828; }
+            #gameLink { display: block; text-align: center; margin-top: 10px; }
+            #showSolutionBtn { display: none; }
+            .tactics-actions { text-align: center; }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+              <div id="logo">
+                <img src="../assets/img/chess-gym-logo.png" alt="Logo" width="120" height="120">
+              </div>
+              <nav id="social-nav">
+                <a href="#" target="_blank"><img src="../assets/img/facebook.png" alt="Facebook"></a>
+                <a href="#" target="_blank"><img src="../assets/img/twitter.png" alt="Twitter"></a>
+                <a href="#" target="_blank"><img src="../assets/img/instagram.png" alt="Instagram"></a>
+              </nav>
+            </div>
+        </header>
+        <div class="container main">
+            <aside id="sidebar">
+                <ul>
+                    <li><a href="../index.html">Overview</a></li>
+                    <li><a href="../chessgame/index.html">End Game Gym</a></li>
+                    <li><a href="../chessgame/tactics.html">Tactics Gym</a></li>
+                    <li><a href="../chessgame/training.html">Allenamento</a></li>
+                </ul>
+            </aside>
+            <main id="content">
+                <h1>Tactics Gym</h1>
+                <p style="text-align: center;">Trova la mossa migliore: sono le posizioni critiche delle tue partite reali su chess.com.</p>
+
+                <div id="tacticsFilters">
+                    <select id="categoryFilter">
+                        <option value="">Tutte le categorie</option>
+                    </select>
+                    <select id="difficultyFilter">
+                        <option value="">Tutte le difficoltà</option>
+                        <option value="Facile">Facile</option>
+                        <option value="Media">Media</option>
+                        <option value="Difficile">Difficile</option>
+                    </select>
+                </div>
+
+                <div class="tactics-actions">
+                    <button id="newPuzzleBtn">Nuovo Puzzle</button>
+                    <button id="showSolutionBtn">Mostra soluzione</button>
+                </div>
+
+                <div id="board"></div>
+
+                <div id="puzzleInfo"></div>
+                <div id="feedback"></div>
+                <a id="gameLink" href="#" target="_blank" style="display: none;"></a>
+
+                <!-- Includiamo le librerie -->
+                <script src="js/jquery-3.6.0.min.js"></script>
+                <script src="js/chessboard-1.0.0.min.js"></script>
+                <script src="js/chess.min.js"></script>
+                <script src="js/tactics.js"></script>
+            </main>
+        </div>
+        <footer>
+            <div class="container">
+              <p>&copy; 2024 Salvatore D'Angelo Chess Gym. All rights reserved.</p>
+            </div>
+          </footer>
+      </body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Allenamento</title>
+        <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="../assets/css/styles.css">
+        <style>
+            #settingsPanel { text-align: center; margin-bottom: 10px; }
+            #settingsPanel label { margin: 0 10px; }
+            #settingsPanel input { width: 50px; padding: 4px; }
+            #progress { text-align: center; font-weight: bold; margin-top: 10px; }
+            #itemTypeLabel { text-align: center; color: #666; }
+            #puzzleInfo { text-align: center; font-weight: bold; margin-top: 5px; }
+            #feedback { text-align: center; min-height: 1.5em; margin-top: 10px; }
+            #feedback.correct { color: #2e7d32; }
+            #feedback.wrong { color: #c62828; }
+            #sessionSummary { text-align: center; font-weight: bold; margin-top: 20px; display: none; }
+            #puzzleActions { display: none; text-align: center; }
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+              <div id="logo">
+                <img src="../assets/img/chess-gym-logo.png" alt="Logo" width="120" height="120">
+              </div>
+              <nav id="social-nav">
+                <a href="#" target="_blank"><img src="../assets/img/facebook.png" alt="Facebook"></a>
+                <a href="#" target="_blank"><img src="../assets/img/twitter.png" alt="Twitter"></a>
+                <a href="#" target="_blank"><img src="../assets/img/instagram.png" alt="Instagram"></a>
+              </nav>
+            </div>
+        </header>
+        <div class="container main">
+            <aside id="sidebar">
+                <ul>
+                    <li><a href="../index.html">Overview</a></li>
+                    <li><a href="../chessgame/index.html">End Game Gym</a></li>
+                    <li><a href="../chessgame/tactics.html">Tactics Gym</a></li>
+                    <li><a href="../chessgame/training.html">Allenamento</a></li>
+                </ul>
+            </aside>
+            <main id="content">
+                <h1>Allenamento di oggi</h1>
+                <p style="text-align: center;">Endgame e puzzle dovuti oggi, in ordine casuale, secondo la ripetizione spaziata.</p>
+
+                <div id="settingsPanel">
+                    <label>Max endgame/giorno: <input type="number" id="maxEndgames" min="0" max="44"></label>
+                    <label>Max puzzle/giorno: <input type="number" id="maxPuzzles" min="0" max="200"></label>
+                    <button id="applySettingsBtn">Applica e ricomincia</button>
+                </div>
+
+                <div id="progress"></div>
+                <div id="itemTypeLabel"></div>
+
+                <div id="board"></div>
+
+                <div id="puzzleInfo"></div>
+                <div id="puzzleActions"></div>
+                <div id="feedback"></div>
+                <div id="sessionSummary"></div>
+
+                <script src="js/jquery-3.6.0.min.js"></script>
+                <script src="js/chessboard-1.0.0.min.js"></script>
+                <script src="js/chess.min.js"></script>
+                <script src="js/srs.js"></script>
+                <script src="js/training.js"></script>
+            </main>
+        </div>
+        <footer>
+            <div class="container">
+              <p>&copy; 2024 Salvatore D'Angelo Chess Gym. All rights reserved.</p>
+            </div>
+          </footer>
+      </body>
+</html>

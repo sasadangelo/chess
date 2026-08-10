@@ -1,0 +1,761 @@
+ID, Category, Difficulty, FEN, Solution, GameLink, Date, Opening
+1, Tattica Generica, Media, 5r2/pQpkn1p1/2np4/2b1p1qp/2B1P3/2PP3P/PP1N1PP1/R4RK1 w - - 3 15, d3d4, https://www.chess.com/game/live/172756779844, 2026-08-09, Italian Game
+2, Tattica Generica, Difficile, 5r2/p1pk2p1/2np4/1Q5p/2BbPq2/7P/PP3PP1/R4RK1 w - - 2 20, c4d5, https://www.chess.com/game/live/172756779844, 2026-08-09, Italian Game
+3, Pezzo Appeso, Media, 5r2/p1p3p1/2npk3/1Q5p/3bPq2/7P/PP3PP1/R4RK1 w - - 0 21, b5c6, https://www.chess.com/game/live/172756779844, 2026-08-09, Italian Game
+4, Forchetta, Media, 5r2/p1p3p1/2npk3/7p/3bP3/6qP/PP2QPP1/R4RK1 w - - 2 22, e2c4, https://www.chess.com/game/live/172756779844, 2026-08-09, Italian Game
+5, Forchetta, Media, 5r2/p1p3p1/2npk3/7p/3bPq2/7P/PP2QPP1/R4R1K w - - 4 23, e2c4, https://www.chess.com/game/live/172756779844, 2026-08-09, Italian Game
+6, Tattica Generica, Facile, 5r2/p1pk2p1/2np4/4b2p/2Q1Pq2/5P1P/PP4P1/R4R1K w - - 3 25, h1g1, https://www.chess.com/game/live/172756779844, 2026-08-09, Italian Game
+7, Tattica Generica, Facile, 1r6/1p4rp/p3R3/P4p1k/1R3K2/8/7P/8 b - - 0 39, g7g4, https://www.chess.com/game/live/172755849988, 2026-08-09, Irregular Openings
+8, Tattica Generica, Facile, 1r6/1p3r1p/p3R3/P4p1k/5K2/8/7P/1R6 b - - 2 40, b8d8, https://www.chess.com/game/live/172755849988, 2026-08-09, Irregular Openings
+9, Tattica Generica, Media, r4r1k/1pp3p1/2n2q1p/p1bQN3/3p4/P2P2PP/1PPB1P2/2KR3R b - - 0 17, f6e5, https://www.chess.com/game/live/172394480318, 2026-08-01, Bishop's Opening
+10, Tattica Generica, Media, r4r1k/1pp3p1/5q1p/p1Q1n3/3p4/P2P2PP/1PPB1P2/2KR3R b - - 0 18, e5f3, https://www.chess.com/game/live/172394480318, 2026-08-01, Bishop's Opening
+11, Tattica Generica, Difficile, 5r1k/1pQ3p1/7p/p7/3p1B2/P2P2PP/1PP1rq2/2KR3R b - - 2 21, f8f6, https://www.chess.com/game/live/172394480318, 2026-08-01, Bishop's Opening
+12, Tattica Generica, Facile, 5r1k/1pQ5/7p/p3B1p1/3p4/P2P2PP/1PP1rq2/2KR3R b - - 1 22, e2e5, https://www.chess.com/game/live/172394480318, 2026-08-01, Bishop's Opening
+13, Tattica Generica, Difficile, rnbqk3/1p1n1prN/2p1p3/2PpP2p/1B1P2p1/P2B4/3Q1PPP/R4RK1 w q - 4 20, d2h6, https://www.chess.com/game/live/172394111582, 2026-08-01, French Defense
+14, Tattica Generica, Difficile, r1b2R2/1p1k3r/2p1p3/2Pp4/1B1P2p1/P5P1/7P/5RK1 w - - 1 33, f8g8, https://www.chess.com/game/live/172394111582, 2026-08-01, French Defense
+15, Pezzo Appeso, Facile, r1b1k3/1p4R1/2p5/2Ppp3/1B1P2p1/P5P1/7P/6K1 w - - 0 36, d4e5, https://www.chess.com/game/live/172394111582, 2026-08-01, French Defense
+16, Tattica Generica, Difficile, r1bqk1nr/pppp1ppp/2n5/2b1P3/2Bp4/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5, g8e7, https://www.chess.com/game/live/172193418018, 2026-07-28, Scotch Game
+17, Tattica Generica, Difficile, r1b1k1nr/ppppqppp/2n5/2b1P3/2Bp4/5N2/PPP2PPP/RNBQ1RK1 b kq - 2 6, d7d5, https://www.chess.com/game/live/172193418018, 2026-07-28, Scotch Game
+18, Tattica Generica, Difficile, r1b1k1nr/ppppq1pp/5p2/2b1n3/2Bp1B2/5N2/PPP2PPP/RN1QR1K1 b kq - 1 8, d7d6, https://www.chess.com/game/live/172193418018, 2026-07-28, Scotch Game
+19, Tattica Generica, Difficile, r3k2r/pppnq1pp/3p4/4p3/3p4/2P2N2/PP3PPP/R2QR1K1 b kq - 0 15, d4c3, https://www.chess.com/game/live/172193418018, 2026-07-28, Scotch Game
+20, Tattica Generica, Facile, r4rk1/pppnq1pp/3p4/4p3/3P4/5N2/PP3PPP/R2QR1K1 b - - 0 16, e7f6, https://www.chess.com/game/live/172193418018, 2026-07-28, Scotch Game
+21, Pezzo Appeso, Media, 2kr3r/pppq1ppp/2np1n2/2b1p3/2B1P3/2PP1N1b/PP1N1PP1/R1BQR1K1 w - - 0 10, g2h3, https://www.chess.com/game/live/172193180684, 2026-07-28, Italian Game
+22, Pezzo Appeso, Media, 2kr3r/pppq1p2/2np1n2/2b1pNp1/2B1P3/2PP1Npb/PP3P2/R1BQR1K1 w - - 0 14, f5g3, https://www.chess.com/game/live/172193180684, 2026-07-28, Italian Game
+23, Forchetta, Difficile, r3r1k1/2p2ppp/2p5/p3n3/8/P1P1B3/5PPP/2R1R1K1 b - - 1 21, e5d3, https://www.chess.com/game/live/172183080088, 2026-07-28, Bishop's Opening
+24, Tattica Generica, Media, 5k2/2p2ppp/2p5/p7/P1nB4/1rP2P2/2R3PP/6K1 b - - 4 30, b3b1, https://www.chess.com/game/live/172183080088, 2026-07-28, Bishop's Opening
+25, Tattica Generica, Difficile, 6k1/p3bppp/n1p2n2/q1Pp4/3P1N2/P4PP1/3r1PBP/R3QRK1 b - - 5 21, e7d8, https://www.chess.com/game/live/172158682700, 2026-07-27, English Opening
+26, Forchetta, Facile, 7Q/p3kpp1/2R5/3pb3/3q1P2/6PN/3n1PBP/4R1K1 b - - 2 35, d4e4, https://www.chess.com/game/live/172158682700, 2026-07-27, English Opening
+27, Tattica Generica, Media, r1b2rk1/1pQ1bppp/p1p1p3/5q1n/8/P1N1B3/BP3PPP/R3R1K1 b - - 5 17, e7d8, https://www.chess.com/game/live/172146735240, 2026-07-27, Queen's Gambit
+28, Tattica Generica, Media, r2b1rk1/ppp2ppp/2n5/4p3/2B1PB2/2P2b2/PP3PPP/R3RNK1 w - - 0 13, f4g3, https://www.chess.com/game/live/172145885924, 2026-07-27, Italian Game
+29, Tattica Generica, Facile, 6k1/p1p3pp/3bp3/R7/P3P3/6PK/4rr1P/8 w - - 6 29, e4e5, https://www.chess.com/game/live/172145885924, 2026-07-27, Italian Game
+30, Tattica Generica, Facile, 6k1/R1p3pp/P2bp3/7r/8/4r1P1/6K1/8 w - - 3 37, g2f2, https://www.chess.com/game/live/172145885924, 2026-07-27, Italian Game
+31, Tattica Generica, Difficile, 5rk1/ppp3p1/1b2prq1/1b1pR1Np/3P4/P1P1N2P/1P3PP1/R2Q2K1 b - - 7 20, c7c5, https://www.chess.com/game/live/172144207008, 2026-07-27, Nimzowitsch Defense
+32, Tattica Generica, Difficile, 5rk1/ppp3p1/1b2p1q1/1b1pR1Np/3P3P/P1P1N3/1P3rP1/R2Q2K1 b - - 0 21, b5d7, https://www.chess.com/game/live/172144207008, 2026-07-27, Nimzowitsch Defense
+33, Tattica Generica, Difficile, 5rk1/ppp3p1/1b2R1q1/1b1p2Np/3P3P/P1P1N3/1r4P1/R2Q2K1 b - - 0 22, f8f6, https://www.chess.com/game/live/172144207008, 2026-07-27, Nimzowitsch Defense
+34, Tattica Generica, Difficile, r1bq3r/1ppp1kpp/2n5/1p6/3P4/8/PP1Q1PPP/R4RK1 b - - 1 13, d7d6, https://www.chess.com/game/live/172090289574, 2026-07-26, Italian Game
+35, Tattica Generica, Media, r1bq2kr/1p2n1pp/2pp4/1p1P2Q1/8/8/PP3PPP/2R1R1K1 b - - 1 17, h7h6, https://www.chess.com/game/live/172090289574, 2026-07-26, Italian Game
+36, Pezzo Appeso, Difficile, r6r/1p2k2p/6p1/1p1R4/8/8/PP3PPP/2R3K1 b - - 0 23, a8a2, https://www.chess.com/game/live/172090289574, 2026-07-26, Italian Game
+37, Tattica Generica, Media, 8/1r6/8/5P2/1k3K2/6P1/8/8 b - - 1 50, b4c5, https://www.chess.com/game/live/172090289574, 2026-07-26, Italian Game
+38, Tattica Generica, Media, 8/8/2k2Pr1/5K2/6P1/8/8/8 b - - 2 55, g6h6, https://www.chess.com/game/live/172090289574, 2026-07-26, Italian Game
+39, Tattica Generica, Media, 6r1/8/2k2P2/5KP1/8/8/8/8 b - - 0 56, c6d7, https://www.chess.com/game/live/172090289574, 2026-07-26, Italian Game
+40, Forchetta, Media, 3r2k1/p1p3p1/3qbp1p/4P3/P6P/3r4/1PQN1PP1/3R1RK1 b - - 0 22, d3d2, https://www.chess.com/game/live/172071731904, 2026-07-25, Italian Game
+41, Tattica Generica, Difficile, 3r2k1/p1p3p1/3qb2p/4p3/P3N2P/3r4/1PQ2PP1/3R1RK1 b - - 1 23, d6d4, https://www.chess.com/game/live/172071731904, 2026-07-25, Italian Game
+42, Pezzo Appeso, Difficile, r1bq1rk1/ppppbpp1/2n2n1B/4p3/2B1P3/2NP1N2/PPPQ1PPP/R3K2R b KQ - 0 8, g7h6, https://www.chess.com/game/live/172071319900, 2026-07-25, Italian Game
+43, Tattica Generica, Media, r4rk1/ppp2pp1/1q1pb1P1/8/4P2P/1BPP1PQ1/P1P1K3/R6R b - - 0 21, e6b3, https://www.chess.com/game/live/172071319900, 2026-07-25, Italian Game
+44, Tattica Generica, Media, r4rk1/ppp3p1/1q1pbpP1/7P/4P3/1BPP1PQ1/P1P1K3/R6R b - - 0 22, e6b3, https://www.chess.com/game/live/172071319900, 2026-07-25, Italian Game
+45, Tattica Generica, Facile, 8/ppp3kR/1q1pr1P1/5r2/8/2PP1PQ1/P1PK4/R7 b - - 1 28, g7g8, https://www.chess.com/game/live/172071319900, 2026-07-25, Italian Game
+46, Tattica Generica, Media, 1r1q1rk1/2pb1ppp/p1np1b2/3B4/1P1P4/4BN2/P2Q1PPP/1R2R1K1 b - - 0 17, c6e7, https://www.chess.com/game/live/172071053168, 2026-07-25, C91
+47, Scoperta, Difficile, 3r1rk1/6pp/1q1Pp3/pp1n4/2p5/3P2N1/PP1Q1PPP/2R1R1K1 w - - 1 21, d3c4, https://www.chess.com/game/live/172064397554, 2026-07-25, Italian Game
+48, Tattica Generica, Difficile, 5rk1/6pp/1q1r4/pp6/2p1R3/3n2N1/PP1Q1PPP/5RK1 w - - 0 24, d2c2, https://www.chess.com/game/live/172064397554, 2026-07-25, Italian Game
+49, Tattica Generica, Media, 6k1/6pp/1q1r4/pp6/2p1R3/1P4N1/P4rPP/5RK1 w - - 0 26, f1f2, https://www.chess.com/game/live/172064397554, 2026-07-25, Italian Game
+50, Tattica Generica, Facile, 4k3/6pp/1q1r4/pp6/2p5/1P4N1/P4RPP/6K1 w - - 0 28, h2h4, https://www.chess.com/game/live/172064397554, 2026-07-25, Italian Game
+51, Tattica Generica, Facile, k3r3/pp4Q1/7p/6p1/3r4/2q5/P1P2PPP/2RR2K1 w - - 0 25, g7d4, https://www.chess.com/game/live/172026917786, 2026-07-24, Scandinavian Defense
+52, Tattica Generica, Difficile, r1b1k1nr/p2p1pbp/1qp1p1p1/8/4P3/2NB4/PPP2PPP/R1BQ1RK1 w kq - 0 9, d1f3, https://www.chess.com/game/live/172026424670, 2026-07-24, Sicilian Defense
+53, Tattica Generica, Difficile, 2r3k1/5p1p/R3b1p1/5p2/8/Q6P/p4PPK/q7 w - - 6 34, a3d6, https://www.chess.com/game/live/172026424670, 2026-07-24, Sicilian Defense
+54, Tattica Generica, Facile, 8/5pkp/4b1p1/4qp2/8/Q6P/p4PPK/8 w - - 3 37, a3g3, https://www.chess.com/game/live/172026424670, 2026-07-24, Sicilian Defense
+55, Scoperta, Difficile, rn2kb1r/ppp2ppp/1q2pn2/4N3/3P4/2N1B3/PPP1QPPP/R4RK1 w kq - 2 11, d4d5, https://www.chess.com/game/live/172025975646, 2026-07-24, Scandinavian Defense
+56, Tattica Generica, Media, r4rk1/p4ppp/1pp1p3/1n6/1P1BN3/8/5PPP/2RR2K1 w - - 2 26, d4e3, https://www.chess.com/game/live/172025975646, 2026-07-24, Scandinavian Defense
+57, Tattica Generica, Difficile, 3r1rk1/p4ppp/1pR1p3/1n6/1P1BN3/8/5PPP/3R2K1 w - - 1 27, e4d6, https://www.chess.com/game/live/172025975646, 2026-07-24, Scandinavian Defense
+58, Tattica Generica, Facile, 3r1rk1/p1R2ppp/1p6/4p3/1P6/2N5/4nPPP/3R2K1 w - - 2 30, g1f1, https://www.chess.com/game/live/172025975646, 2026-07-24, Scandinavian Defense
+59, Tattica Generica, Facile, r1b1kbnr/pppp1ppp/5q2/4n1N1/2BQP3/8/PPP2PPP/RNB1K2R b KQkq - 0 6, h7h6, https://www.chess.com/game/live/172024207390, 2026-07-24, Scotch Game
+60, Tattica Generica, Facile, 4k2r/pQpNnppp/8/8/2N2q2/8/PPP3PP/1K1R4 b k - 2 18, f7f6, https://www.chess.com/game/live/172024207390, 2026-07-24, Scotch Game
+61, Tattica Generica, Facile, 4r1k1/p2Nnppp/8/2p5/2N5/8/PPP3PP/1K2R3 b - - 4 22, f7f5, https://www.chess.com/game/live/172024207390, 2026-07-24, Scotch Game
+62, Tattica Generica, Media, r1bq1rk1/ppppnpp1/2n4p/2b1P3/2Bp1B2/3Q1N2/PPP2PPP/R3K2R b KQ - 1 10, d7d5, https://www.chess.com/game/live/171931789512, 2026-07-22, Three Knights Opening
+63, Forchetta, Facile, r4r1k/ppp3p1/2np3p/2bQ4/3pRpqN/P5P1/1PP2P1P/2K1R3 b - - 0 23, g4g5, https://www.chess.com/game/live/171931789512, 2026-07-22, Three Knights Opening
+64, Tattica Generica, Facile, r4r1k/ppp3p1/2np3p/2bQ4/3p2RN/P5p1/1PP2P1P/2K1R3 b - - 0 24, c6e5, https://www.chess.com/game/live/171931789512, 2026-07-22, Three Knights Opening
+65, Tattica Generica, Difficile, r4r1k/ppp3p1/2np3p/2bQ4/3p1PRN/P7/1PP4p/2K1R3 b - - 0 25, f8f6, https://www.chess.com/game/live/171931789512, 2026-07-22, Three Knights Opening
+66, Tattica Generica, Media, 7k/ppp3p1/3p3p/2b5/5P1N/P2P4/1P1Kn2p/7Q b - - 1 31, e2g3, https://www.chess.com/game/live/171931789512, 2026-07-22, Three Knights Opening
+67, Scoperta, Media, r3r1k1/1pp2ppp/p1p5/7b/5q2/3Qn3/P1PR2PP/4R1K1 b - - 1 22, e3g4, https://www.chess.com/game/live/171795692010, 2026-07-19, Spanish Game
+68, Tattica Generica, Facile, r3r1k1/1ppQ1ppp/p1p3b1/8/5q2/4n3/P1PR2PP/4R1K1 b - - 3 23, f4g5, https://www.chess.com/game/live/171795692010, 2026-07-19, Spanish Game
+69, Tattica Generica, Difficile, 2r3k1/p4ppp/1p6/3P4/2P2p2/8/q1PQ1PPP/4R1K1 w - - 0 23, d5d6, https://www.chess.com/game/live/171795328238, 2026-07-19, Nimzowitsch Defense
+70, Tattica Generica, Difficile, 2r3k1/p4ppp/1p6/3P4/2P2Q2/8/2q2PPP/4R1K1 w - - 0 24, f4c7, https://www.chess.com/game/live/171795328238, 2026-07-19, Nimzowitsch Defense
+71, Tattica Generica, Media, 2r3k1/p3Qpp1/1p5p/3P4/2q5/8/5PPP/4R1K1 w - - 0 26, d5d6, https://www.chess.com/game/live/171795328238, 2026-07-19, Nimzowitsch Defense
+72, Tattica Generica, Facile, 6k1/5pp1/1Q5p/8/8/8/3q1PPP/2r2RK1 w - - 3 31, g2g3, https://www.chess.com/game/live/171795328238, 2026-07-19, Nimzowitsch Defense
+73, Tattica Generica, Facile, 6k1/5pp1/1Q5p/8/5q2/6PP/5r1K/8 w - - 0 34, b6f2, https://www.chess.com/game/live/171795328238, 2026-07-19, Nimzowitsch Defense
+74, Tattica Generica, Difficile, 2r5/p2k2pp/5p2/2PK4/4P3/P6P/6P1/2R5 b - - 0 36, c8d8, https://www.chess.com/game/live/171791880034, 2026-07-19, E00
+75, Tattica Generica, Difficile, 8/2r4p/5Kp1/p1Pk4/P5PP/8/8/2R5 b - - 0 42, d5c6, https://www.chess.com/game/live/171791880034, 2026-07-19, E00
+76, Tattica Generica, Difficile, rnb1kbnr/ppp2ppp/4q3/8/3Pp3/2N1P3/PP2NPPP/R1BQKB1R b KQkq - 3 6, f8d6, https://www.chess.com/game/live/171782777914, 2026-07-19, Irregular Openings
+77, Tattica Generica, Difficile, rn1q1rk1/p1p2ppp/1p1ppn2/3bN3/3P4/1PBB4/P1P2PPP/R2Q1RK1 w - - 0 11, e5g4, https://www.chess.com/game/live/171775192874, 2026-07-19, Nimzowitsch Defense
+78, Scoperta, Media, 3r1rk1/p3qpp1/1p1pbn2/2p3QP/4P3/2NB1P2/PPP5/1K1R3R b - - 0 18, f6d5, https://www.chess.com/game/live/171774845388, 2026-07-19, Scotch Game
+79, Tattica Generica, Media, 3r1rk1/p3qpp1/1p1pbn2/6QP/2p1P3/2N2P2/PPP1B3/1K1R3R b - - 1 19, g8h8, https://www.chess.com/game/live/171774845388, 2026-07-19, Scotch Game
+80, Tattica Generica, Difficile, 3r1rk1/p3qpp1/1p2bn2/3pP1QP/2p5/2N2P2/PPP1B3/1K1R3R b - - 0 20, g8h7, https://www.chess.com/game/live/171774845388, 2026-07-19, Scotch Game
+81, Forchetta, Media, 3R4/2r2kp1/3N1p1p/4n3/2P5/1P5P/5KP1/8 b - - 5 39, f7e7, https://www.chess.com/game/live/171760955432, 2026-07-19, Italian Game
+82, Tattica Generica, Difficile, 8/p5p1/1p5p/3p1k2/3K1P2/2P3P1/P6P/8 b - - 5 31, f5g4, https://www.chess.com/game/live/171755612704, 2026-07-18, Scotch Game
+83, Pezzo Appeso, Media, 8/p5p1/1p2k2p/3p1P2/3K4/2P3P1/P6P/8 b - - 0 32, e6f5, https://www.chess.com/game/live/171755612704, 2026-07-18, Scotch Game
+84, Tattica Generica, Facile, 8/6p1/3k1P2/pp1p2P1/3K4/2P5/P7/8 b - - 0 37, g7f6, https://www.chess.com/game/live/171755612704, 2026-07-18, Scotch Game
+85, Tattica Generica, Difficile, 3r1rk1/p1p3pp/1p6/1PbbppB1/P7/2PP1B2/5PPP/1R3RK1 b - - 2 21, d8d7, https://www.chess.com/game/live/171739443450, 2026-07-18, King's Pawn Opening
+86, Pezzo Appeso, Difficile, r5k1/2p3pp/1p1b4/1p3p2/P2PP3/2P1R3/6PP/3R2K1 b - - 0 30, b5a4, https://www.chess.com/game/live/171739443450, 2026-07-18, King's Pawn Opening
+87, Pezzo Appeso, Difficile, 4r1k1/2p1b1pp/1p6/1p2Pp2/P2P4/2P1R3/6PP/5RK1 b - - 2 32, b5a4, https://www.chess.com/game/live/171739443450, 2026-07-18, King's Pawn Opening
+88, Pezzo Appeso, Facile, r1bqkb1r/ppp2ppp/2n5/3np1N1/2B5/5Q2/PPPP1PPP/RNB1K2R b KQkq - 1 6, d8g5, https://www.chess.com/game/live/171739402108, 2026-07-18, Italian Game
+89, Pezzo Appeso, Difficile, rn1qkb1r/pp3ppp/4pn2/2p5/3P4/5B2/PPP1NPPP/R1BQK2R w KQkq - 0 9, f3b7, https://www.chess.com/game/live/171711304890, 2026-07-17, Caro-Kann Defense
+90, Scoperta, Difficile, r2qkb1r/pp3ppp/2n1pn2/2p5/3P4/4BB2/PPP1NPPP/R2QK2R w KQkq - 2 10, d4c5, https://www.chess.com/game/live/171711304890, 2026-07-17, Caro-Kann Defense
+91, Tattica Generica, Facile, 3r2k1/5p1p/1p4p1/5p2/2p5/P7/1PP3PP/5R1K w - - 0 30, h1g1, https://www.chess.com/game/live/171711304890, 2026-07-17, Caro-Kann Defense
+92, Tattica Generica, Difficile, r2q1rk1/ppp2ppp/2np1nb1/2bNp1B1/2B1P1P1/3P1N1P/PPP2P2/R2Q1RK1 b - - 2 10, c6b4, https://www.chess.com/game/live/171711002806, 2026-07-17, Italian Game
+93, Tattica Generica, Difficile, r4rk1/p4pp1/1p2p2p/2p1B3/2P1n3/1R6/1P3PPP/5RK1 w - - 3 26, b3d3, https://www.chess.com/game/live/171709709602, 2026-07-17, Nimzowitsch Defense
+94, Tattica Generica, Difficile, 5r2/8/R7/2p5/2k1p3/p5K1/6P1/1r6 w - - 0 57, g3h2, https://www.chess.com/game/live/171709709602, 2026-07-17, Nimzowitsch Defense
+95, Tattica Generica, Difficile, r1b1kbnr/pp3ppp/2n1p3/2ppP3/Nq1P4/5N2/PPP2PPP/R1BQKB1R w KQkq - 6 7, c2c3, https://www.chess.com/game/live/171705291614, 2026-07-17, C02
+96, Tattica Generica, Difficile, r1b1kbnr/pp3ppp/2n1p3/q2pP3/N2p4/P4N2/1PP2PPP/R1BQKB1R w KQkq - 3 10, c1d2, https://www.chess.com/game/live/171705291614, 2026-07-17, C02
+97, Tattica Generica, Difficile, 7r/Q3rppp/1pk1p3/4q3/1b1p4/8/2P2PPP/R1R3K1 w - - 1 29, a7a2, https://www.chess.com/game/live/171705291614, 2026-07-17, C02
+98, Tattica Generica, Difficile, 3r1rk1/1pp2ppp/p1p5/8/2P1PP2/3P4/P1P2P1P/1R3RK1 b - - 2 17, b7b5, https://www.chess.com/game/live/171704872126, 2026-07-17, Spanish Game
+99, Pezzo Appeso, Facile, 2R1Q3/8/2P3kp/5p2/8/3K4/8/4r3 b - - 3 47, e1e8, https://www.chess.com/game/live/171704872126, 2026-07-17, Spanish Game
+100, Tattica Generica, Media, r3nrk1/pp6/4p3/1Nbp3p/8/P1Q3R1/1P3q2/1K2R3 b - - 5 27, g8h7, https://www.chess.com/game/live/171704342328, 2026-07-17, E00
+101, Pezzo Appeso, Media, r2qk1r1/1p3p2/p2p1n1p/4P3/4P2b/2NBB2b/PPPQ2PP/R4RK1 w q - 1 17, e5f6, https://www.chess.com/game/live/171664072814, 2026-07-16, Sicilian Defense
+102, Tattica Generica, Difficile, r2qk3/1p3p2/p2p1n1p/4P3/4P2b/2NBBR1b/PPPQ2rP/R5K1 w q - 0 18, d2g2, https://www.chess.com/game/live/171664072814, 2026-07-16, Sicilian Defense
+103, Tattica Generica, Facile, 3rr1k1/2p2ppp/1p2qn2/2p1p3/4PP2/P1PPQ3/1B3P1P/R2R2K1 b - - 0 21, f6g4, https://www.chess.com/game/live/171577978498, 2026-07-14, Spanish Game
+104, Tattica Generica, Media, r1bqk1nr/1pp2ppp/p1pb4/8/3QP3/5N2/PPP2PPP/RNB2RK1 b kq - 0 7, f7f6, https://www.chess.com/game/live/171533263354, 2026-07-13, Spanish Game
+105, Tattica Generica, Difficile, r1bk1bnr/2p5/1p3p2/p3p1pp/4P3/2NBB3/PPP2PPP/2KR3R w - - 0 12, d3b5, https://www.chess.com/game/live/171532370774, 2026-07-13, Scotch Game
+106, Tattica Generica, Media, r1bk1b1r/2p1n3/1p3p2/p3p1pp/4P3/2NBB3/PPP2PPP/1K1R3R w - - 2 13, d3b5, https://www.chess.com/game/live/171532370774, 2026-07-13, Scotch Game
+107, Tattica Generica, Difficile, 6r1/2p1nkP1/1p6/p3p3/4r2p/4B2R/PPP2P2/1K4R1 w - - 1 29, h3f3, https://www.chess.com/game/live/171532370774, 2026-07-13, Scotch Game
+108, Tattica Generica, Difficile, 6r1/2p2kP1/1p6/p3pnB1/3r3p/5P1R/PPP5/1K4R1 w - - 1 31, c2c3, https://www.chess.com/game/live/171532370774, 2026-07-13, Scotch Game
+109, Tattica Generica, Facile, 8/2p2kn1/1p6/p7/3r1p1B/7R/PPP5/1K6 w - - 0 34, c2c3, https://www.chess.com/game/live/171532370774, 2026-07-13, Scotch Game
+110, Tattica Generica, Difficile, rnb1k1nr/pppp1ppp/3q4/2bNp3/4P3/5N2/PPPP1PPP/R1BQKB1R w KQkq - 6 5, d2d4, https://www.chess.com/game/live/171501463460, 2026-07-13, King's Pawn Opening
+111, Tattica Generica, Facile, rn2k1nr/ppb3p1/2pp1pq1/4p3/1PBPP2p/P1N1BN1b/2PQ1PP1/R4RK1 w kq - 0 16, f3g5, https://www.chess.com/game/live/171501463460, 2026-07-13, King's Pawn Opening
+112, Scoperta, Difficile, rnb1kb1r/pppp1ppp/2q5/3nP3/3P1B2/6P1/P2NN2P/2RQKB1R b Kkq - 3 10, d5f4, https://www.chess.com/game/live/171489386610, 2026-07-12, C33
+113, Tattica Generica, Media, rnb1kb1r/pppp1ppp/4q3/4P3/3P1N1P/6P1/P2N4/2RQKB1R b Kkq - 0 12, e6h6, https://www.chess.com/game/live/171489386610, 2026-07-12, C33
+114, Pezzo Appeso, Media, 2r2rk1/pppN1ppp/3qb3/8/3Pp3/PPQ1P1P1/1B3P1P/R4RK1 b - - 0 18, e6d7, https://www.chess.com/game/live/171478683364, 2026-07-12, D35
+115, Tattica Generica, Difficile, 8/3k4/5K2/6B1/8/4P2P/8/8 b - - 4 53, d7c6, https://www.chess.com/game/live/171478683364, 2026-07-12, D35
+116, Tattica Generica, Difficile, 8/3k1K2/7B/8/8/4P2P/8/8 b - - 8 55, d7d6, https://www.chess.com/game/live/171478683364, 2026-07-12, D35
+117, Tattica Generica, Difficile, r2r2k1/ppp2ppp/1b6/8/1P1Pb1P1/P4N1P/3KBP2/R6R w - - 3 19, h1d1, https://www.chess.com/game/live/171475905636, 2026-07-12, Alekhine's Defense
+118, Tattica Generica, Difficile, 3q3k/2p3pp/3p1p2/8/4r3/Q1P5/Pr4PP/R4RK1 b - - 1 23, e4e2, https://www.chess.com/game/live/171471230544, 2026-07-12, Vienna Game
+119, Tattica Generica, Difficile, 4r2k/2p1q1pp/3p1p2/8/2P5/8/P3r1PP/R1Q2RK1 b - - 0 27, e7e4, https://www.chess.com/game/live/171471230544, 2026-07-12, Vienna Game
+120, Tattica Generica, Facile, 7k/2p3pp/3p1p2/P7/2P5/8/2r1r1PP/RR4K1 b - - 2 31, e2g2, https://www.chess.com/game/live/171471230544, 2026-07-12, Vienna Game
+121, Tattica Generica, Media, rn1qk1nr/pppbbppp/3pp3/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 4 5, f1c4, https://www.chess.com/game/live/171471208194, 2026-07-12, French Defense
+122, Tattica Generica, Difficile, r4rk1/5ppp/1p3b2/pPq1p3/P2pPnP1/3B1N1P/2PQ1P1K/R4R2 b - - 2 23, f6e7, https://www.chess.com/game/live/171470554448, 2026-07-12, King's Pawn Opening
+123, Matto Mancato, Facile, 3r2k1/5pp1/1p5p/pP6/P3q3/5P1P/6K1/Q7 b - - 0 46, d8d2, https://www.chess.com/game/live/171470554448, 2026-07-12, King's Pawn Opening
+124, Matto Mancato, Facile, 3r2k1/5pp1/1p5p/pP6/P7/5PKP/4q3/Q7 b - - 2 47, d8d3, https://www.chess.com/game/live/171470554448, 2026-07-12, King's Pawn Opening
+125, Tattica Generica, Facile, 8/5kpp/3pR3/p2P4/3r1r2/1P6/P4PPP/3R2K1 w - - 4 27, d1e1, https://www.chess.com/game/live/171440478094, 2026-07-11, Italian Game
+126, Tattica Generica, Media, r2qk2r/1ppbbpp1/p2p2np/3Pp3/P1B1P3/2N1PN1P/1PP3P1/R3QRK1 w kq - 3 13, a4a5, https://www.chess.com/game/live/171424188024, 2026-07-11, Italian Game
+127, Tattica Generica, Difficile, r5k1/1ppB2p1/p6p/3p4/PP1q2Nn/4p2P/5RP1/5R1K w - - 0 32, d7e6, https://www.chess.com/game/live/171424188024, 2026-07-11, Italian Game
+128, Pezzo Appeso, Difficile, r1bqk2r/pppp1Bpp/2n5/2b5/3pP1n1/5N2/PPP2PPP/RNBQR1K1 b kq - 0 7, e8f7, https://www.chess.com/game/live/171423852710, 2026-07-11, Italian Game
+129, Tattica Generica, Facile, r1bq3r/ppp2kpp/2np4/2b1P3/8/3QPN2/PPP3PP/RN3RK1 b - - 1 12, f7e8, https://www.chess.com/game/live/171423852710, 2026-07-11, Italian Game
+130, Tattica Generica, Facile, r1bq2kr/ppp3pp/2np4/2b1P3/8/3QPN2/PPP3PP/RN3R1K b - - 3 13, c8e6, https://www.chess.com/game/live/171423852710, 2026-07-11, Italian Game
+131, Tattica Generica, Difficile, r2q2kr/ppp3pp/2np4/2bQP3/6b1/4PN2/PPP3PP/RN3R1K b - - 5 14, g8f8, https://www.chess.com/game/live/171423852710, 2026-07-11, Italian Game
+132, Forchetta, Facile, r2q1k1r/ppp3pp/2np4/2bQP1N1/6b1/4P3/PPP3PP/RN3R1K b - - 7 15, d8f6, https://www.chess.com/game/live/171423852710, 2026-07-11, Italian Game
+133, Pezzo Appeso, Media, r1b1k2r/ppp2ppp/3bqn2/8/2PQ4/8/PP2BPPP/RNB2RK1 b kq - 0 10, e6e2, https://www.chess.com/game/live/171423216172, 2026-07-11, Scotch Game
+134, Matto Mancato, Facile, r1b1r1k1/ppp2ppp/5n2/8/2P4Q/B1P5/P3qPPP/R3R1K1 b - - 3 15, e2e1, https://www.chess.com/game/live/171423216172, 2026-07-11, Scotch Game
+135, Pezzo Appeso, Facile, r1bq1rk1/pppp1p1n/2n5/2b1p1B1/2B1P3/2PP4/PP1N1PPP/R2Q1RK1 w - - 1 12, g5d8, https://www.chess.com/game/live/171422983758, 2026-07-11, Italian Game
+136, Tattica Generica, Difficile, r1bqk2r/1ppp1ppp/2n2n2/p1bN4/2BpP3/P4N2/1PP2PPP/R1BQK2R b KQkq - 1 7, h7h6, https://www.chess.com/game/live/171422691232, 2026-07-11, Italian Game
+137, Tattica Generica, Difficile, r1bq1rk1/1ppp1ppp/2n5/p1bN4/3pn3/P2B1N2/1PP2PPP/R1BQ1RK1 b - - 3 9, f7f5, https://www.chess.com/game/live/171422691232, 2026-07-11, Italian Game
+138, Forchetta, Facile, r1bqn1k1/1ppp1pp1/2n5/p1bN2NQ/3p4/P7/1PP2PPP/R1B3K1 b - - 3 14, d8g5, https://www.chess.com/game/live/171422691232, 2026-07-11, Italian Game
+139, Tattica Generica, Difficile, r4rk1/pp1n1pp1/n2qp3/3p2Pp/2pP3P/2N1PP2/PPPQN3/2KR3R b - - 3 16, a6c7, https://www.chess.com/game/live/171349360284, 2026-07-09, Queen's Pawn Opening
+140, Forchetta, Facile, 8/pp5k/4qPp1/2n2n1p/P3P3/2N5/1PP1Q3/2K2R2 b - - 0 34, f5g3, https://www.chess.com/game/live/171349360284, 2026-07-09, Queen's Pawn Opening
+141, Tattica Generica, Difficile, rnbq1rk1/ppp2ppp/8/6b1/4N3/3P1N1P/PPP2KP1/R2Q1B1R w - - 0 11, e4g5, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+142, Tattica Generica, Difficile, r1bq1rk1/ppp2ppp/8/8/3nN3/3P1N1P/PPP2KP1/R2Q1B1R w - - 3 13, c2c3, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+143, Tattica Generica, Difficile, r1b2rk1/ppp2ppp/8/8/3qN3/3P3P/PPP2KP1/R2Q1B1R w - - 0 14, f2e1, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+144, Tattica Generica, Facile, r4rk1/ppp3pp/1q6/5p2/4P3/2P2K1P/PP4P1/1R1Q1B1R w - - 0 18, d1b3, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+145, Tattica Generica, Difficile, 3r1rk1/p1p3pp/1p2q3/2K5/8/2PB3P/PP4P1/1R1Q3R w - - 0 22, c5b4, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+146, Tattica Generica, Difficile, 6k1/p1p3pp/1p2q3/3r4/1K3r2/2PB3P/PP4P1/1R1Q3R w - - 4 24, c3c4, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+147, Tattica Generica, Facile, 6k1/p1p3pp/1p2q3/8/8/2P4P/PPK2rP1/3R3R w - - 1 27, d1d2, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+148, Tattica Generica, Difficile, 3R4/p1p2kpp/1p6/8/8/2P4P/PPq2rP1/K6R w - - 7 30, h1b1, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+149, Tattica Generica, Facile, 8/p1pR2pp/1p2k3/8/8/2P4P/PPq2rP1/K6R w - - 9 31, h1b1, https://www.chess.com/game/live/171349092666, 2026-07-09, Petrov's Defense
+150, Tattica Generica, Difficile, r1bq1rk1/ppp2pp1/1b1p1nnp/3P2B1/2B1P3/2N2N2/PP1Q1PPP/R4RK1 w - - 0 12, g5e3, https://www.chess.com/game/live/171298704240, 2026-07-08, Italian Game
+151, Tattica Generica, Media, r1bq1rk1/ppp2pp1/1b1p3p/3P4/2B1P1nN/2N5/PP1Q1PPP/R4RK1 w - - 1 14, h4f3, https://www.chess.com/game/live/171298704240, 2026-07-08, Italian Game
+152, Pezzo Appeso, Difficile, r1b2rk1/ppp2pp1/1b1p3p/3P4/2B1P1nq/2N4P/PP1Q1PP1/R4RK1 w - - 0 15, h3g4, https://www.chess.com/game/live/171298704240, 2026-07-08, Italian Game
+153, Tattica Generica, Difficile, 8/8/p2p4/1p3k2/3b2p1/1P1p4/P4K2/8 w - - 2 59, f2f1, https://www.chess.com/game/live/171298704240, 2026-07-08, Italian Game
+154, Tattica Generica, Difficile, 8/8/p7/1p1p1k2/3b2p1/1P1p4/P7/4K3 w - - 0 60, e1d2, https://www.chess.com/game/live/171298704240, 2026-07-08, Italian Game
+155, Pezzo Appeso, Facile, 8/8/p7/1p1p1k2/3b4/1P1K4/P5p1/8 w - - 0 62, d3d4, https://www.chess.com/game/live/171298704240, 2026-07-08, Italian Game
+156, Tattica Generica, Difficile, r1bqk2r/pppp1pp1/7p/2bBN3/3nP3/3P4/PPP2PPP/R1BQK2R b KQkq - 0 8, d8f6, https://www.chess.com/game/live/171297684406, 2026-07-08, Italian Game
+157, Tattica Generica, Difficile, r1b3k1/pp1p2p1/2p2q1N/2b4Q/4P3/3P4/PP1K1PPP/n1B4R b - - 0 15, f6h6, https://www.chess.com/game/live/171297684406, 2026-07-08, Italian Game
+158, Tattica Generica, Facile, r1b3k1/pp1p4/2p2q1p/2Q5/4P3/3P4/PP1K1PPP/n1B4R b - - 0 16, d7d5, https://www.chess.com/game/live/171297684406, 2026-07-08, Italian Game
+159, Tattica Generica, Difficile, r1b1k1nr/p3bp1p/1pp1pqp1/8/3QP3/2N1BN2/PPP2PPP/R4K1R w kq - 3 10, d4c4, https://www.chess.com/game/live/171274824172, 2026-07-08, Sicilian Defense
+160, Tattica Generica, Difficile, r1bk2nr/p3bp1p/1p2pqp1/2p1N3/Q3P3/2N1B3/PPP2PPP/R4K1R w - - 2 12, a1d1, https://www.chess.com/game/live/171274824172, 2026-07-08, Sicilian Defense
+161, Tattica Generica, Media, r1b3nr/p1k1qp1p/1p4p1/2p1p3/Q3PB2/2N5/PPP2PPP/R4K1R w - - 0 15, c3d5, https://www.chess.com/game/live/171274824172, 2026-07-08, Sicilian Defense
+162, Tattica Generica, Media, r6r/1k2np1p/ppb1q1p1/2pNp3/2Q1P3/6B1/PPP1KPPP/3RR3 w - - 0 21, c4b3, https://www.chess.com/game/live/171274824172, 2026-07-08, Sicilian Defense
+163, Tattica Generica, Difficile, 4r1k1/3r2pp/p1N3b1/1p3p2/2p1pP2/2P1P1P1/PP1R2P1/3R2K1 b - - 4 29, d7d3, https://www.chess.com/game/live/171254244482, 2026-07-07, A45
+164, Tattica Generica, Media, 4r1k1/6pp/p1N3b1/1p3p2/2p1pP2/2P1P1P1/PP1R2P1/6K1 b - - 0 30, e8e6, https://www.chess.com/game/live/171254244482, 2026-07-07, A45
+165, Forchetta, Difficile, r3k2r/3p1ppp/bpq1pn2/8/1b2P3/2N1BN2/PPPQ1PPP/R3K2R w KQkq - 4 11, d2d4, https://www.chess.com/game/live/171253802806, 2026-07-07, Sicilian Defense
+166, Pezzo Appeso, Facile, r3k2r/3p1ppp/bpq1p3/4P3/1b1Q4/2n1BN2/PPP2PPP/R3K2R w KQkq - 0 13, d4b4, https://www.chess.com/game/live/171253802806, 2026-07-07, Sicilian Defense
+167, Pezzo Appeso, Difficile, 1r4k1/5ppp/8/p7/4P3/1P3P1P/6PK/R7 b - - 1 30, b8b3, https://www.chess.com/game/live/171253618564, 2026-07-07, Vienna Game
+168, Tattica Generica, Media, 5k2/8/6K1/8/4P3/5P1P/6P1/8 b - - 2 44, f8e7, https://www.chess.com/game/live/171253618564, 2026-07-07, Vienna Game
+169, Tattica Generica, Facile, 6k1/8/6K1/8/4P2P/5P2/6P1/8 b - - 0 45, g8f8, https://www.chess.com/game/live/171253618564, 2026-07-07, Vienna Game
+170, Tattica Generica, Media, 8/4k2P/4P3/5K2/8/5P2/6P1/8 b - - 2 51, e7d6, https://www.chess.com/game/live/171253618564, 2026-07-07, Vienna Game
+171, Pezzo Appeso, Difficile, rnbqk1nr/1p1p1ppp/p1p5/4N3/2B1P3/2N5/PPPP1bPP/R1BQK2R w KQkq - 0 6, e1f2, https://www.chess.com/game/live/171253198008, 2026-07-07, King's Pawn Opening
+172, Tattica Generica, Facile, rn2k1nr/1p3ppp/pbpp2q1/6B1/2B1P1b1/2NP1N2/PPPQ2PP/R4K1R w kq - 4 11, f3h4, https://www.chess.com/game/live/171253198008, 2026-07-07, King's Pawn Opening
+173, Forchetta, Difficile, r4rk1/ppp2ppp/2nbbn2/4p3/8/2Pq1NPP/PP1N1P2/R1BQKB1R b KQ - 5 12, d3d5, https://www.chess.com/game/live/171238002074, 2026-07-07, King's Pawn Opening
+174, Tattica Generica, Media, r4rk1/ppp2ppp/2nbbn2/8/4p2N/2P3PP/PP1N1PB1/R1BR2K1 b - - 0 16, g7g5, https://www.chess.com/game/live/171238002074, 2026-07-07, King's Pawn Opening
+175, Tattica Generica, Difficile, r4rk1/p1p3pp/2pbb3/5p2/2P4N/1P2B1P1/P4P1K/R2R4 b - - 1 23, f5f4, https://www.chess.com/game/live/171238002074, 2026-07-07, King's Pawn Opening
+176, Tattica Generica, Difficile, r4rk1/p1p4p/2pbb1p1/5p2/2P4N/1P2B1P1/P4P1K/2RR4 b - - 1 24, f5f4, https://www.chess.com/game/live/171238002074, 2026-07-07, King's Pawn Opening
+177, Tattica Generica, Media, r4rk1/2pb3p/2p3p1/p4p2/2PN4/bP2B1P1/P2R1P1K/3R4 b - - 3 28, a3b4, https://www.chess.com/game/live/171238002074, 2026-07-07, King's Pawn Opening
+178, Tattica Generica, Difficile, r4rk1/2p4p/2b3p1/p1p1Np2/2P5/bP2B1P1/P2R1P1K/3R4 b - - 3 30, a8a6, https://www.chess.com/game/live/171238002074, 2026-07-07, King's Pawn Opening
+179, Tattica Generica, Media, r4rk1/1bpN3p/6p1/p1p2p2/1bP5/1P2B1P1/P3RP1K/3R4 b - - 7 32, b7f3, https://www.chess.com/game/live/171238002074, 2026-07-07, King's Pawn Opening
+180, Tattica Generica, Difficile, r3r1k1/1bp4p/5Np1/p1p2p2/1bP5/1P2B1P1/P3RP1K/3R4 b - - 9 33, g8f7, https://www.chess.com/game/live/171238002074, 2026-07-07, King's Pawn Opening
+181, Tattica Generica, Difficile, 2k1r2r/pppqb3/3p1p2/3P2pp/3p4/3P2B1/PPPQ1PPP/R3R1K1 w - - 0 17, f2f4, https://www.chess.com/game/live/171237939836, 2026-07-07, Italian Game
+182, Tattica Generica, Difficile, 3r1r2/1p1k1p2/p2p1p1p/2p1nP2/5P2/1B6/PPP3PP/2KRR3 b - - 0 20, e5c6, https://www.chess.com/game/live/171183821190, 2026-07-06, Center Game
+183, Tattica Generica, Difficile, 4r3/8/2k2p1p/1ppB1P2/P4PP1/1PK4P/3R4/8 b - - 0 35, c6b6, https://www.chess.com/game/live/171183821190, 2026-07-06, Center Game
+184, Tattica Generica, Facile, 2B3k1/p5pp/4pn2/8/8/1P6/1r3PPP/3R2K1 b - - 0 26, g8f7, https://www.chess.com/game/live/171173289770, 2026-07-06, Scotch Game
+185, Tattica Generica, Difficile, r2q1r2/3b1pkp/p3p1p1/3pN2n/3P4/1B2Q3/P1P2PPP/R3R1K1 w - - 8 22, e5d7, https://www.chess.com/game/live/171172595802, 2026-07-05, A45
+186, Tattica Generica, Difficile, 2r5/8/5kpp/5p2/1p1P1P2/2r5/P2R1P1P/R5K1 w - - 3 40, d4d5, https://www.chess.com/game/live/171172595802, 2026-07-05, A45
+187, Tattica Generica, Media, 2r5/8/5kpp/5p2/P2P1P2/1p6/2rR1P1P/R5K1 w - - 1 42, d2c2, https://www.chess.com/game/live/171172595802, 2026-07-05, A45
+188, Pezzo Appeso, Difficile, 2r5/8/5kpp/5p2/P2P1P2/8/1p3P1P/1RrR2K1 w - - 2 44, b1b2, https://www.chess.com/game/live/171172595802, 2026-07-05, A45
+189, Forchetta, Media, 1r1q1rk1/p1p2ppp/1bp1pn2/8/1PPPp3/P3B3/3N1PPP/R2Q1RK1 b - - 0 14, b6d4, https://www.chess.com/game/live/171140096798, 2026-07-05, Reti Opening
+190, Tattica Generica, Difficile, 1r3rk1/b1p2ppp/2p1pq2/P1PnN3/3Pp3/P7/3BQPPP/R4RK1 b - - 8 20, b8b2, https://www.chess.com/game/live/171140096798, 2026-07-05, Reti Opening
+191, Tattica Generica, Media, r2q1rk1/ppp2pp1/2np2b1/2b1p2n/2B1P2P/2NPB3/PPP2P1N/R2QK1R1 b Q - 1 12, c5e3, https://www.chess.com/game/live/171126753428, 2026-07-04, Italian Game
+192, Pezzo Appeso, Facile, r2q1rk1/ppp2pp1/2np2R1/2b5/2B1Pp1P/2NP4/PPP2P1N/R2QK3 b Q - 0 14, d8h4, https://www.chess.com/game/live/171126753428, 2026-07-04, Italian Game
+193, Tattica Generica, Difficile, r2q1rk1/ppp2pp1/2n5/2bB3Q/4Pp1P/2NP4/PPP2P1N/R3K1R1 b Q - 0 17, d8e7, https://www.chess.com/game/live/171126753428, 2026-07-04, Italian Game
+194, Tattica Generica, Facile, r4rk1/ppp2pp1/2n2q2/2bB3Q/4PpNP/2NP4/PPP2P2/R3K1R1 b Q - 2 18, f6d6, https://www.chess.com/game/live/171126753428, 2026-07-04, Italian Game
+195, Tattica Generica, Difficile, 8/p7/1p3bk1/2p2p1p/2P1p3/1P2B1KP/P4PP1/8 w - - 2 27, g3h2, https://www.chess.com/game/live/171078872692, 2026-07-03, Scotch Game
+196, Scoperta, Difficile, 8/p7/1p4k1/2p2pbp/2P1pK2/1P2B2P/P4PP1/8 w - - 4 28, f4e5, https://www.chess.com/game/live/171078872692, 2026-07-03, Scotch Game
+197, Tattica Generica, Media, 8/p7/1p6/2p2pkp/2P1p3/1P2P1KP/P5P1/8 w - - 1 30, h3h4, https://www.chess.com/game/live/171078872692, 2026-07-03, Scotch Game
+198, Tattica Generica, Difficile, 8/p7/1p6/2p3kp/2P1pp2/1P2P2P/P4KP1/8 w - - 0 31, e3f4, https://www.chess.com/game/live/171078872692, 2026-07-03, Scotch Game
+199, Tattica Generica, Facile, 8/p7/1p6/2p3kp/2P1p3/1P2PpPP/P4K2/8 w - - 0 32, a2a3, https://www.chess.com/game/live/171078872692, 2026-07-03, Scotch Game
+200, Tattica Generica, Difficile, 8/8/8/p1p2k1p/P1P1p2P/4PpP1/5K2/8 w - - 1 37, f2g1, https://www.chess.com/game/live/171078872692, 2026-07-03, Scotch Game
+201, Tattica Generica, Facile, 8/8/8/p1p4p/P1P1p1kP/4PpP1/8/5K2 w - - 3 38, f1e1, https://www.chess.com/game/live/171078872692, 2026-07-03, Scotch Game
+202, Tattica Generica, Facile, 8/8/8/p1p4p/P1P1p2P/4P1k1/5p2/5K2 w - - 0 41, f1e2, https://www.chess.com/game/live/171078872692, 2026-07-03, Scotch Game
+203, Matto Mancato, Facile, 4r1k1/6p1/p6p/1pprb2P/4R3/P1P4q/1P2Q2N/4R1K1 b - - 1 31, e5h2, https://www.chess.com/game/live/171078246764, 2026-07-03, Spanish Game
+204, Tattica Generica, Media, 2b2rk1/1p4pp/1n2pq2/8/2BP1p2/1P2BQ2/5PPP/R5K1 w - - 0 24, e3d2, https://www.chess.com/game/live/171016133666, 2026-07-02, French Defense
+205, Forchetta, Difficile, 8/5k2/4p2p/6p1/4K2P/1prb1PP1/8/1R6 w - - 1 40, e4d4, https://www.chess.com/game/live/171016133666, 2026-07-02, French Defense
+206, Tattica Generica, Media, r1q2rk1/1pp1npp1/p2p1n1p/2b1p3/2B1P3/2PP1NNb/PP3PP1/R1BQR1K1 w - - 0 14, d3d4, https://www.chess.com/game/live/170991545860, 2026-07-01, Italian Game
+207, Tattica Generica, Facile, r4rk1/1pp1np2/p2p1n1p/2b1pq2/2B5/2PP1N2/PP3PP1/R2QR1K1 w - - 0 17, d3d4, https://www.chess.com/game/live/170991545860, 2026-07-01, Italian Game
+208, Matto Mancato, Facile, 6k1/R7/p5p1/5N2/3Pp3/3b4/r4rP1/3R2K1 b - - 0 36, f2g2, https://www.chess.com/game/live/170960225748, 2026-07-01, Queen's Pawn Opening
+209, Tattica Generica, Facile, 6k1/R7/p7/5p2/3Pp3/3b3K/r5r1/3R4 b - - 1 38, f5f4, https://www.chess.com/game/live/170960225748, 2026-07-01, Queen's Pawn Opening
+210, Tattica Generica, Difficile, 6k1/R7/p7/4Kp2/3Pp3/3b4/5r1r/3R4 b - - 7 41, f2g2, https://www.chess.com/game/live/170960225748, 2026-07-01, Queen's Pawn Opening
+211, Tattica Generica, Media, 6k1/R7/p7/4Kp2/3P4/3bp3/5r1r/6R1 b - - 1 42, f2g2, https://www.chess.com/game/live/170960225748, 2026-07-01, Queen's Pawn Opening
+212, Tattica Generica, Facile, 8/R5R1/p6k/4Kp2/3P4/3bp3/5r1r/8 b - - 7 45, h2h5, https://www.chess.com/game/live/170960225748, 2026-07-01, Queen's Pawn Opening
+213, Tattica Generica, Difficile, r1bqkb1r/ppp2ppp/2n1p3/3pPn2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 5 6, h2h4, https://www.chess.com/game/live/170959792002, 2026-07-01, Nimzowitsch Defense
+214, Tattica Generica, Facile, 4k3/R1B2pp1/4p2p/3pP3/6K1/1r6/5nPP/8 w - - 11 40, g4h5, https://www.chess.com/game/live/170959792002, 2026-07-01, Nimzowitsch Defense
+215, Tattica Generica, Facile, r4r2/p1ppqppk/1p2p2p/4P3/2Pn4/1P4Q1/P2B1PPP/R4RK1 w - - 0 16, g3d3, https://www.chess.com/game/live/170944117388, 2026-06-30, Nimzowitsch Defense
+216, Tattica Generica, Media, r4r2/p1pQ1ppk/1p2p2p/4P1q1/2P4n/1PB3P1/P4P1P/R4RK1 w - - 1 21, d7c6, https://www.chess.com/game/live/170944117388, 2026-06-30, Nimzowitsch Defense
+217, Tattica Generica, Difficile, r4r2/p1pQ1ppk/1p2p1qp/4P3/2P4n/1P4P1/P2B1P1P/R4RK1 w - - 3 22, d7c6, https://www.chess.com/game/live/170944117388, 2026-06-30, Nimzowitsch Defense
+218, Tattica Generica, Media, r4r2/p1Q2ppk/1p2p1qp/4P3/2P5/1P1n2P1/P5KP/R3R3 w - - 2 27, e1e3, https://www.chess.com/game/live/170944117388, 2026-06-30, Nimzowitsch Defense
+219, Tattica Generica, Difficile, r4r2/p1Q2ppk/1p2p2p/4P3/2P1q3/1P1n2P1/P5KP/R2R4 w - - 4 28, g2g1, https://www.chess.com/game/live/170944117388, 2026-06-30, Nimzowitsch Defense
+220, Scoperta, Media, r2qk2r/3bbppp/p2p4/1ppPpn2/6B1/2PP3P/PP4PN/R1BQ1RK1 b kq - 1 14, f5h4, https://www.chess.com/game/live/170892224142, 2026-06-29, B50
+221, Scoperta, Difficile, r5rk/6qp/p2p4/2pPp1R1/2P4P/5Q2/PP4P1/5RK1 b - - 1 31, g7e7, https://www.chess.com/game/live/170892224142, 2026-06-29, B50
+222, Tattica Generica, Media, 8/8/6k1/r6p/PR6/6K1/8/8 b - - 1 63, g6f7, https://www.chess.com/game/live/170892224142, 2026-06-29, B50
+223, Tattica Generica, Facile, 4r1k1/p4pp1/2Q5/7p/4n3/2N3KP/PPr3P1/8 w - - 2 26, g3h2, https://www.chess.com/game/live/170882168638, 2026-06-29, Philidor Defense
+224, Tattica Generica, Difficile, r4r1k/pppb2pp/2nb4/3B1pq1/4p3/P3P1N1/1PQP1PPP/R1B1K2R b KQ - 3 15, c6e5, https://www.chess.com/game/live/170881701194, 2026-06-29, English Opening
+225, Scoperta, Difficile, r4r1k/pppb2pp/2n5/3B1pq1/4p3/P3P1P1/1PQP2PP/R1B1K2R b KQ - 0 16, f5f4, https://www.chess.com/game/live/170881701194, 2026-06-29, English Opening
+226, Tattica Generica, Difficile, 1r3r1k/pppb2pp/2n2q2/3B1p2/1P2p3/P3P1P1/2QP2PP/R1B2RK1 b - - 0 18, c6d4, https://www.chess.com/game/live/170881701194, 2026-06-29, English Opening
+227, Tattica Generica, Media, 1r3r1k/pppb2pp/2n5/3B1p2/1P2p3/P3P1P1/1BQP2PP/q4RK1 b - - 1 19, a1f1, https://www.chess.com/game/live/170881701194, 2026-06-29, English Opening
+228, Tattica Generica, Difficile, 2kr3r/1pp3pp/p1b2n2/2Pp1p2/3Pp2q/1P2P3/PB3PPN/RN1QR1K1 b - - 5 16, g7g5, https://www.chess.com/game/live/170877220908, 2026-06-29, Nimzowitsch-Larsen Attack
+229, Tattica Generica, Difficile, 4qr2/1k1b2pp/1P3r2/P1Np3n/1P1Pp3/4R1P1/5PQN/2B2RK1 b - - 2 35, b7b8, https://www.chess.com/game/live/170877220908, 2026-06-29, Nimzowitsch-Larsen Attack
+230, Tattica Generica, Media, rnb1kbnr/pp3ppp/2pp1q2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6, c1e3, https://www.chess.com/game/live/170876537730, 2026-06-29, King's Pawn Opening
+231, Tattica Generica, Media, rnb1k1nr/pp2bppp/2pp1q2/8/3NP3/2NB4/PPP2PPP/R1BQK2R w KQkq - 2 7, c1e3, https://www.chess.com/game/live/170876537730, 2026-06-29, King's Pawn Opening
+232, Tattica Generica, Difficile, rn3rk1/pp2bppp/2pp2q1/8/4P3/2N2N1b/PPPQBPP1/R3R1K1 w - - 0 14, e2f1, https://www.chess.com/game/live/170876537730, 2026-06-29, King's Pawn Opening
+233, Tattica Generica, Difficile, rn3rk1/pp3ppp/2pp2q1/8/4P2b/2N4b/PPPQBPP1/R3R1K1 w - - 0 15, e2f1, https://www.chess.com/game/live/170876537730, 2026-06-29, King's Pawn Opening
+234, Tattica Generica, Facile, rn3rk1/pp3ppp/2pp2q1/8/4P3/2N3bb/PPPQBP2/R3R1K1 w - - 0 16, e2g4, https://www.chess.com/game/live/170876537730, 2026-06-29, King's Pawn Opening
+235, Tattica Generica, Difficile, r1bqk2r/pppp1p2/5p1p/4p2Q/2BnP3/3P4/PPP2PPP/R3K1NR b KQkq - 1 10, d8e7, https://www.chess.com/game/live/170875652576, 2026-06-29, Bishop's Opening
+236, Tattica Generica, Difficile, r1bqk2r/pppp1p2/5p1p/4p2Q/2B1P3/3P4/PPn2PPP/R2K2NR b kq - 1 11, d7d5, https://www.chess.com/game/live/170875652576, 2026-06-29, Bishop's Opening
+237, Tattica Generica, Media, 2kr3r/pp2qp2/2p1bp1p/3ppN1Q/B3P3/3P4/PPK2PPP/R6R b - - 1 17, e7c5, https://www.chess.com/game/live/170875652576, 2026-06-29, Bishop's Opening
+238, Tattica Generica, Facile, 3r1r2/1k2Qp2/p6p/8/4R3/8/PP1q3P/1K2R3 b - - 1 32, b7a8, https://www.chess.com/game/live/170875652576, 2026-06-29, Bishop's Opening
+239, Scoperta, Media, r4rk1/pppq1p1p/2nb1p2/8/4NPb1/1P2P1P1/P1P1N1BP/R2Q1RK1 b - - 0 13, d6e7, https://www.chess.com/game/live/170875592856, 2026-06-29, Irregular Openings
+240, Tattica Generica, Media, r2q1rk1/ppp2ppp/3pb3/2b1p1B1/3nP3/2NP1N2/PPP2PPP/R2Q1RK1 b - - 4 10, d4f3, https://www.chess.com/game/live/170853374138, 2026-06-28, Italian Game
+241, Tattica Generica, Media, r4rk1/ppp2qpp/3pbp2/4p3/3bP2B/1P1P2N1/P1P2PPP/1R1Q1RK1 b - - 4 16, g7g5, https://www.chess.com/game/live/170853374138, 2026-06-28, Italian Game
+242, Tattica Generica, Difficile, r4rk1/bp1b1qpp/3p4/p1pNpp2/2P1P2B/1P1P4/P4PPP/1R1Q1RK1 b - - 0 22, f5f4, https://www.chess.com/game/live/170853374138, 2026-06-28, Italian Game
+243, Tattica Generica, Media, 1r6/b5kp/1p4b1/p1pN4/2P5/1P4P1/P3RP1P/6K1 b - - 0 37, b8b7, https://www.chess.com/game/live/170853374138, 2026-06-28, Italian Game
+244, Scoperta, Facile, 3r2k1/pp4pp/2p1Rr2/3p4/8/2qB1Q2/P1P2PPP/4R1K1 w - - 0 18, d3h7, https://www.chess.com/game/live/170849017962, 2026-06-28, Philidor Defense
+245, Tattica Generica, Facile, 5r1k/pp5p/2p5/3p2Q1/8/8/P1P2PPP/4qBK1 w - - 3 22, g5g3, https://www.chess.com/game/live/170849017962, 2026-06-28, Philidor Defense
+246, Tattica Generica, Difficile, 3r2k1/pprn1pp1/2bN3p/2p2P2/2P5/3B4/PP4PP/R3R1K1 w - - 1 21, e1e7, https://www.chess.com/game/live/170848781106, 2026-06-28, King's Pawn Opening
+247, Tattica Generica, Media, 3r2k1/pp1n1pp1/2bN3p/2p2P2/2P5/3B4/PP4PP/R5K1 w - - 3 24, d3e4, https://www.chess.com/game/live/170848781106, 2026-06-28, King's Pawn Opening
+248, Tattica Generica, Difficile, 6k1/pp3pp1/2b2n1p/2N2P2/2P5/8/PP1r2PP/4R1K1 w - - 1 27, e1e7, https://www.chess.com/game/live/170848781106, 2026-06-28, King's Pawn Opening
+249, Tattica Generica, Facile, 6k1/p4pp1/1pb2n1p/5P2/2P5/1N6/PP4rP/1R4K1 w - - 0 29, g1f1, https://www.chess.com/game/live/170848781106, 2026-06-28, King's Pawn Opening
+250, Tattica Generica, Difficile, rn1qkbnr/1pp2ppp/8/p3p3/3PP3/8/PPP3PP/R1BQKBNR w KQkq - 0 7, g1f3, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+251, Tattica Generica, Difficile, 5rk1/1pp2ppp/8/r1nPp3/p3P3/P2P1N1P/1P4PR/1KR5 w - - 5 22, g2g4, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+252, Tattica Generica, Media, 4r1k1/1pR2p1p/6p1/3r1N2/p3n1P1/P6P/1P5R/1K6 w - - 0 27, f5e7, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+253, Tattica Generica, Facile, 6k1/1R3p1p/6p1/3r4/p5P1/Pn2r2P/KP5R/8 w - - 1 30, h2h1, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+254, Tattica Generica, Facile, 8/5pkp/6p1/8/R5P1/P2nr2P/KP5R/3r4 w - - 5 34, a2b3, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+255, Tattica Generica, Facile, 8/5pk1/6pp/8/R5PP/P2nr3/KP5R/3r4 w - - 0 35, b2b4, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+256, Tattica Generica, Facile, 8/5pk1/7p/6pP/R5P1/P2nr3/KP5R/3r4 w - - 0 36, a2b3, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+257, Tattica Generica, Facile, 8/5pk1/7p/R5pP/6P1/P2nr3/KP5R/6r1 w - - 2 37, b2b4, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+258, Tattica Generica, Facile, 8/5pk1/7p/6pP/R5P1/P2n2r1/KP5R/6r1 w - - 4 38, b2b4, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+259, Tattica Generica, Facile, 8/5pk1/7p/6pP/3R2P1/Pn3r2/1P1R4/1K4r1 w - - 10 41, d2d1, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+260, Tattica Generica, Facile, 8/1P3pk1/7p/2K4P/8/r7/8/6q1 w - - 0 52, c5b4, https://www.chess.com/game/live/170847503836, 2026-06-28, Nimzowitsch Defense
+261, Forchetta, Facile, R7/p2k1r2/2p3qp/3p4/1b6/1B3N2/PPP2PP1/R5K1 w - - 0 32, f3e5, https://www.chess.com/game/live/170830987210, 2026-06-28, Philidor Defense
+262, Tattica Generica, Media, 8/R4r2/2pk2qp/3p4/1b6/1B3N2/PPP2PP1/R5K1 w - - 1 33, a7f7, https://www.chess.com/game/live/170830987210, 2026-06-28, Philidor Defense
+263, Tattica Generica, Media, 8/R4r2/2pk2qp/2bp4/8/1BP2N2/PP3PP1/R5K1 w - - 1 34, a7f7, https://www.chess.com/game/live/170830987210, 2026-06-28, Philidor Defense
+264, Tattica Generica, Difficile, rnbqkb1r/pppp1ppp/8/4N3/2B1n3/8/PPPP1PPP/RNBQK2R b KQkq - 0 4, d7d5, https://www.chess.com/game/live/170830566958, 2026-06-28, Bishop's Opening
+265, Tattica Generica, Difficile, rnbqkb1r/pp3ppp/2p5/3pN1n1/B2P4/8/PPP2PPP/RNBQK2R b KQkq - 1 7, b8d7, https://www.chess.com/game/live/170830566958, 2026-06-28, Bishop's Opening
+266, Tattica Generica, Difficile, 8/p5k1/1ppb4/3pN2p/3P1Pb1/2P3K1/PPB5/8 b - - 5 32, c6c5, https://www.chess.com/game/live/170830566958, 2026-06-28, Bishop's Opening
+267, Tattica Generica, Difficile, 8/p7/1pp1k1B1/3pP2p/3P2bK/2P5/PP6/8 b - - 4 35, g4e2, https://www.chess.com/game/live/170830566958, 2026-06-28, Bishop's Opening
+268, Tattica Generica, Facile, 8/4k3/4P3/3p1K2/1p1P4/1P6/8/8 b - - 0 45, e7e8, https://www.chess.com/game/live/170830566958, 2026-06-28, Bishop's Opening
+269, Tattica Generica, Difficile, r1b1kbnr/pp1ppppp/2q5/2p5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5, e1g1, https://www.chess.com/game/live/172803459042, 2026-08-10, Sicilian Defense
+270, Tattica Generica, Facile, 1k1r3r/pp6/1q1pQp2/3P3p/2p3nB/2N2N2/PPP2P2/R3R1K1 w - - 3 21, c3e4, https://www.chess.com/game/live/172803459042, 2026-08-10, Sicilian Defense
+271, Tattica Generica, Facile, 1k2r2r/pp6/1q1pQB2/3P3p/2p3n1/2N2N2/PPP2P2/R3R1K1 w - - 1 22, e6e8, https://www.chess.com/game/live/172803459042, 2026-08-10, Sicilian Defense
+272, Tattica Generica, Difficile, rn1q1rk1/ppp2ppp/4b3/3pP3/4n3/1BN5/PPP2PPP/R1BQ1RK1 b - - 0 9, e4c3, https://www.chess.com/game/live/172803307568, 2026-08-10, Bishop's Opening
+273, Tattica Generica, Facile, 1r4k1/5pp1/7p/1R6/p1P5/P4P2/5K1P/8 b - - 2 31, b8c8, https://www.chess.com/game/live/172803307568, 2026-08-10, Bishop's Opening
+274, Forchetta, Difficile, r1b2rk1/p4ppp/1bpq1n2/3p4/7P/2PP1NP1/P3PPB1/R1BQ1RK1 b - - 3 14, d6g3, https://www.chess.com/game/live/172795455586, 2026-08-10, Reti Opening
+275, Pezzo Appeso, Difficile, 4r1k1/p4ppp/1b6/3p4/4BB1P/q3P1P1/5P2/1RR3K1 b - - 0 29, d5e4, https://www.chess.com/game/live/172795455586, 2026-08-10, Reti Opening
+276, Tattica Generica, Difficile, r1b2b1r/pp1qnkpp/2p1p3/5p2/3PN3/1B2Q3/P1PB1PPP/R3R1K1 w - - 0 17, b3e6, https://www.chess.com/game/live/172787380012, 2026-08-10, Caro-Kann Defense
+277, Tattica Generica, Difficile, r1b2b1r/pp2nkpp/2pqp3/2N2p2/3P4/1B2Q3/P1PB1PPP/R3R1K1 w - - 2 18, c5e6, https://www.chess.com/game/live/172787380012, 2026-08-10, Caro-Kann Defense
+278, Scoperta, Difficile, r4bkr/pp2n2p/2pq2p1/5pN1/3P4/4Q3/P1PB1PPP/R3R1K1 w - - 2 21, e3b3, https://www.chess.com/game/live/172787380012, 2026-08-10, Caro-Kann Defense
+279, Tattica Generica, Difficile, 3r1b1r/pp1Nnk1p/2p3p1/5p2/3P4/8/P1PB1PPP/R3R1K1 w - - 5 25, d7e5, https://www.chess.com/game/live/172787380012, 2026-08-10, Caro-Kann Defense
+280, Tattica Generica, Media, 8/3r1k1p/p1p3p1/1p3p2/2nP4/2P5/PB3PPP/3R2K1 w - - 5 34, b2c1, https://www.chess.com/game/live/172787380012, 2026-08-10, Caro-Kann Defense
+281, Tattica Generica, Difficile, 1r3rk1/N1p2p2/3b3p/3Ppb2/8/2P3P1/PP3PBP/2KR3R b - - 0 22, b8a8, https://www.chess.com/game/live/172787168968, 2026-08-10, Irregular Openings
+282, Tattica Generica, Media, 8/6k1/2rp1pbp/1B2b3/1P3pP1/PKP4P/8/3R4 b - - 7 41, c6c3, https://www.chess.com/game/live/172787168968, 2026-08-10, Irregular Openings
+283, Tattica Generica, Media, 8/6k1/1r3pbp/1B2b3/PP1P1pP1/1K5P/3R4/8 b - - 0 44, e5d6, https://www.chess.com/game/live/172787168968, 2026-08-10, Irregular Openings
+284, Tattica Generica, Media, r7/1ppq1kp1/p1npbn1p/4p3/4P3/2NPP2P/PPP3P1/R2Q1RK1 b - - 0 14, f7g8, https://www.chess.com/game/live/172768705200, 2026-08-10, Italian Game
+285, Tattica Generica, Facile, 6r1/1pR5/p2p3p/4p2k/4P3/3PP3/PPP4K/5R2 b - - 2 25, h5h4, https://www.chess.com/game/live/172768705200, 2026-08-10, Italian Game
+286, Tattica Generica, Facile, 1r6/1pR5/p2p3p/4p2k/4P3/3PP2K/PPP5/5R2 b - - 4 26, b8g8, https://www.chess.com/game/live/172768705200, 2026-08-10, Italian Game
+287, Tattica Generica, Difficile, r1b2rk1/ppppbppp/2n2nq1/8/4P3/3QBN1P/PPP2PP1/RN2KB1R b KQ - 0 10, c6b4, https://www.chess.com/game/live/172768492034, 2026-08-10, Center Game
+288, Tattica Generica, Media, r1b2rk1/ppp2ppp/2np1nq1/b7/4P3/2PQBN1P/PP1NBPP1/R3K2R b KQ - 1 13, h7h6, https://www.chess.com/game/live/172768492034, 2026-08-10, Center Game
+289, Tattica Generica, Difficile, r4rk1/ppp2ppp/2np1n2/b7/4P3/2PQBN1b/PP1NBPq1/2KR2R1 b - - 1 15, a5b6, https://www.chess.com/game/live/172768492034, 2026-08-10, Center Game
+290, Tattica Generica, Difficile, r5rk/ppp2p1p/2np1n1B/b5N1/4P3/2PQ3b/PP1NBq2/2KR2R1 b - - 4 19, h3e6, https://www.chess.com/game/live/172768492034, 2026-08-10, Center Game
+291, Tattica Generica, Difficile, 6k1/ppp2p1p/2np1n1B/b7/4P3/2PQ1N1b/PP2Bq2/2KR4 b - - 1 22, f6g4, https://www.chess.com/game/live/172768492034, 2026-08-10, Center Game
+292, Tattica Generica, Media, 6k1/ppp2p1p/2np1n1B/b7/4P3/2P1QBq1/PP6/2K2R2 b - - 0 25, a5b6, https://www.chess.com/game/live/172768492034, 2026-08-10, Center Game
+293, Tattica Generica, Difficile, r1bq1rk1/ppp2ppp/2n2n2/b2p4/1PBPP3/P4N1P/5PP1/RNBQR1K1 b - - 0 11, d5e4, https://www.chess.com/game/live/172768334620, 2026-08-10, Italian Game
+294, Tattica Generica, Difficile, r4rk1/ppp2ppp/1bn1b3/3q4/1P1P4/P1N1BN1P/5PP1/R2QR1K1 b - - 3 15, d5c4, https://www.chess.com/game/live/172768334620, 2026-08-10, Italian Game
+295, Tattica Generica, Difficile, 6k1/p4ppp/1pp1b3/6N1/1P3P2/r5P1/6KN/4R3 b - - 1 28, e6d5, https://www.chess.com/game/live/172768334620, 2026-08-10, Italian Game
+296, Pezzo Appeso, Difficile, 6k1/p5p1/1p2R2p/2p5/1P3PN1/r5P1/6K1/8 b - - 1 31, c5b4, https://www.chess.com/game/live/172768334620, 2026-08-10, Italian Game
+297, Tattica Generica, Media, 6k1/p5p1/1pR4p/8/1P3P2/5KP1/r1N5/8 b - - 2 35, a2b2, https://www.chess.com/game/live/172768334620, 2026-08-10, Italian Game
+298, Tattica Generica, Facile, 6k1/p5p1/1pR3Kp/8/1r1N1P2/6P1/8/8 b - - 1 39, g8f8, https://www.chess.com/game/live/172768334620, 2026-08-10, Italian Game
+299, Pezzo Appeso, Facile, r1b1kbn1/ppp1q2p/2p3p1/8/2BQ4/8/PPP2pPP/RNB1K2R w KQq - 0 11, e1f2, https://www.chess.com/game/live/172768280160, 2026-08-10, Italian Game
+300, Tattica Generica, Facile, r2qkb1r/pQp2ppp/2n1bn2/3pp3/8/2PP2P1/PP2PPBP/RNB1K1NR b KQkq - 0 6, e6d7, https://www.chess.com/game/live/172713618272, 2026-08-08, Irregular Openings
+301, Tattica Generica, Difficile, r2qkb1r/p1pb1ppp/5n2/4p3/2Qp4/2PP2P1/PP2PPBP/RNB1K1NR b KQkq - 2 8, c7c5, https://www.chess.com/game/live/172713618272, 2026-08-08, Irregular Openings
+302, Pezzo Appeso, Difficile, B2qk2r/p1p2ppp/Q2bbn2/4p3/3p4/2PP2P1/PP2PP1P/RNB1K1NR b KQk - 0 10, d8a8, https://www.chess.com/game/live/172713618272, 2026-08-08, Irregular Openings
+303, Pezzo Appeso, Facile, 1q2r1k1/p4ppp/3Q1n2/8/3p4/3P2P1/PP2PP1P/R1B2KNR b - - 0 19, b8d6, https://www.chess.com/game/live/172713618272, 2026-08-08, Irregular Openings
+304, Tattica Generica, Difficile, 4r1k1/p4ppp/8/8/P2QP1n1/3P1NP1/1Pq2PKP/R1B4R b - - 2 24, f7f5, https://www.chess.com/game/live/172713618272, 2026-08-08, Irregular Openings
+305, Tattica Generica, Difficile, r2q1rk1/pppb1ppp/2nbpn2/3p4/3P4/2PBPNB1/PP1NQPPP/R3K2R b KQ - 6 9, c6e7, https://www.chess.com/game/live/172697317764, 2026-08-08, London System
+306, Tattica Generica, Difficile, r2q1rk1/ppp3pp/8/3p1B2/6Q1/2P1P1P1/PP1N1PP1/R3K2R b KQ - 0 15, h7h6, https://www.chess.com/game/live/172697317764, 2026-08-08, London System
+307, Tattica Generica, Media, rn1q1rk1/ppp2ppp/3b1n2/4p3/6b1/2NB1N2/PPP2PPP/R1BQR1K1 w - - 4 10, h2h3, https://www.chess.com/game/live/172697240846, 2026-08-08, Scandinavian Defense
+308, Pezzo Appeso, Facile, rn1r4/ppp2ppk/5n2/8/8/8/PbP2PPP/R1B3K1 w - - 0 16, c1b2, https://www.chess.com/game/live/172697240846, 2026-08-08, Scandinavian Defense
+309, Tattica Generica, Difficile, r2q1rk1/2p2pp1/p1pp4/4p2p/3PP1b1/P1N1PN2/1PP5/R2QK1R1 b Q - 0 15, f7f5, https://www.chess.com/game/live/172696853380, 2026-08-08, Italian Game
+310, Tattica Generica, Media, r2q1rk1/2p2pp1/p1pp4/7p/3PP1b1/P1N2N2/1PP5/R2QK1R1 b Q - 0 16, f7f5, https://www.chess.com/game/live/172696853380, 2026-08-08, Italian Game
+311, Tattica Generica, Difficile, r2q1rk1/2p2pp1/p1p5/3p3p/3PP1b1/P1N2N2/1PP1Q3/R3K1R1 b Q - 1 17, d5e4, https://www.chess.com/game/live/172696853380, 2026-08-08, Italian Game
+312, Forchetta, Difficile, r3r1k1/2p1qpp1/p1p5/7p/3PN1b1/P4N2/1PP1Q3/2K1R1R1 b - - 2 20, e7e4, https://www.chess.com/game/live/172696853380, 2026-08-08, Italian Game
+313, Tattica Generica, Facile, 7k/R7/p2r4/2p2pNp/6b1/P7/1PK5/8 b - - 4 33, h8g8, https://www.chess.com/game/live/172696853380, 2026-08-08, Italian Game
+314, Tattica Generica, Facile, 7k/R7/p2r4/2p4p/4Npb1/P7/1PK5/8 b - - 1 34, g4f5, https://www.chess.com/game/live/172696853380, 2026-08-08, Italian Game
+315, Tattica Generica, Media, 1r3rk1/1ppqnppp/p2p4/4p3/1P2P1b1/P1PPPN2/B5PP/R2Q1RK1 b - - 2 14, g4e6, https://www.chess.com/game/live/172670267718, 2026-08-07, Italian Game
+316, Tattica Generica, Difficile, 1r3rk1/1ppqnppp/p7/3Pp3/1P4b1/P1PPPN2/B5PP/R2Q1RK1 b - - 0 15, e7g6, https://www.chess.com/game/live/172670267718, 2026-08-07, Italian Game
+317, Tattica Generica, Difficile, r2k1r2/pppb1Bpp/1n4P1/4p3/4P3/8/PPP2PP1/2KR3R b - - 0 15, h7g6, https://www.chess.com/game/live/172669635000, 2026-08-07, Four Knights Game
+318, Tattica Generica, Difficile, r2k1r2/pppb1Bp1/1n4Pp/4p3/4P3/8/PPPR1PP1/2K4R b - - 1 16, d8e7, https://www.chess.com/game/live/172669635000, 2026-08-07, Four Knights Game
+319, Scoperta, Media, 3r1r2/ppkb1Bp1/1np3Pp/4p3/4P3/P4P2/1PPR2P1/2KR4 b - - 0 19, d7c8, https://www.chess.com/game/live/172669635000, 2026-08-07, Four Knights Game
+320, Tattica Generica, Difficile, 3r4/ppkb1Bp1/2p2rP1/4p2p/4P3/P4P2/1PPR2P1/2K4R b - - 1 22, d8h8, https://www.chess.com/game/live/172669635000, 2026-08-07, Four Knights Game
+321, Tattica Generica, Difficile, r1bqk1nr/1pp2ppp/p1pb4/8/3QP3/2N2N2/PPP2PPP/R1B1K2R b KQkq - 0 7, f7f6, https://www.chess.com/game/live/172669527034, 2026-08-07, Spanish Game
+322, Tattica Generica, Difficile, r2q2n1/1pp1k1Qp/p1p1bp2/6B1/4P3/2P2N2/P1P2PPP/R3K2R b KQ - 1 13, e7e8, https://www.chess.com/game/live/172669527034, 2026-08-07, Spanish Game
+323, Tattica Generica, Facile, 2k3n1/1pp3Qp/p1p1b3/2r1N3/8/2P5/P1P2PPP/R3R1K1 b - - 10 21, b7b6, https://www.chess.com/game/live/172669527034, 2026-08-07, Spanish Game
+324, Forchetta, Difficile, rnb1k1nr/4b1q1/p1pp1p2/4p2p/N3P1pN/3BB2P/PPPQ1PP1/3R1RK1 w kq - 2 15, a4b6, https://www.chess.com/game/live/172669204178, 2026-08-07, Pirc Defense
+325, Tattica Generica, Facile, 2r1k3/6q1/3b1p1r/p2p1P2/3Np1P1/3B4/PPPQ2Rp/3R3K w - - 0 30, d3b5, https://www.chess.com/game/live/172669204178, 2026-08-07, Pirc Defense
+326, Tattica Generica, Difficile, 2r1k3/6q1/5p1r/p2p1P2/3Np1P1/3B4/PPPQ2Rb/6K1 w - - 1 32, g2h2, https://www.chess.com/game/live/172669204178, 2026-08-07, Pirc Defense
+327, Tattica Generica, Difficile, 2r1k3/6q1/5p1r/p2pbP2/3Np1P1/3B4/PPPQ1KR1/8 w - - 3 33, d3b5, https://www.chess.com/game/live/172669204178, 2026-08-07, Pirc Defense
+328, Tattica Generica, Facile, 2r5/5k2/q3Np1r/p2p1P2/6P1/8/PQP1K1R1/8 w - - 1 38, e2d2, https://www.chess.com/game/live/172669204178, 2026-08-07, Pirc Defense
+329, Tattica Generica, Facile, 2r5/5k2/q3Np2/p2p1P2/6P1/5K1r/PQP3R1/8 w - - 3 39, f3f2, https://www.chess.com/game/live/172669204178, 2026-08-07, Pirc Defense
+330, Tattica Generica, Facile, 2r5/5k2/3qNp2/p2p1P2/6P1/6K1/PQP5/8 w - - 1 41, g3f3, https://www.chess.com/game/live/172669204178, 2026-08-07, Pirc Defense
+331, Scoperta, Difficile, r1bqr1k1/ppp2pp1/1b3n1p/8/1P2p2B/P2N4/2P1NPPP/R2QR1K1 w - - 0 17, d3c5, https://www.chess.com/game/live/172582212454, 2026-08-05, French Defense
+332, Tattica Generica, Difficile, r3r1k1/pp3p2/2p5/5b2/1P5R/P3b1B1/2P3PP/4R2K w - - 4 27, e1f1, https://www.chess.com/game/live/172582212454, 2026-08-05, French Defense
+333, Tattica Generica, Difficile, 8/pp6/2p2p1R/6k1/1P2b3/P5P1/2P2K2/4r3 w - - 0 36, h6h4, https://www.chess.com/game/live/172582212454, 2026-08-05, French Defense
+334, Tattica Generica, Difficile, rnbq1rk1/p4ppp/1p6/4P3/1b1N1P2/2N3P1/PP5P/R2QKB1R b KQ - 0 14, c8b7, https://www.chess.com/game/live/172582098388, 2026-08-05, Queen's Gambit
+335, Forchetta, Media, rnb2rk1/p4ppp/1p6/4P2Q/3NqP2/2PB2P1/P6P/2KR4 b - - 3 18, e4e3, https://www.chess.com/game/live/172582098388, 2026-08-05, Queen's Gambit
+336, Tattica Generica, Difficile, 5rk1/p6p/1p4p1/4n1PP/3Q4/2P5/P7/2K5 b - - 1 29, f8e8, https://www.chess.com/game/live/172582098388, 2026-08-05, Queen's Gambit
+337, Tattica Generica, Difficile, 5rk1/p6p/1p4p1/3Q2PP/8/2P2n2/P7/2K5 b - - 3 30, f8f7, https://www.chess.com/game/live/172582098388, 2026-08-05, Queen's Gambit
+338, Tattica Generica, Facile, 5r1k/p6p/1p4pP/3Q2P1/8/2P2n2/P7/2K5 b - - 0 31, f8c8, https://www.chess.com/game/live/172582098388, 2026-08-05, Queen's Gambit
+339, Matto Mancato, Facile, r4rk1/1pp2ppp/p1b1p3/3qN3/3P1P2/1Q6/PP2N1PP/5RK1 b - - 2 17, d5g2, https://www.chess.com/game/live/172581884666, 2026-08-05, Queen's Pawn Opening
+340, Tattica Generica, Difficile, 4N1k1/1r4Pp/8/2p5/5R2/7P/6PK/1r6 b - - 0 33, b7f7, https://www.chess.com/game/live/172581884666, 2026-08-05, Queen's Pawn Opening
+341, Tattica Generica, Media, 8/2r3kp/8/8/8/4N2P/1rp3PK/2R5 b - - 1 41, c7c3, https://www.chess.com/game/live/172581884666, 2026-08-05, Queen's Pawn Opening
+342, Tattica Generica, Difficile, rn1qk2r/1bp2pb1/pp1p1npp/3Pp3/4P3/2NBBN2/PPPQ1PPP/R4RK1 w kq e6 0 10, d5e6, https://www.chess.com/game/live/172532459622, 2026-08-04, Nimzowitsch Defense
+343, Tattica Generica, Media, rnq1k1nr/2pb2b1/pp1p3p/3Ppp2/2P5/1P1BBNN1/P2Q1PPP/3R1RK1 w kq - 0 16, f3h4, https://www.chess.com/game/live/172532459622, 2026-08-04, Nimzowitsch Defense
+344, Tattica Generica, Difficile, rn2k1r1/2p1n1b1/pp1p3p/3Pp3/2P1q3/1P2BN1P/P2Q1PP1/3R1RK1 w q - 5 23, f3h2, https://www.chess.com/game/live/172532459622, 2026-08-04, Nimzowitsch Defense
+345, Pezzo Appeso, Difficile, r1bqk2r/ppp2ppp/2n2n2/4N3/3P4/8/PP1NQPPP/R3KB1R b KQkq - 0 10, c6d4, https://www.chess.com/game/live/172532098868, 2026-08-04, Ponziani
+346, Tattica Generica, Difficile, r2q1rk1/ppp2ppp/4b3/N2nP3/8/8/PP2QPPP/2KR1B1R b - - 6 14, d8e7, https://www.chess.com/game/live/172532098868, 2026-08-04, Ponziani
+347, Forchetta, Media, r4rk1/p1p3pp/1pN1bq2/1B1n4/8/5P2/PPQ3PP/2KR3R b - - 0 19, d5e3, https://www.chess.com/game/live/172532098868, 2026-08-04, Ponziani
+348, Tattica Generica, Difficile, r1b2rk1/ppp1q1pp/2pn1p2/2P5/3P4/5N2/P1P2PPP/R1BQ1RK1 b - - 0 12, d6c4, https://www.chess.com/game/live/172531697182, 2026-08-04, C49
+349, Tattica Generica, Facile, 8/p5p1/1p3p1p/2p2k2/2r2P1P/1RP2KP1/8/8 b - - 2 34, h6h5, https://www.chess.com/game/live/172531697182, 2026-08-04, C49
+350, Tattica Generica, Difficile, 8/p4kp1/1p3p1p/2p1rP1P/6P1/R1P2K2/8/8 b - - 2 38, e5e7, https://www.chess.com/game/live/172531697182, 2026-08-04, C49
+351, Pezzo Appeso, Media, r2qk2r/pp1bbppp/4pn2/3p4/1QpP1B2/2P1P3/PP3PPP/RN2KB1R b KQkq - 1 9, e7b4, https://www.chess.com/game/live/172487311136, 2026-08-03, London System
+352, Tattica Generica, Media, r2qk2r/p2bbppp/1p1Bpn2/3p4/1QpP4/2P1P3/PP3PPP/RN2KB1R b KQkq - 1 10, b6b5, https://www.chess.com/game/live/172487311136, 2026-08-03, London System
+353, Forchetta, Difficile, 1r4k1/6pp/4pp2/p7/PPpP4/3pP1P1/1R1N1P1P/4K2R b K - 0 29, c4c3, https://www.chess.com/game/live/172487311136, 2026-08-03, London System
+354, Tattica Generica, Difficile, r4r1k/pppq1pp1/2np2bp/4p3/2B1P2N/3PP3/PPPN4/R2QK2R b Q - 3 17, c6a5, https://www.chess.com/game/live/172487147140, 2026-08-03, Italian Game
+355, Tattica Generica, Facile, r4r1k/pppq2p1/3p3p/4pN2/1nN1P3/3PP3/1PP1Q3/1K4RR b - - 3 23, f8f5, https://www.chess.com/game/live/172487147140, 2026-08-03, Italian Game
+356, Scoperta, Facile, r4r2/pppq1k1R/3p4/4pNR1/1nN1P3/3PP3/1PP1Q3/1K6 b - - 2 26, f7e8, https://www.chess.com/game/live/172487147140, 2026-08-03, Italian Game
+357, Tattica Generica, Difficile, 5rk1/p5pp/2Bn1p2/3P4/4P3/5PP1/P6P/R5K1 b - - 0 30, f8b8, https://www.chess.com/game/live/172426397874, 2026-08-02, Irregular Openings
+358, Pezzo Appeso, Difficile, 1r4k1/6pp/2Bn1p2/p2P4/P3PP1P/6P1/8/R5K1 b - - 0 33, d6e4, https://www.chess.com/game/live/172426397874, 2026-08-02, Irregular Openings
+359, Pezzo Appeso, Difficile, 6k1/6pp/2BP4/p3P3/Prn4P/6P1/8/R5K1 b - - 0 36, c4e5, https://www.chess.com/game/live/172426397874, 2026-08-02, Irregular Openings
+360, Tattica Generica, Media, 5k2/6pp/1r1P4/p3P3/P1B4P/6P1/8/R5K1 b - - 0 38, f8e8, https://www.chess.com/game/live/172426397874, 2026-08-02, Irregular Openings
+361, Tattica Generica, Facile, 5k2/6pp/2rP4/pB2P3/P6P/6P1/8/R5K1 b - - 2 39, c6d6, https://www.chess.com/game/live/172426397874, 2026-08-02, Irregular Openings
+362, Forchetta, Difficile, r1bqkb1r/1ppp1ppp/n7/p2Pp3/8/PQ1BP3/1P1P1PPP/R1B1K1NR b KQkq - 2 8, a6c5, https://www.chess.com/game/live/172426217272, 2026-08-02, English Opening
+363, Tattica Generica, Difficile, r1bq1rk1/1pp1bppp/n2p4/p2Pp3/7P/P2BP3/1PQPNPP1/R1B1K2R b KQ - 2 11, h7h6, https://www.chess.com/game/live/172426217272, 2026-08-02, English Opening
+364, Tattica Generica, Difficile, r2q1r1k/1pp1b1p1/3p2B1/p1nPpp1P/6b1/P3P1N1/1PQP1PP1/R1B1K2R b KQ - 3 15, e5e4, https://www.chess.com/game/live/172426217272, 2026-08-02, English Opening
+365, Pezzo Appeso, Difficile, r4r1k/1ppqb1p1/3p2BP/p1nP1p2/6b1/P3PPN1/1PQP4/R1B1K2R b KQ - 0 18, g4f3, https://www.chess.com/game/live/172426217272, 2026-08-02, English Opening
+366, Tattica Generica, Facile, r4r1k/1ppqb1p1/3p3P/p2P1B2/8/P2QPbN1/1P1P4/R1B1K2R b KQ - 0 20, f8f5, https://www.chess.com/game/live/172426217272, 2026-08-02, English Opening
+367, Pezzo Appeso, Facile, r3qr1k/1pp1b1p1/3pB2P/p2P4/8/P2QPbN1/1P1P4/R1B1K2R b KQ - 2 21, f3h1, https://www.chess.com/game/live/172426217272, 2026-08-02, English Opening
+368, Tattica Generica, Difficile, rn3rk1/pp3ppb/q1p1p2p/3pP3/3P1NP1/P6P/1PPQ1PB1/1KR1R3 w - - 3 24, g4g5, https://www.chess.com/game/live/172425988010, 2026-08-02, Caro-Kann Defense
+369, Tattica Generica, Facile, r4rk1/5p1b/q1p1p1p1/p1PpP1P1/1p6/P6B/1PPQ1P2/1KR1R3 w - - 0 35, a3a4, https://www.chess.com/game/live/172425988010, 2026-08-02, Caro-Kann Defense
+370, Tattica Generica, Media, r4rk1/5p1b/2p1p1p1/q1PpP1P1/1pP5/7B/1P1Q1P2/1KR1R3 w - - 1 37, c4d5, https://www.chess.com/game/live/172425988010, 2026-08-02, Caro-Kann Defense
+371, Scoperta, Media, r4rk1/5p1b/2p1p1p1/2qpP1P1/1pP5/1P5B/3Q1P2/1KR1R3 w - - 0 38, c4d5, https://www.chess.com/game/live/172425988010, 2026-08-02, Caro-Kann Defense
+372, Tattica Generica, Facile, r5k1/5p1b/2p1p1p1/3pP1P1/1pPq4/1P5B/3K1P2/R3R3 w - - 3 42, d2e2, https://www.chess.com/game/live/172425988010, 2026-08-02, Caro-Kann Defense
+373, Tattica Generica, Facile, r3kb1r/pp1bq2p/2pp1p1p/8/2B1P3/2NQ4/PPP2PPP/3RK2R w Kkq - 2 12, e1g1, https://www.chess.com/game/live/172419912990, 2026-08-02, Italian Game
+374, Tattica Generica, Difficile, r2q1rk1/p1p2ppp/1pnp1n2/2b1p3/4P3/1QPP1N1P/PP1N1PP1/R1B1R1K1 b - - 1 11, d8d7, https://www.chess.com/game/live/172391346608, 2026-08-01, Italian Game
+375, Tattica Generica, Difficile, r2q1rk1/p1p2ppp/1p1p1nn1/2b1p3/4P3/1QPP1NNP/PP3PP1/R1B1R1K1 b - - 5 13, d6d5, https://www.chess.com/game/live/172391346608, 2026-08-01, Italian Game
+376, Tattica Generica, Difficile, 8/Q4ppk/1p2q2p/2p2n2/8/2P2N1P/PP3PP1/6K1 b - - 0 29, f5e7, https://www.chess.com/game/live/172391346608, 2026-08-01, Italian Game
+377, Tattica Generica, Difficile, 8/2n5/4pkpp/2p5/2P3P1/3K1N1P/5P2/8 b - - 2 45, c7e8, https://www.chess.com/game/live/172391346608, 2026-08-01, Italian Game
+378, Tattica Generica, Difficile, 8/2n5/5kpp/2p1p3/2P3PP/3K1N2/5P2/8 b - - 0 46, f6e6, https://www.chess.com/game/live/172391346608, 2026-08-01, Italian Game
+379, Tattica Generica, Difficile, r4rk1/ppp3pp/3p4/4pp2/2P1P3/4BP2/PbP2P1P/1R2R1K1 b - - 1 15, b2c3, https://www.chess.com/game/live/172391214756, 2026-08-01, Italian Game
+380, Tattica Generica, Difficile, r4rk1/p2R2pp/2pp4/5p2/2PpP3/5P2/P1P2P1P/4R1K1 b - - 1 18, f8d8, https://www.chess.com/game/live/172391214756, 2026-08-01, Italian Game
+381, Tattica Generica, Media, 3r4/5k1p/2P1R1p1/4Kp2/p7/5P2/P1P2P1P/8 b - - 8 33, d8d2, https://www.chess.com/game/live/172391214756, 2026-08-01, Italian Game
+382, Tattica Generica, Media, 2k5/2P4p/2K3p1/5p2/p7/5P2/P1P2P1P/8 b - - 2 37, g6g5, https://www.chess.com/game/live/172391214756, 2026-08-01, Italian Game
+383, Tattica Generica, Facile, 2k5/2P5/2K3pp/5p2/p1P5/5P2/P4P1P/8 b - - 0 38, g6g5, https://www.chess.com/game/live/172391214756, 2026-08-01, Italian Game
+384, Tattica Generica, Facile, 2k5/2P5/3K3p/2P5/5pP1/p4P2/P4P2/8 b - - 0 42, h6h5, https://www.chess.com/game/live/172391214756, 2026-08-01, Italian Game
+385, Tattica Generica, Facile, 2k5/2P5/3K4/2P4P/5p2/p4P2/P4P2/8 b - - 0 43, c8b7, https://www.chess.com/game/live/172391214756, 2026-08-01, Italian Game
+386, Tattica Generica, Difficile, 8/p1pkBn2/1p4N1/1PPP1pp1/3Kp1b1/P3P1P1/8/8 b - - 0 35, g4h5, https://www.chess.com/game/live/172390758036, 2026-08-01, Irregular Openings
+387, Tattica Generica, Difficile, r1bqkb1r/p3nppp/2p1p3/3p4/4P3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 8, d1d4, https://www.chess.com/game/live/172390516034, 2026-08-01, C10
+388, Forchetta, Difficile, r3k2r/p2qbppp/4p1n1/3p4/3Q4/2N1B3/PPP2PPP/R3K2R w KQkq - 2 13, d4g7, https://www.chess.com/game/live/172390516034, 2026-08-01, C10
+389, Tattica Generica, Difficile, 4r1k1/p4ppp/2r2b2/8/1BP1p3/1P1p4/P4PPP/3RR1K1 w - - 0 32, d1d3, https://www.chess.com/game/live/172390516034, 2026-08-01, C10
+390, Tattica Generica, Difficile, r1bqk2r/p1ppn1pp/5p2/np2p3/4P3/P1P2N2/BPP2PPP/R1BQ1RK1 w kq - 0 9, f3e5, https://www.chess.com/game/live/172390166594, 2026-08-01, Italian Game
+391, Tattica Generica, Difficile, r1bq1rk1/p1pp2pp/2n2p2/4p3/1P2P3/P1P1BN2/5PPP/R2Q1RK1 w - - 1 14, d1d5, https://www.chess.com/game/live/172390166594, 2026-08-01, Italian Game
+392, Scoperta, Media, r2q1rk1/1bp3pp/p1n2p2/2p1p3/1P2P3/P2QBN2/5PPP/3R1RK1 w - - 0 18, d3b3, https://www.chess.com/game/live/172390166594, 2026-08-01, Italian Game
+393, Tattica Generica, Media, 8/2p3p1/p4pkp/2B1p3/1P4K1/Pb2N1PP/8/8 w - - 0 34, g4f3, https://www.chess.com/game/live/172390166594, 2026-08-01, Italian Game
+394, Matto Mancato, Facile, 8/6p1/p1p2p1p/2B1p1kP/1P4P1/P4K2/8/1b6 w - - 1 39, f3g3, https://www.chess.com/game/live/172390166594, 2026-08-01, Italian Game
+395, Matto Mancato, Facile, 5B2/6p1/p1p4p/4ppkP/1P4P1/P4K2/8/1b6 w - - 0 40, f8e7, https://www.chess.com/game/live/172390166594, 2026-08-01, Italian Game
+396, Tattica Generica, Difficile, r2q1rk1/ppp2ppp/2np1n2/2b1p1B1/2P1P3/P1N2N2/1PP2PPP/R2Q1RK1 b - - 0 9, h7h6, https://www.chess.com/game/live/172382985628, 2026-08-01, Italian Game
+397, Matto Mancato, Facile, 6rk/pp2qp1p/2pp4/4pQ2/2P1P3/P1P1P3/1P4rP/R3R2K b - - 1 23, e7h4, https://www.chess.com/game/live/172382985628, 2026-08-01, Italian Game
+398, Pezzo Appeso, Media, 7k/pp2qp1p/2pp4/4p1r1/2P1P3/P1P1PQ2/1P4rP/R3R2K b - - 3 24, g2b2, https://www.chess.com/game/live/172382985628, 2026-08-01, Italian Game
+399, Matto Mancato, Facile, 3Q2k1/pp3p1p/2pp4/4p1q1/2P1P1r1/P1P1P3/1P4rP/R4R1K b - - 9 27, g5d8, https://www.chess.com/game/live/172382985628, 2026-08-01, Italian Game
+400, Tattica Generica, Media, 8/pp6/2pp1kp1/4p2p/2P1P2P/P1P1P1K1/1P6/8 b - - 1 36, g6g5, https://www.chess.com/game/live/172382985628, 2026-08-01, Italian Game
+401, Tattica Generica, Difficile, 8/4k3/6K1/3P4/2P1p2P/4P3/8/8 b - - 2 48, e7d6, https://www.chess.com/game/live/172382985628, 2026-08-01, Italian Game
+402, Tattica Generica, Facile, 6k1/8/6KP/3P4/2P1p3/4P3/8/8 b - - 0 50, g8f8, https://www.chess.com/game/live/172382985628, 2026-08-01, Italian Game
+403, Tattica Generica, Facile, 2r1r1k1/2b2ppp/p7/1p6/2pP4/2P2q2/PPQ2P1P/1BKR3R b - - 1 24, c7f4, https://www.chess.com/game/live/172382658074, 2026-08-01, Queen's Pawn Opening
+404, Matto Mancato, Facile, 2Q5/4kpp1/p7/1p6/2pP4/2P2q2/PP1brP1P/1B1K3R b - - 1 29, e2f2, https://www.chess.com/game/live/172382658074, 2026-08-01, Queen's Pawn Opening
+405, Tattica Generica, Media, 8/2Q1kpp1/p7/1p6/2pP4/2P5/PP1brq1P/1B1K3R b - - 1 30, e7f8, https://www.chess.com/game/live/172382658074, 2026-08-01, Queen's Pawn Opening
+406, Tattica Generica, Facile, 8/5pp1/p7/1p1Q2k1/2pP4/2P5/PP1brq1P/1B1K3R b - - 5 32, g5h4, https://www.chess.com/game/live/172382658074, 2026-08-01, Queen's Pawn Opening
+407, Tattica Generica, Difficile, 8/5pp1/p7/1p1Q1B2/2pP2k1/2P5/PP1brq1P/3K3R b - - 7 33, g4h4, https://www.chess.com/game/live/172382658074, 2026-08-01, Queen's Pawn Opening
+408, Matto Mancato, Facile, 8/5pp1/p7/1p1Q1B2/1PpP1k2/2P5/P1Kb1q1P/4r2R b - - 2 35, d2e3, https://www.chess.com/game/live/172382658074, 2026-08-01, Queen's Pawn Opening
+409, Scoperta, Facile, 8/5pp1/p2Q4/1p3B2/1PpP1k2/2P5/P1Kb1q1P/7r b - - 1 36, f4g5, https://www.chess.com/game/live/172382658074, 2026-08-01, Queen's Pawn Opening
+410, Tattica Generica, Difficile, r1b2rk1/np2qppp/1bP1pn2/p2p4/P2P1B2/2PBPN2/3N1PPP/1R1Q1RK1 b - - 0 13, b6d8, https://www.chess.com/game/live/172376522792, 2026-08-01, London System
+411, Tattica Generica, Difficile, r4rk1/nRb1qppp/4pn2/p2p4/P2P1B2/2PBPN2/3N1PPP/3Q1RK1 b - - 0 15, f8c8, https://www.chess.com/game/live/172376522792, 2026-08-01, London System
+412, Tattica Generica, Difficile, 8/6kp/p2p1pp1/2pq4/1p3Q2/8/PPP3PP/4N1K1 w - - 1 26, a2a3, https://www.chess.com/game/live/172376318428, 2026-08-01, Pirc Defense
+413, Tattica Generica, Difficile, 8/6kp/p4pp1/2Q5/1p1N4/q5K1/6PP/8 w - - 2 32, g3h4, https://www.chess.com/game/live/172376318428, 2026-08-01, Pirc Defense
+414, Tattica Generica, Difficile, 8/2Q4p/5ppk/p7/1p6/q4NK1/6PP/8 w - - 2 34, c7e7, https://www.chess.com/game/live/172376318428, 2026-08-01, Pirc Defense
+415, Tattica Generica, Difficile, 6k1/1pp3pp/p7/8/3Pr3/3K2b1/PPP3P1/R1B5 b - - 1 21, e4e1, https://www.chess.com/game/live/172371274498, 2026-08-01, Spanish Game
+416, Tattica Generica, Difficile, 4r1k1/6p1/p1pb3p/1p6/3P4/1P1KB2R/P1P3P1/8 b - - 0 26, e8e6, https://www.chess.com/game/live/172371274498, 2026-08-01, Spanish Game
+417, Tattica Generica, Difficile, 4r1k1/6p1/p2b3p/1p6/3B3R/1P1K4/P1P3P1/8 b - - 0 28, e8d8, https://www.chess.com/game/live/172371274498, 2026-08-01, Spanish Game
+418, Tattica Generica, Difficile, 6k1/6B1/p2br2R/1p6/8/1P1K4/P1P3P1/8 b - - 0 33, e6e1, https://www.chess.com/game/live/172371274498, 2026-08-01, Spanish Game
+419, Tattica Generica, Difficile, 1k1r2r1/1ppq4/p1npp3/2b1p1Np/4P1nP/P1PP1PB1/NP1Q2P1/1K1R3R b - - 0 19, g4f6, https://www.chess.com/game/live/172370530364, 2026-08-01, Italian Game
+420, Pezzo Appeso, Media, 1k1r2r1/bppq4/p1npp3/4p1Np/1PP1P2P/P2PnPB1/N2Q2P1/1K1R3R b - - 0 21, e3d1, https://www.chess.com/game/live/172370530364, 2026-08-01, Italian Game
+421, Pezzo Appeso, Media, 1k1r2r1/bpp1q3/p1npp3/4p1Np/1PP1P2P/P2PnP2/N2Q1BP1/1K1R3R b - - 2 22, e3d1, https://www.chess.com/game/live/172370530364, 2026-08-01, Italian Game
+422, Tattica Generica, Difficile, r2qk1nr/pbpp1pp1/2p4p/2b5/2B1P3/8/PPP2PPP/RNBQ1RK1 w kq - 2 8, c4f7, https://www.chess.com/game/live/172357627604, 2026-08-01, Italian Game
+423, Pezzo Appeso, Media, r3k2r/p1pq1pp1/1bQp1n1p/2p5/4P3/4BP2/PPP3PP/RN3R1K w kq - 3 14, c6a8, https://www.chess.com/game/live/172357627604, 2026-08-01, Italian Game
+424, Tattica Generica, Difficile, r4rk1/p4pp1/1p1p3p/2p1n3/4P3/4BP2/PPP3PP/R4R1K w - - 0 18, g2g4, https://www.chess.com/game/live/172357627604, 2026-08-01, Italian Game
+425, Tattica Generica, Difficile, r4rk1/p4pp1/1p1p3p/2p5/2n1P3/4BP2/PP4PP/R4R1K w - - 0 19, e3c1, https://www.chess.com/game/live/172357627604, 2026-08-01, Italian Game
+426, Tattica Generica, Difficile, 2kr3r/pp2bppp/2q1p3/2npP3/8/2N1B3/PPP2PPP/R2Q1RK1 w - - 0 14, c3e2, https://www.chess.com/game/live/172357493982, 2026-08-01, C11
+427, Pezzo Appeso, Media, 2kr4/p3bppp/2p1p3/2n1P3/8/2N1p3/PPP2PPP/5RK1 w - - 0 18, f2e3, https://www.chess.com/game/live/172357493982, 2026-08-01, C11
+428, Tattica Generica, Difficile, 2k5/p4pp1/2p1p3/4P1K1/3b4/8/PPP3P1/3N4 w - - 1 26, g5f4, https://www.chess.com/game/live/172357493982, 2026-08-01, C11
+429, Pezzo Appeso, Media, 8/p5p1/2p2bK1/N2kpp2/8/2P5/PP4P1/8 w - - 0 35, g6f5, https://www.chess.com/game/live/172357493982, 2026-08-01, C11
+430, Tattica Generica, Facile, 8/p5p1/2N2bK1/4p3/2P2p2/1Pk5/P5P1/8 w - - 1 38, g6f5, https://www.chess.com/game/live/172357493982, 2026-08-01, C11
+431, Tattica Generica, Difficile, 8/p5p1/6K1/N1P1b3/4pp2/1Pk5/P5P1/8 w - - 1 40, a5c4, https://www.chess.com/game/live/172357493982, 2026-08-01, C11
+432, Pezzo Appeso, Difficile, 3r1rk1/ppp2ppp/4bn2/3Np3/1nP1P3/5N2/PPPKBPPP/R6R b - - 2 13, f6e4, https://www.chess.com/game/live/172357243372, 2026-08-01, Ponziani
+433, Tattica Generica, Media, 3r1rk1/ppp2ppp/8/3Pp3/1n2n3/4KN2/PPP1BPPP/R6R b - - 1 15, e4f6, https://www.chess.com/game/live/172357243372, 2026-08-01, Ponziani
+434, Tattica Generica, Difficile, 3rr2k/ppp4p/6p1/3P1p2/2B1p3/7P/PP1N1PP1/R4K2 b - - 0 23, c7c6, https://www.chess.com/game/live/172357243372, 2026-08-01, Ponziani
+435, Tattica Generica, Media, 3r3k/ppp4p/6p1/3P1p2/2B5/5N1P/PP2r1P1/1R4K1 b - - 8 29, e2e7, https://www.chess.com/game/live/172357243372, 2026-08-01, Ponziani
+436, Pezzo Appeso, Media, r2q2k1/ppp2ppp/5n2/4r3/2B3b1/1Q2P1P1/PP1N2P1/R3R1K1 b - - 3 16, d8d2, https://www.chess.com/game/live/172331383644, 2026-07-31, London System
+437, Tattica Generica, Media, 3r2k1/p3qpp1/1p5p/2p5/PnQ1PN2/6P1/1P4P1/4R1K1 b - - 2 27, b4c6, https://www.chess.com/game/live/172331383644, 2026-07-31, London System
+438, Tattica Generica, Difficile, 1q5k/p5p1/1p5p/2p2Q2/P5N1/1P6/3r2P1/4R1K1 b - - 6 35, b8d8, https://www.chess.com/game/live/172331383644, 2026-07-31, London System
+439, Pezzo Appeso, Difficile, 5rk1/3q1pbp/4p3/p1p1P1p1/2Np1n2/5N2/PPPQ1PPP/R4RK1 w - - 0 21, f3g5, https://www.chess.com/game/live/172323834748, 2026-07-31, French Defense
+440, Tattica Generica, Facile, 5rk1/5pbp/4p3/p1pqP3/2Np2pN/6Pn/PPPQ1PKP/R4R2 w - - 2 24, f2f3, https://www.chess.com/game/live/172323834748, 2026-07-31, French Defense
+441, Tattica Generica, Difficile, r2qkb1r/pp2nppp/3p4/3np3/2P3P1/3Q1N1P/PP3P2/RNB1K2R b KQkq - 0 13, a8c8, https://www.chess.com/game/live/172301867906, 2026-07-30, Ponziani
+442, Tattica Generica, Difficile, 2rq1rk1/pp2bppp/3p4/4N3/2P1QnP1/2N3K1/PP3P2/3R1R2 b - - 0 21, e7h4, https://www.chess.com/game/live/172301867906, 2026-07-30, Ponziani
+443, Tattica Generica, Media, 8/pr4pk/1p1R1p1p/5P2/2P3P1/1KP5/P7/8 b - - 2 35, h6h5, https://www.chess.com/game/live/172301867906, 2026-07-30, Ponziani
+444, Tattica Generica, Difficile, r4rk1/p1p2ppp/1p6/3pN3/3P1PP1/2n1P3/PRP5/4K2R b K - 2 19, f7f6, https://www.chess.com/game/live/172298334244, 2026-07-30, London System
+445, Tattica Generica, Difficile, 1r3rk1/p1p2ppp/1p6/3pN3/3P1PP1/2n1P3/PRP2K2/7R b - - 4 20, f8e8, https://www.chess.com/game/live/172298334244, 2026-07-30, London System
+446, Tattica Generica, Difficile, 1r4k1/p1p2ppp/1p6/3p2P1/3PnP2/4P3/PRP3K1/7R b - - 0 24, g7g6, https://www.chess.com/game/live/172298334244, 2026-07-30, London System
+447, Tattica Generica, Difficile, 3r2k1/p5pp/1p3p2/3p2P1/PR3P2/2n1PK2/2PR4/8 b - - 1 30, f6g5, https://www.chess.com/game/live/172298334244, 2026-07-30, London System
+448, Tattica Generica, Difficile, 3r2k1/p5pp/1p3p2/3p2P1/P2R1P2/2nRPK2/2P5/8 b - - 5 32, d8c8, https://www.chess.com/game/live/172298334244, 2026-07-30, London System
+449, Forchetta, Facile, 1r2r1k1/pppb1ppp/2n5/8/5q2/P1B3N1/P5K1/1R1Q1R2 b - - 1 24, f4d6, https://www.chess.com/game/live/172297313114, 2026-07-30, Irregular Openings
+450, Tattica Generica, Difficile, 1r2r1k1/ppp2ppp/2b3n1/8/3R4/P1B3N1/P6K/1R1Q4 b - - 4 27, g6e5, https://www.chess.com/game/live/172297313114, 2026-07-30, Irregular Openings
+451, Tattica Generica, Facile, 3Rr1k1/ppp2ppp/2b3n1/8/8/P1B3N1/P6K/1R1Q4 b - - 0 28, h7h6, https://www.chess.com/game/live/172297313114, 2026-07-30, Irregular Openings
+452, Tattica Generica, Media, r2b1rk1/3nqp2/6pQ/ppppP3/3P4/2PB1N2/PP3PPP/R4RK1 w - - 0 19, a1e1, https://www.chess.com/game/live/172296796102, 2026-07-30, Caro-Kann Defense
+453, Tattica Generica, Difficile, 5k2/2R5/8/pp6/3p4/nP1BrP1P/P5P1/5RK1 w - - 7 38, f1d1, https://www.chess.com/game/live/172296796102, 2026-07-30, Caro-Kann Defense
+454, Tattica Generica, Media, 5k2/8/8/2R5/8/1Pn1rP1P/P2p2P1/5RK1 w - - 0 42, c5c8, https://www.chess.com/game/live/172296796102, 2026-07-30, Caro-Kann Defense
+455, Tattica Generica, Media, r2qkb1r/ppp2ppp/2np4/3Np3/4P1b1/3P1N2/PPP1BPPP/R2QK2R b KQkq - 3 8, g7g6, https://www.chess.com/game/live/172296630976, 2026-07-30, Four Knights Game
+456, Tattica Generica, Difficile, 3q2k1/6pp/rp3p2/3Nr3/P1PpP3/6P1/6PP/RQ1R2K1 b - - 4 25, h7h5, https://www.chess.com/game/live/172296630976, 2026-07-30, Four Knights Game
+457, Tattica Generica, Difficile, 3q2k1/2N3pp/r4p2/1p6/P1PpQ3/6P1/6PP/R2R2K1 b - - 1 27, a6a4, https://www.chess.com/game/live/172296630976, 2026-07-30, Four Knights Game
+458, Tattica Generica, Facile, 3q2k1/2N3pp/2r2p2/1p6/P1PRQ3/6P1/6PP/R5K1 b - - 0 28, c6d6, https://www.chess.com/game/live/172296630976, 2026-07-30, Four Knights Game
+459, Pezzo Appeso, Facile, 5rk1/pbp1nppp/1p2p3/1B1r2B1/3P4/P1P4P/1P3PP1/R3R1K1 w - - 5 24, g5e7, https://www.chess.com/game/live/172296055688, 2026-07-30, Scandinavian Defense
+460, Tattica Generica, Difficile, b7/p1p2kpp/4p1r1/2P3r1/P4p2/5P1P/1P2R1P1/2R3K1 w - - 3 34, c5c6, https://www.chess.com/game/live/172296055688, 2026-07-30, Scandinavian Defense
+461, Tattica Generica, Difficile, 8/p1p2kpp/2b1p1r1/2P3r1/P4p2/5P1P/1P2R1P1/3R2K1 w - - 5 35, h3h4, https://www.chess.com/game/live/172296055688, 2026-07-30, Scandinavian Defense
+462, Tattica Generica, Media, 6k1/pp3ppp/1q6/8/3P4/P6P/QPr2PP1/4R1K1 b - - 0 26, g7g6, https://www.chess.com/game/live/172295818210, 2026-07-30, A45
+463, Tattica Generica, Facile, 2Q5/pp3ppk/7p/8/3q4/P4P1P/3r2P1/5R1K b - - 1 32, d4d3, https://www.chess.com/game/live/172295818210, 2026-07-30, A45
+464, Forchetta, Media, r3kb1r/pp2qppp/2p1bn2/3p4/3QP3/2NB4/PPP2PPP/R1B1R1K1 b kq - 3 10, e7b4, https://www.chess.com/game/live/172287142386, 2026-07-30, Four Knights Game
+465, Forchetta, Media, r3kb1r/pp3ppp/3qbn2/3p4/3Q1B2/2NB4/PPP2PPP/R3R1K1 b kq - 1 12, d6c5, https://www.chess.com/game/live/172287142386, 2026-07-30, Four Knights Game
+466, Tattica Generica, Facile, r6r/pp1k1ppp/4bn2/2Qp4/5B2/2N5/PPP2PPP/R3R1K1 b - - 0 15, h8d8, https://www.chess.com/game/live/172287142386, 2026-07-30, Four Knights Game
+467, Forchetta, Media, r1bq1rk1/pp3pbp/3p2p1/7n/2BpN3/3P1Q2/PPP2PPP/R1B2RK1 b - - 0 12, d6d5, https://www.chess.com/game/live/172286951180, 2026-07-30, King's Pawn Opening
+468, Tattica Generica, Media, rnb1kbnr/ppp1pppp/2q5/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4, f1b5, https://www.chess.com/game/live/172286717158, 2026-07-30, Scandinavian Defense
+469, Tattica Generica, Media, rnb1kb1r/ppp1pppp/2q2n2/8/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5, f1b5, https://www.chess.com/game/live/172286717158, 2026-07-30, Scandinavian Defense
+470, Tattica Generica, Media, rn2kb1r/ppp1pppp/2q2n2/5b2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 3 6, f1b5, https://www.chess.com/game/live/172286717158, 2026-07-30, Scandinavian Defense
+471, Tattica Generica, Media, rn2kb1r/ppp1pppp/2q2n2/8/3P2b1/2NB1N2/PPP2PPP/R1BQK2R w KQkq - 5 7, d3b5, https://www.chess.com/game/live/172286717158, 2026-07-30, Scandinavian Defense
+472, Tattica Generica, Media, rn2kb1r/ppp2ppp/2q1pn2/8/3P4/2NB1Q1P/PPP2PP1/R1B1K2R w KQkq - 0 9, d3b5, https://www.chess.com/game/live/172286717158, 2026-07-30, Scandinavian Defense
+473, Tattica Generica, Facile, 8/7p/8/6P1/4RK2/3k3P/2p2P2/8 w - - 0 41, e4e1, https://www.chess.com/game/live/172286717158, 2026-07-30, Scandinavian Defense
+474, Pezzo Appeso, Difficile, 8/7p/6P1/8/5K2/4R2P/3k1P2/2q5 w - - 0 43, g6h7, https://www.chess.com/game/live/172286717158, 2026-07-30, Scandinavian Defense
+475, Tattica Generica, Media, r1b2rk1/ppp2ppp/5n2/2bP4/2P5/8/PP2BPPP/RNB1K2R w KQ - 1 13, b1c3, https://www.chess.com/game/live/172265572164, 2026-07-30, Scotch Game
+476, Tattica Generica, Media, r1b2rk1/ppp2p1p/5np1/2bP4/2P5/1P6/P3BPPP/RNB1K2R w KQ - 0 14, c1b2, https://www.chess.com/game/live/172265572164, 2026-07-30, Scotch Game
+477, Pezzo Appeso, Difficile, r1b2rk1/ppp2p1p/6p1/3P4/2Pbn3/1P3B2/P4PPP/RNB2RK1 w - - 4 16, f3e4, https://www.chess.com/game/live/172265572164, 2026-07-30, Scotch Game
+478, Tattica Generica, Facile, 3r4/p6p/3P1kp1/2PBrp2/8/7P/P4PP1/3R2K1 w - - 3 30, f2f4, https://www.chess.com/game/live/172265572164, 2026-07-30, Scotch Game
+479, Tattica Generica, Difficile, rn1qk2r/ppp1bppp/3p1n2/6N1/3PPBb1/8/PPP1B1PP/RN1QK2R b KQkq - 4 7, h7h6, https://www.chess.com/game/live/172265217608, 2026-07-30, King's Gambit
+480, Tattica Generica, Facile, r2q1rk1/ppp1b1p1/2np1p2/3N2p1/3PP1Q1/4B3/PPP3PP/R4RK1 b - - 3 13, d8c8, https://www.chess.com/game/live/172265217608, 2026-07-30, King's Gambit
+481, Forchetta, Facile, 2r1r1k1/p4ppp/1p3n2/4q3/3pPQ2/3P4/PP2N1PP/2R2RK1 b - - 3 19, e5f4, https://www.chess.com/game/live/172264717468, 2026-07-30, Italian Game
+482, Tattica Generica, Media, 2R1r1k1/p4ppp/5n2/1p2q3/3pPQ2/3P4/PP2N1PP/5RK1 b - - 0 20, e5f4, https://www.chess.com/game/live/172264717468, 2026-07-30, Italian Game
+483, Tattica Generica, Media, r1b2rk1/pp4p1/7p/3qnp2/3N1B2/8/P1P2PPP/R2Q1RK1 b - - 0 19, e5g6, https://www.chess.com/game/live/172264277870, 2026-07-30, Italian Game
+484, Forchetta, Media, r4rk1/pp4p1/4N2p/3q1p2/2n2B2/8/P1P2PPP/R2QR1K1 b - - 0 21, d5d1, https://www.chess.com/game/live/172264277870, 2026-07-30, Italian Game
+485, Tattica Generica, Difficile, r4rk1/1pp2ppp/1qn5/p2RpQ2/4P3/2P5/PPB2PPP/5RK1 w - - 5 20, d5d7, https://www.chess.com/game/live/172264004094, 2026-07-30, Italian Game
+486, Tattica Generica, Facile, 4r1k1/1p3p1p/2p3p1/p2P4/1qP5/1P1Q4/P1B2PPP/5K2 w - - 2 29, g2g4, https://www.chess.com/game/live/172264004094, 2026-07-30, Italian Game
+487, Scoperta, Difficile, r3r1k1/bppqnppp/p2p1n2/4pN2/PP2P3/2PP1Q1P/B4PP1/R1B1R1K1 w - - 3 17, f5h6, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+488, Tattica Generica, Difficile, 2R5/4k3/p1Pp3p/P2Bp3/1P1bP3/3P3P/6P1/7K w - - 1 39, c8c7, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+489, Matto Mancato, Facile, R7/4k3/p1Pp4/P2Bp2p/1P1bP3/3P3P/6P1/7K w - - 0 40, h3h4, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+490, Matto Mancato, Facile, 8/R7/p1Pp1k2/P2Bp2p/1P1bP3/3P3P/6P1/7K w - - 2 41, a7f7, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+491, Matto Mancato, Facile, 3Q4/8/p2p2k1/P2Bp2p/1P1bP3/3P3P/6P1/7K w - - 3 44, h3h4, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+492, Matto Mancato, Facile, Q7/6k1/p2p4/P2Bp2p/1P1bP3/3P3P/6P1/7K w - - 5 45, a8g8, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+493, Tattica Generica, Media, 8/8/3Q4/P2Bp1kp/1P1bP3/3P3P/6P1/7K w - - 1 47, h1h2, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+494, Tattica Generica, Media, 8/b7/3Q4/3Bp2p/1P2Pk2/3P3P/6P1/7K w - - 0 49, d6h6, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+495, Tattica Generica, Difficile, 8/b7/3Q4/1P1Bp2p/4P3/3Pk2P/6P1/7K w - - 1 50, b5b6, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+496, Matto Mancato, Facile, 8/8/1Q6/3Bp3/4P2p/3k3P/6P1/7K w - - 0 54, b6b2, https://www.chess.com/game/live/172263841970, 2026-07-30, Italian Game
+497, Tattica Generica, Difficile, r1bqk2r/ppp1bppp/2n5/3pn3/3N4/1B6/PPP2PPP/RNBQR1K1 b kq - 1 9, e8g8, https://www.chess.com/game/live/172238607570, 2026-07-29, Italian Game
+498, Tattica Generica, Difficile, r2qr1k1/ppp1bppp/4b3/3BP3/2PQ4/8/PP1B2PP/RN2R1K1 b - - 0 15, c7c6, https://www.chess.com/game/live/172238607570, 2026-07-29, Italian Game
+499, Tattica Generica, Facile, 3rr1k1/pppqbppp/4P3/3P4/3Q4/2B5/PP4PP/RN2R1K1 b - - 0 18, e7c5, https://www.chess.com/game/live/172238607570, 2026-07-29, Italian Game
+500, Tattica Generica, Difficile, rnbqk1nr/1p3p1p/pb4p1/2p5/4P3/2PBBN2/P4PPP/RN1Q1RK1 w kq - 0 12, d1e2, https://www.chess.com/game/live/172213087176, 2026-07-28, King's Pawn Opening
+501, Tattica Generica, Media, r1bqk1nr/b6p/p1p2pp1/2p5/4P3/2PBBN2/P4PPP/R2Q1RK1 w kq - 0 16, d1e2, https://www.chess.com/game/live/172213087176, 2026-07-28, King's Pawn Opening
+502, Tattica Generica, Media, r1bqk2r/b3n2p/p1p2pp1/2p5/4P3/1QPBBN2/P4PPP/R4RK1 w kq - 2 17, d3c4, https://www.chess.com/game/live/172213087176, 2026-07-28, King's Pawn Opening
+503, Tattica Generica, Difficile, 2bq1r2/2b1n1kp/p1p2pp1/2B5/2B1P3/2P2N2/P1Q2PPP/5RK1 w - - 3 22, f1d1, https://www.chess.com/game/live/172213087176, 2026-07-28, King's Pawn Opening
+504, Tattica Generica, Difficile, 2b2r2/2b3kp/p1p2p2/4q3/4P1pN/2PB4/P1Q2PPP/4R1K1 w - - 2 26, g2g3, https://www.chess.com/game/live/172213087176, 2026-07-28, King's Pawn Opening
+505, Tattica Generica, Difficile, 2r5/2b1k2p/p1p2p2/8/4P1p1/1QPB4/P4PPq/4RK2 w - - 2 31, e4e5, https://www.chess.com/game/live/172213087176, 2026-07-28, King's Pawn Opening
+506, Tattica Generica, Media, r4rk1/ppp3p1/3ppq1p/6b1/3pP3/2PP4/PPQ1NPPP/R4RK1 w - - 3 15, f2f4, https://www.chess.com/game/live/172212884262, 2026-07-28, Italian Game
+507, Tattica Generica, Difficile, 5rk1/p5p1/1p5p/2p1p2r/2N1Pb2/1P1P1P2/P5PP/R4RK1 w - - 3 25, g2g3, https://www.chess.com/game/live/172212884262, 2026-07-28, Italian Game
+508, Tattica Generica, Media, 6k1/p5p1/6rp/2p1p3/4Pb2/3PNP2/P3K3/1R3R2 w - - 2 33, b1b8, https://www.chess.com/game/live/172212884262, 2026-07-28, Italian Game
+509, Tattica Generica, Difficile, r1bqkb1r/3p1ppp/p4n2/1pp1p3/4P3/1PNPBN2/1PP2PPP/R2QK2R w KQkq - 0 9, c3b5, https://www.chess.com/game/live/172212477838, 2026-07-28, Italian Game
+510, Tattica Generica, Facile, 6k1/1q2b1pp/6r1/2p5/2N2B2/RP1P4/5PPP/1Q4K1 w - - 1 30, c4e3, https://www.chess.com/game/live/172212477838, 2026-07-28, Italian Game
+511, Tattica Generica, Difficile, 4r1k1/5qpp/1p6/pP1p1p2/P1n5/2P2QP1/5PKP/R1B5 b - - 2 29, e8e1, https://www.chess.com/game/live/172212106400, 2026-07-28, Queen's Pawn Opening
+512, Tattica Generica, Difficile, r2q2k1/1Rpb1rbp/3p3p/p2Q4/4N3/P4N2/2P2PPP/5RK1 w - - 0 17, e4d6, https://www.chess.com/game/live/172211859802, 2026-07-28, Pirc Defense
+513, Tattica Generica, Media, 3q2k1/2pb1rbp/r2p3p/p2Q4/4N3/P4N2/2P2PPP/1R3RK1 w - - 2 18, f1e1, https://www.chess.com/game/live/172211859802, 2026-07-28, Pirc Defense
+514, Pezzo Appeso, Media, r4qk1/2p2r1p/2bp3p/p7/8/P1Q2N2/2P2PPP/1R2R1K1 w - - 1 22, c3c6, https://www.chess.com/game/live/172211859802, 2026-07-28, Pirc Defense
+515, Forchetta, Media, r5k1/1R1b1rqp/3p3p/p1p5/P7/2Q1RN2/2P2PPP/6K1 w - - 1 25, f3e5, https://www.chess.com/game/live/172211859802, 2026-07-28, Pirc Defense
+516, Tattica Generica, Media, r5k1/1R4rp/3p3p/p1p5/b6N/4R3/2P2PPP/6K1 w - - 0 27, b7g7, https://www.chess.com/game/live/172211859802, 2026-07-28, Pirc Defense
+517, Tattica Generica, Media, r5k1/1R4rp/3p3p/p1p5/7N/R7/2b2PPP/6K1 w - - 0 28, b7b2, https://www.chess.com/game/live/172211859802, 2026-07-28, Pirc Defense
+518, Tattica Generica, Difficile, r5k1/1R4rp/3p3p/p1p5/4b3/R4N2/5PPP/6K1 w - - 2 29, b7g7, https://www.chess.com/game/live/172211859802, 2026-07-28, Pirc Defense
+519, Tattica Generica, Facile, 8/5b1p/3p2kp/8/6K1/2p3P1/5P1r/8 w - - 0 45, f2f4, https://www.chess.com/game/live/172211859802, 2026-07-28, Pirc Defense
+520, Forchetta, Difficile, r2qk1nr/1bpp1ppp/p2b4/1p6/3QP3/1B2B3/PPP2PPP/RN2K2R w KQkq - 3 9, d4g7, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+521, Forchetta, Media, r2qk2r/1bpp1ppp/p2b1n2/1p6/3QP3/1BN1B3/PPP2PPP/R3K2R w KQkq - 5 10, e4e5, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+522, Forchetta, Difficile, r2qk2r/1bpp1ppp/p2b4/1p6/3QP1n1/1BN1B3/PPP2PPP/R4RK1 w kq - 7 11, d4g7, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+523, Pezzo Appeso, Difficile, r2qk2r/1bpp1ppp/p2b4/1p2P3/3Q4/1BN1n3/PPP2PPP/R4RK1 w kq - 0 12, e5d6, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+524, Tattica Generica, Difficile, r2q1k1r/1bppbBpp/p7/1p2P3/3Q4/2N1P3/PPP3PP/R4RK1 w - - 1 14, f7d5, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+525, Matto Mancato, Facile, r2q1k1r/1bppbB1p/p5p1/1p2P3/5Q2/2N1P3/PPP3PP/R4RK1 w - - 0 15, f4h6, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+526, Tattica Generica, Difficile, 3q3r/7p/p5pk/4P1b1/1p2N3/4PQ2/PPr3PP/R4RK1 w - - 0 24, a1d1, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+527, Matto Mancato, Facile, 3q3r/7p/p5p1/4P2k/1p3Q2/4P3/PPr3PP/R4RK1 w - - 2 26, g2g4, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+528, Tattica Generica, Difficile, 3q3r/6kp/p5p1/4P3/1p6/4P2Q/PPr3PP/R4RK1 w - - 6 28, a1d1, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+529, Matto Mancato, Facile, 4q3/4PR1r/p5pk/7p/1p6/4PQ2/PPr3PP/R5K1 w - - 3 32, f3f4, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+530, Tattica Generica, Media, 2r1qQ2/4P2k/p5p1/7p/1p6/4P3/PP4PP/R5K1 w - - 2 34, a1f1, https://www.chess.com/game/live/172204739450, 2026-07-28, Italian Game
+531, Forchetta, Media, rn1qk2r/pp3ppp/4bp2/2b5/3N4/2P1B3/PP3PPP/R2QKB1R w KQkq - 1 10, d4e6, https://www.chess.com/game/live/172063810200, 2026-07-25, Caro-Kann Defense
+532, Forchetta, Media, r2qk2r/p4ppp/2p1bp2/2b5/3N4/2P1B3/PP3PPP/R2QK2R w KQkq - 0 12, d4e6, https://www.chess.com/game/live/172063810200, 2026-07-25, Caro-Kann Defense
+533, Tattica Generica, Facile, 8/p5pp/5k2/2P1pp2/qP6/2Q5/5PPP/6K1 w - - 0 32, f2f4, https://www.chess.com/game/live/172063810200, 2026-07-25, Caro-Kann Defense
+534, Tattica Generica, Difficile, r1b1k1r1/p1p1qp1p/p2p3p/3P4/2Q1P3/P1R2N2/1P3PPP/5RK1 w q - 3 17, c4c6, https://www.chess.com/game/live/172063545354, 2026-07-25, Italian Game
+535, Tattica Generica, Difficile, 8/p2k1p1p/p2p3p/3P2rb/4P2N/P4P2/1P4PP/4R1K1 w - - 0 26, g1f2, https://www.chess.com/game/live/172063545354, 2026-07-25, Italian Game
+536, Matto Mancato, Facile, 8/p6p/p6p/8/3R3N/P5Pk/bP5P/6K1 w - - 12 43, h4f3, https://www.chess.com/game/live/172063545354, 2026-07-25, Italian Game
+537, Matto Mancato, Facile, 8/p2R3p/p6p/8/2b4N/P5Pk/1P5P/6K1 w - - 14 44, d7d4, https://www.chess.com/game/live/172063545354, 2026-07-25, Italian Game
+538, Tattica Generica, Difficile, 8/8/p6R/7p/6bN/P5Pk/1P5P/6K1 w - - 3 47, h6d6, https://www.chess.com/game/live/172063545354, 2026-07-25, Italian Game
+539, Matto Mancato, Facile, 8/8/p6R/4N2p/8/P5Pk/1P2b2P/6K1 w - - 7 49, h6d6, https://www.chess.com/game/live/172063545354, 2026-07-25, Italian Game
+540, Matto Mancato, Facile, 8/8/p1N4R/7p/8/P5Pk/1P5P/3b2K1 w - - 9 50, c6e5, https://www.chess.com/game/live/172063545354, 2026-07-25, Italian Game
+541, Matto Mancato, Facile, 8/8/4N2R/7p/8/P5Pk/1P5P/3b2K1 w - - 5 54, h6f6, https://www.chess.com/game/live/172063545354, 2026-07-25, Italian Game
+542, Tattica Generica, Difficile, 8/1pp2pk1/p1p2p2/4p3/4P1r1/2PP3K/PP4P1/5R2 b - - 1 29, g4g6, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+543, Tattica Generica, Difficile, 8/2p2p2/2p2p2/1pP1p3/p3P3/P2PKPk1/1P6/8 b - - 5 38, f6f5, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+544, Tattica Generica, Difficile, 8/2p2p2/2p2p2/1pP1p3/p3P3/P2PKPk1/1P6/8 b - - 9 40, f6f5, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+545, Tattica Generica, Media, 8/2p2p2/2p2p2/1pP1p3/p3PP2/P2PK3/1P4k1/8 b - - 0 41, g2f1, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+546, Pezzo Appeso, Media, 8/2p2p2/2p5/1pP1PK2/p2k4/P7/1P6/8 b - - 2 46, d4c5, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+547, Tattica Generica, Media, 8/2p2p2/2p2K2/1pPkP3/p7/P7/1P6/8 b - - 4 47, d5e4, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+548, Tattica Generica, Media, 8/5K2/8/8/pQp5/P7/1Pk5/8 b - - 2 56, c2d3, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+549, Tattica Generica, Difficile, 8/5K2/8/8/Q7/P1Pk4/8/8 b - - 0 58, d3e3, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+550, Tattica Generica, Media, 8/5K2/P7/8/1Q6/2Pk4/8/8 b - - 0 62, d3e2, https://www.chess.com/game/live/172063320978, 2026-07-25, Spanish Game
+551, Tattica Generica, Media, r3kb1r/p1p1qpp1/2p2n1p/3pp1N1/6bP/BP2P1Q1/P1PP1PP1/RN2K2R b KQkq - 1 11, c6c5, https://www.chess.com/game/live/172063157450, 2026-07-25, Nimzowitsch-Larsen Attack
+552, Tattica Generica, Difficile, r3k2r/p1Q1bpp1/2p1bn2/3p4/7p/1P2PP2/P1PP2P1/RN2K2R b KQkq - 0 15, a8c8, https://www.chess.com/game/live/172063157450, 2026-07-25, Nimzowitsch-Larsen Attack
+553, Tattica Generica, Facile, r3r1k1/p4pp1/4bn2/3p4/2p4R/1P2PP2/P1PP2PQ/RN2K3 b Q - 1 19, g8f8, https://www.chess.com/game/live/172063157450, 2026-07-25, Nimzowitsch-Larsen Attack
+554, Tattica Generica, Media, r3k2r/1p1q1pp1/p1p1pn2/6p1/3PBQ2/2P4P/PP3PP1/3R1RK1 w kq - 0 18, f4e3, https://www.chess.com/game/live/172063079412, 2026-07-25, Scandinavian Defense
+555, Tattica Generica, Media, r3k2r/1p1q1pp1/p1p1p3/6p1/3Pn3/2P3QP/PP3PP1/3R1RK1 w kq - 0 19, g3e3, https://www.chess.com/game/live/172063079412, 2026-07-25, Scandinavian Defense
+556, Pezzo Appeso, Difficile, r1b1kb1r/ppp2pp1/2np1q1p/4P3/2B1Q3/5N2/PPP2PPP/RNB1K2R w KQkq - 0 8, e5f6, https://www.chess.com/game/live/172062344264, 2026-07-25, Italian Game
+557, Tattica Generica, Difficile, r1b4r/ppPk1pp1/2n2q1p/8/1bB1Q3/5N2/PPP2PPP/RNB1K2R w KQ - 1 10, e1f1, https://www.chess.com/game/live/172062344264, 2026-07-25, Italian Game
+558, Tattica Generica, Difficile, r2r4/pp2kpp1/5q1p/bQ3b2/8/2NPBN2/PP3PPP/R4RK1 w - - 9 20, e3c5, https://www.chess.com/game/live/172062344264, 2026-07-25, Italian Game
+559, Tattica Generica, Facile, r2rk3/p4pp1/1p3q1p/8/1Q6/2NbBN2/PP3PPP/R2R2K1 w - - 2 23, d1d3, https://www.chess.com/game/live/172062344264, 2026-07-25, Italian Game
+560, Pezzo Appeso, Difficile, r2rk3/p4pp1/1p3q1p/1b6/8/2N1BN2/PP3PPP/R2R2K1 w - - 0 24, c3b5, https://www.chess.com/game/live/172062344264, 2026-07-25, Italian Game
+561, Pezzo Appeso, Media, 3rk3/p4pp1/1p3q1p/1b6/8/2N1BN2/PP3PPP/R5K1 w - - 0 25, c3b5, https://www.chess.com/game/live/172062344264, 2026-07-25, Italian Game
+562, Pezzo Appeso, Media, 2r1k3/p4pp1/1p3q1p/1b6/8/2N1BN2/PP3PPP/3R2K1 w - - 2 26, c3b5, https://www.chess.com/game/live/172062344264, 2026-07-25, Italian Game
+563, Tattica Generica, Facile, 2r1k3/p4pp1/1p5p/3N4/8/4B3/Pq3PPP/4R1K1 w - - 0 32, e3c1, https://www.chess.com/game/live/172062344264, 2026-07-25, Italian Game
+564, Tattica Generica, Difficile, rnb1k1nr/pppp1ppp/3q4/2bNp3/4P3/5N2/PPPP1PPP/R1BQKB1R w KQkq - 6 5, d2d4, https://www.chess.com/game/live/172062097584, 2026-07-25, King's Pawn Opening
+565, Pezzo Appeso, Difficile, rn2k2r/pp4pp/2pp1p2/4p1q1/2B1b3/3P1Q2/PPP2PPP/R4RK1 w kq - 0 16, d3e4, https://www.chess.com/game/live/172062097584, 2026-07-25, King's Pawn Opening
+566, Tattica Generica, Facile, 4rr1k/p5p1/4np2/2P3qp/PP1p4/5QP1/5P1P/3R1R1K w - - 0 37, c5c6, https://www.chess.com/game/live/172062097584, 2026-07-25, King's Pawn Opening
+567, Tattica Generica, Media, 4r2k/p5p1/8/2P5/PP1p1n1p/8/5P1P/5R1K w - - 0 42, h2h3, https://www.chess.com/game/live/172062097584, 2026-07-25, King's Pawn Opening
+568, Tattica Generica, Media, 4r2k/p5p1/2P5/8/PP3n1p/3p4/5P1P/3R3K w - - 3 45, h2h3, https://www.chess.com/game/live/172062097584, 2026-07-25, King's Pawn Opening
+569, Tattica Generica, Difficile, 3r2k1/1p1n1pp1/pq1bp2p/8/2RP4/1P1Q1B1P/P4PP1/5RK1 w - - 0 23, d3c2, https://www.chess.com/game/live/172051298216, 2026-07-25, Scandinavian Defense
+570, Tattica Generica, Difficile, 5bk1/1B2qpp1/p1R4p/3nP3/8/1PQ4P/P4PP1/6K1 w - - 1 30, c3f3, https://www.chess.com/game/live/172051298216, 2026-07-25, Scandinavian Defense
+571, Forchetta, Difficile, 2RQ1bk1/5pp1/8/p3P2p/1q6/1P5P/P4PP1/6K1 w - - 0 34, d8d6, https://www.chess.com/game/live/172051298216, 2026-07-25, Scandinavian Defense
+572, Tattica Generica, Facile, r1bqkb1r/pp1p1pp1/5n1p/2p1P3/2BQ4/8/PPP2PPP/RNB1K2R w KQkq - 0 8, d4f4, https://www.chess.com/game/live/171756331848, 2026-07-18, Italian Game
+573, Tattica Generica, Difficile, r3kb1r/ppp2ppp/2np1q2/3P4/8/3Q4/PPP1BPPP/R1B2RK1 b kq - 0 13, c6d4, https://www.chess.com/game/live/167348135352, 2026-04-15, Scotch Game
+574, Tattica Generica, Difficile, r4rk1/p1p1bppp/2Qp1q2/8/8/8/PPP1BPPP/R1B2RK1 b - - 0 16, f8e8, https://www.chess.com/game/live/167348135352, 2026-04-15, Scotch Game
+575, Tattica Generica, Facile, 1r1br1k1/p1p2ppp/2Qp1q2/8/8/5B2/PPP2PPP/R1B2RK1 b - - 6 19, e8e6, https://www.chess.com/game/live/167348135352, 2026-04-15, Scotch Game
+576, Pezzo Appeso, Media, 6k1/5pp1/pB5p/8/1P6/P2b3P/2Pr1PP1/2R3K1 w - - 1 27, c2d3, https://www.chess.com/game/live/167307662056, 2026-04-14, Sicilian Defense
+577, Tattica Generica, Difficile, r1bq1r2/1ppp1pkp/2n1pnp1/8/p2PP3/2NB1N2/PPPQ1PPP/R3K2R w KQ - 0 10, e4e5, https://www.chess.com/game/live/167306977026, 2026-04-14, A48
+578, Tattica Generica, Difficile, r1bq1r2/1pp2pk1/2nppnp1/8/3PP2p/pPNB1N2/P1PQ1PPP/R3R1K1 w - - 0 15, e4e5, https://www.chess.com/game/live/167306977026, 2026-04-14, A48
+579, Tattica Generica, Media, r1bq3r/1pp2pk1/3p1np1/3Pp3/3nP3/pPNB1N2/P1PQ1PPP/R3R1K1 w - - 1 18, f3d4, https://www.chess.com/game/live/167306977026, 2026-04-14, A48
+580, Tattica Generica, Media, r1bq3r/1pp2pk1/3p2p1/3Pp3/3nP1n1/pP1B1N2/P1PQNPPP/R3R1K1 w - - 3 19, e2d4, https://www.chess.com/game/live/167306977026, 2026-04-14, A48
+581, Pezzo Appeso, Difficile, r2q3r/1pp2pk1/3p1np1/3P4/3NP3/pP1B3b/P1PQ1PP1/R3R1K1 w - - 0 22, g2h3, https://www.chess.com/game/live/167306977026, 2026-04-14, A48
+582, Tattica Generica, Media, r6r/1pp2pk1/3p1np1/3P3q/4P3/pP1B2Pb/P1PQ1P1N/R3R1K1 w - - 5 25, f2f3, https://www.chess.com/game/live/167306977026, 2026-04-14, A48
+583, Tattica Generica, Facile, r6r/1pp2pk1/3p1np1/3P3q/4PQb1/pP1B2P1/P1P2P1N/R3R1K1 w - - 7 26, f4f6, https://www.chess.com/game/live/167306977026, 2026-04-14, A48
+584, Tattica Generica, Facile, r6r/1pp2pk1/3p1np1/3P4/4PQb1/pP1B2P1/P1P2P1q/R3RK2 w - - 0 27, f4f6, https://www.chess.com/game/live/167306977026, 2026-04-14, A48
+585, Tattica Generica, Media, 3r2k1/p4ppp/1p1N1n2/2p5/4pP2/1P4PP/P1PR2K1/8 b - - 0 25, e4e3, https://www.chess.com/game/live/167306702594, 2026-04-14, Irregular Openings
+586, Tattica Generica, Difficile, 2N3k1/p4ppp/1p6/2p5/2P2P2/1n3KPP/8/8 b - - 1 35, b3d2, https://www.chess.com/game/live/167306702594, 2026-04-14, Irregular Openings
+587, Pezzo Appeso, Facile, 2r4r/pp3ppp/4kn2/8/1n1p4/5N2/P1q1BPPP/R2Q1RK1 w - - 0 19, f3d4, https://www.chess.com/game/live/167306482280, 2026-04-14, Sicilian Defense
+588, Tattica Generica, Media, 7r/pp3ppp/5n2/3k4/3n4/8/P3BPPP/2R2RK1 w - - 2 23, f1d1, https://www.chess.com/game/live/167306482280, 2026-04-14, Sicilian Defense
+589, Pezzo Appeso, Media, 1r6/p5Rp/5n2/3k4/1p6/8/P3nPPP/5R1K w - - 0 27, g7a7, https://www.chess.com/game/live/167306482280, 2026-04-14, Sicilian Defense
+590, Tattica Generica, Facile, 8/8/5n2/5Pq1/6P1/6K1/1k5P/8 w - - 3 43, g3f2, https://www.chess.com/game/live/167306482280, 2026-04-14, Sicilian Defense
+591, Tattica Generica, Difficile, r1b1kb1r/ppppqppp/2n2n2/3Pp3/4P3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 5, c6b8, https://www.chess.com/game/live/167306229718, 2026-04-14, Ponziani
+592, Tattica Generica, Difficile, 1kr5/p4p2/Pp4p1/1NpPp3/7r/8/P4PP1/1RR3K1 b - - 1 27, h4a4, https://www.chess.com/game/live/167306229718, 2026-04-14, Ponziani
+593, Tattica Generica, Difficile, r3kr2/pbp1n1p1/1p3p1p/8/3P2q1/1QP1BN2/PP3PPP/R4RK1 w q - 6 17, f3e1, https://www.chess.com/game/daily/992361368, 2026-06-29, Italian Game
+594, Tattica Generica, Media, 2kr1r2/p1p3p1/1p3pnp/8/3Pq3/2P1B3/PP1Q1P1P/R4RK1 w - - 6 22, f2f3, https://www.chess.com/game/daily/992361368, 2026-06-29, Italian Game
+595, Tattica Generica, Facile, 2kr1r2/p1p3p1/1p3p1p/8/3P2qn/2P1B3/PP1Q1P1P/R3RK2 w - - 10 24, h2h3, https://www.chess.com/game/daily/992361368, 2026-06-29, Italian Game
+596, Tattica Generica, Difficile, rnb1k1nr/pp3ppp/2pp1q2/2b5/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7, d1d2, https://www.chess.com/game/daily/981791190, 2026-06-05, King's Pawn Opening
+597, Tattica Generica, Difficile, rnb1k1nr/pp3ppp/2pp4/8/3qP3/2NB4/PPP2PPP/R2QK2R w KQkq - 0 9, c3b5, https://www.chess.com/game/daily/981791190, 2026-06-05, King's Pawn Opening
+598, Tattica Generica, Media, rnb1k2r/pp3ppp/2pp1n2/8/3qP3/2NB4/PPP2PPP/R2Q1RK1 w kq - 2 10, c3b5, https://www.chess.com/game/daily/981791190, 2026-06-05, King's Pawn Opening
+599, Tattica Generica, Difficile, 8/1r4k1/1p1RK2p/p1p4P/P1P3P1/1P6/8/8 b - - 6 43, b7b8, https://www.chess.com/game/daily/957264073, 2026-04-12, Bishop's Opening
+600, Tattica Generica, Difficile, r4rk1/ppp1qpp1/1b1p1n1p/3Bp3/4P2B/2PP4/PP3PPP/R2QR1K1 b - - 2 14, g7g5, https://www.chess.com/game/daily/956984911, 2026-04-11, Italian Game
+601, Tattica Generica, Difficile, 3r1rk1/pp2qp2/1bpp1n1p/4p1p1/4P3/1BPP1QB1/PP3PPP/R3R1K1 b - - 1 17, f6d7, https://www.chess.com/game/daily/956984911, 2026-04-11, Italian Game
+602, Tattica Generica, Difficile, r2q4/1pp1n2k/3p1rpp/p3p3/P1P1Q2N/2P1R3/1P3PPP/5RK1 w - - 4 20, f2f4, https://www.chess.com/game/daily/957264121, 2026-04-12, Italian Game
+603, Tattica Generica, Media, 3q2k1/Q3n3/1r1p2pp/2p1p3/P1P4N/2P2r2/1P3PPP/5RK1 w - - 0 25, a4a5, https://www.chess.com/game/daily/957264121, 2026-04-12, Italian Game
+604, Tattica Generica, Difficile, r1b2r2/pp2kpb1/2p5/4p2p/2B1P1pP/2N3P1/PPP3P1/R4RK1 w - - 2 18, a2a4, https://www.chess.com/game/daily/956987079, 2026-04-11, Sicilian Defense
+605, Tattica Generica, Media, 5r2/p3k3/7b/1pp4p/4P1pP/1P1P2P1/P5P1/5RK1 w - - 1 28, f1f8, https://www.chess.com/game/daily/956987079, 2026-04-11, Sicilian Defense
+606, Tattica Generica, Facile, 3B2k1/1Q3ppp/p7/5q2/3Ppn2/P6P/1PP2PK1/3RR3 w - - 5 26, g2g3, https://www.chess.com/game/daily/900010197, 2025-12-08, King's Pawn Opening
+607, Tattica Generica, Media, r3kb1r/ppp2ppp/2n1bn2/3qN3/Q2P4/2P2P2/PP4PP/RNB1KB1R b KQkq - 0 8, f6d7, https://www.chess.com/game/daily/890635169, 2025-11-16, Ponziani
+608, Pezzo Appeso, Difficile, 2r1r1k1/2p2ppp/p2b1q2/1p3PP1/2p2B2/2P2Q1P/PP3P2/3RRK2 b - - 0 25, f6f5, https://www.chess.com/game/daily/867514829, 2025-09-22, Spanish Game
+609, Tattica Generica, Difficile, 2r3k1/2q2p1p/p1pb1Pp1/1p2r1PP/2p5/P1P1BQ2/1P3P2/3RRK2 b - - 0 30, e5f5, https://www.chess.com/game/daily/867514829, 2025-09-22, Spanish Game
+610, Tattica Generica, Media, 8/7k/2R5/2P3K1/8/8/8/7r b - - 0 65, h7g7, https://www.chess.com/game/daily/867514829, 2025-09-22, Spanish Game
+611, Tattica Generica, Difficile, 4r1k1/2p2ppp/r2p4/p7/2P1p3/1P2B1Q1/q4PPP/4R1K1 w - - 0 24, e3d4, https://www.chess.com/game/daily/861728657, 2025-09-08, Spanish Game
+612, Tattica Generica, Facile, 6k1/2p2ppp/1r1p2q1/p3r1B1/2P1p3/1P4QP/5PP1/3R2K1 w - - 7 30, g3e5, https://www.chess.com/game/daily/861728657, 2025-09-08, Spanish Game
+613, Pezzo Appeso, Facile, 6k1/2p2ppp/3p4/p4r2/2P5/6PP/3RpKP1/1r2B3 w - - 4 36, f2e2, https://www.chess.com/game/daily/861728657, 2025-09-08, Spanish Game
+614, Tattica Generica, Difficile, r3k2r/2p2p1n/p1p4p/4q3/1b1pN3/3B1Q2/P1P2PPP/R4RK1 w kq - 0 20, a1b1, https://www.chess.com/game/daily/861583463, 2025-09-08, Italian Game
+615, Scoperta, Media, r3k2r/2p2p2/p1p4p/4q1n1/3pN3/3B1Q2/P1P2PPP/4R1K1 w kq - 1 22, e4f6, https://www.chess.com/game/daily/861583463, 2025-09-08, Italian Game
+616, Tattica Generica, Media, 5rk1/2p2p2/p1p1r2p/5NnQ/3p1q2/3B4/P1P2PPP/3R2K1 w - - 11 27, g2g3, https://www.chess.com/game/daily/861583463, 2025-09-08, Italian Game
+617, Tattica Generica, Difficile, r1bqr1k1/pppnbppp/4pn2/3p4/2PP1B2/2NBPN2/PP3PPP/R2Q1RK1 b - - 4 8, d5c4, https://www.chess.com/game/daily/861583501, 2025-09-08, Queen's Gambit
+618, Tattica Generica, Difficile, 2k1r2r/ppp3Q1/1q6/5p1p/2P3pP/1P1P2B1/P3nPPK/3R1R2 w - - 0 27, d1d2, https://www.chess.com/game/daily/854933216, 2025-08-23, Italian Game
+619, Pezzo Appeso, Media, 2k2r1r/ppp5/1q6/5pQp/2P3pP/1P1P2n1/P4PPK/3RR3 w - - 0 29, f2g3, https://www.chess.com/game/daily/854933216, 2025-08-23, Italian Game
+620, Tattica Generica, Facile, 2k2r1r/ppp5/8/6Qp/2P3pP/1P1P1pq1/P5P1/3R1RK1 w - - 0 33, f1f2, https://www.chess.com/game/daily/854933216, 2025-08-23, Italian Game
+621, Tattica Generica, Difficile, 1R6/1P3pp1/5k1p/8/4P2P/1r4P1/5PK1/8 b - - 2 37, h6h5, https://www.chess.com/game/daily/854933182, 2025-08-23, Reti Opening
+622, Tattica Generica, Media, r5k1/1pp2ppp/p1pb1n2/8/8/1P3PPb/P1PP3P/RNB1N1K1 b - - 0 15, d6c5, https://www.chess.com/game/daily/853597514, 2025-08-20, Spanish Game
+623, Tattica Generica, Difficile, 6k1/5ppp/p2pb3/1p6/5N2/1P3PP1/P1r4P/R5K1 b - - 3 25, g8f8, https://www.chess.com/game/daily/853597514, 2025-08-20, Spanish Game
+624, Tattica Generica, Difficile, 8/5k1p/8/8/2K2Pp1/rR4P1/7P/8 b - - 0 41, a3a2, https://www.chess.com/game/daily/853597514, 2025-08-20, Spanish Game
+625, Tattica Generica, Facile, 8/8/5k2/5P1p/4K1p1/6P1/7P/8 b - - 0 48, f6e7, https://www.chess.com/game/daily/853597514, 2025-08-20, Spanish Game
+626, Tattica Generica, Difficile, r1bqkbnr/1pp1p3/p1n5/3p2pp/3P1B2/2NBP3/PPP2PPP/R2QK2R w KQkq - 0 8, d3g6, https://www.chess.com/game/daily/812189458, 2025-05-09, Queen's Pawn Opening
+627, Tattica Generica, Difficile, r1b1kbnr/1pp1p3/p1nq4/3p2Bp/3P4/2NBP3/PPP2PPP/R2QK2R w KQkq - 1 9, e1g1, https://www.chess.com/game/daily/812189458, 2025-05-09, Queen's Pawn Opening
+628, Tattica Generica, Difficile, r1b1k1nr/1pp2ppp/1p1p4/2b1P3/2B5/8/PPP2PPP/RNB1R1K1 b kq - 1 10, d6e5, https://www.chess.com/game/daily/793942815, 2025-03-28, Scotch Game
+629, Tattica Generica, Difficile, 8/6k1/1pr3p1/1R1K1pPp/P4P2/2P4P/1P6/8 b - - 12 44, c6c8, https://www.chess.com/game/daily/793942815, 2025-03-28, Scotch Game
+630, Tattica Generica, Difficile, 8/6k1/1p4p1/2RK1pPp/P4P2/2P4P/1P6/8 b - - 0 45, h5h4, https://www.chess.com/game/daily/793942815, 2025-03-28, Scotch Game
+631, Tattica Generica, Difficile, 8/8/8/2p4k/p3rp2/2R3p1/5K2/8 w - - 0 52, f2f1, https://www.chess.com/game/daily/786567591, 2025-03-13, Italian Game
+632, Tattica Generica, Media, r4r1k/pp3p1p/1bp3n1/3p1N1N/1P3P2/P7/1P4PP/2KR3R b - - 2 23, a8e8, https://www.chess.com/game/daily/794534437, 2025-03-30, Center Game
+633, Tattica Generica, Difficile, r1b2rk1/1pp1bppp/p1nq4/3pp1PP/3P4/P1N1PN2/1PPQ1P2/2KR1B1R b - - 0 15, e5e4, https://www.chess.com/game/daily/790656723, 2025-03-21, Queen's Pawn Opening
+634, Tattica Generica, Facile, 2r4r/5pk1/p5p1/1ppp2Q1/3qp3/P1P5/1P3P1R/2K4R b - - 0 35, f7f6, https://www.chess.com/game/daily/790656723, 2025-03-21, Queen's Pawn Opening
+635, Tattica Generica, Facile, r1b2r1k/5pp1/p3pb2/4q1N1/3p3P/3BP3/PPQ2PP1/R3K2R b KQ - 3 19, d4e3, https://www.chess.com/game/daily/793083011, 2025-03-26, Queen's Gambit
+636, Pezzo Appeso, Media, r1bqk1nr/pppp1Bpp/2n5/2b5/3pP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5, e8f7, https://www.chess.com/game/daily/784889643, 2025-03-09, Scotch Game
+637, Scoperta, Difficile, 3rr3/p1p1k1pp/1bp1b3/4q3/1P1p3P/P4P2/2PN2P1/R1Q1R1K1 b - - 2 20, d4d3, https://www.chess.com/game/daily/784889643, 2025-03-09, Scotch Game
+638, Forchetta, Media, 3rr3/p1p1k1pp/1bp1b3/8/PP1qN2P/3p1P2/2P3P1/R1Q1R2K b - - 3 23, d3d2, https://www.chess.com/game/daily/784889643, 2025-03-09, Scotch Game
+639, Forchetta, Difficile, 3rr3/p1p1k1pp/1bp1b3/8/PP1qN2P/5P2/2Q3P1/R3R2K b - - 0 24, d4c4, https://www.chess.com/game/daily/784889643, 2025-03-09, Scotch Game
+640, Tattica Generica, Difficile, 8/p1p1k1pp/2p5/P1N5/6PP/5P2/2b4K/8 b - - 2 34, e7d6, https://www.chess.com/game/daily/784889643, 2025-03-09, Scotch Game
+641, Tattica Generica, Media, 8/3k4/PK6/1N6/8/8/4b3/8 b - - 0 69, e2b5, https://www.chess.com/game/daily/784889643, 2025-03-09, Scotch Game
+642, Tattica Generica, Difficile, r1b1rk2/pp3ppp/4p3/2n1P3/2B1p3/6N1/PPP2PPP/3R1RK1 w - - 6 15, c4b5, https://www.chess.com/game/daily/780111315, 2025-02-27, Caro-Kann Defense
+643, Forchetta, Difficile, r1b1rk2/pp3ppp/4p3/4P3/n1B1p3/6N1/PPP2PPP/3RR1K1 w - - 8 16, c4b5, https://www.chess.com/game/daily/780111315, 2025-02-27, Caro-Kann Defense
+644, Tattica Generica, Media, r2r1k2/5ppp/p1b1p3/Pp2P3/1R2N3/1P6/2P2PPP/4R1K1 w - - 1 23, e4d6, https://www.chess.com/game/daily/780111315, 2025-02-27, Caro-Kann Defense
+645, Tattica Generica, Media, 1r1r1k2/2R2ppp/pP2p3/Pb2P3/1R6/1P5P/5PPK/8 w - - 7 30, b4b5, https://www.chess.com/game/daily/780111315, 2025-02-27, Caro-Kann Defense
+646, Tattica Generica, Media, 2rrk3/2Rb1p2/pP2p1p1/P3P2p/5R1P/1P6/5PPK/8 w - - 2 36, c7a7, https://www.chess.com/game/daily/780111315, 2025-02-27, Caro-Kann Defense
+647, Pezzo Appeso, Difficile, 2r5/2P1k3/p3p3/PbR4p/5P1P/1P4K1/8/8 w - - 4 44, c5h5, https://www.chess.com/game/daily/780111315, 2025-02-27, Caro-Kann Defense
+648, Tattica Generica, Media, 8/8/5k2/7b/p4K1P/r7/8/7R w - - 0 58, h1c1, https://www.chess.com/game/daily/780111315, 2025-02-27, Caro-Kann Defense
+649, Tattica Generica, Media, r5k1/4b1pp/4pr2/p1pq4/3p2P1/1P1Q1N2/PBP2PP1/R3R1K1 w - - 0 21, e1e5, https://www.chess.com/game/daily/780111349, 2025-02-27, Caro-Kann Defense
+650, Matto Mancato, Facile, 8/2q1bkp1/4R2p/p6r/3B4/1P1Q1N2/P4PP1/6K1 w - - 1 31, d3g6, https://www.chess.com/game/daily/780111349, 2025-02-27, Caro-Kann Defense
+651, Tattica Generica, Facile, 8/p7/1k3r2/8/P7/1PRp2P1/1r4P1/3R1K2 w - - 6 41, f1g1, https://www.chess.com/game/daily/780111337, 2025-02-27, Caro-Kann Defense
+652, Tattica Generica, Media, 3r1rk1/1ppqnpp1/1b1p1n1p/pP2p3/P1B1P1b1/BQPP1N2/3N1PPP/R4RK1 b - - 2 14, e7g6, https://www.chess.com/game/daily/770815047, 2025-02-08, Italian Game
+653, Tattica Generica, Difficile, 3r1rk1/1Q3pp1/5nnp/p1qPp3/P1B5/2PP1N1P/5PP1/1R3RK1 b - - 0 21, e5e4, https://www.chess.com/game/daily/770815047, 2025-02-08, Italian Game
+654, Tattica Generica, Media, r2q1rk1/ppp2ppp/4pn2/3pP3/1b1P4/2N1P2P/PPPBQ1P1/R4RK1 b - - 0 12, b4c3, https://www.chess.com/game/daily/771128537, 2025-02-09, D04
+655, Forchetta, Media, r2q1rk1/1p2bppp/1n6/2p1Pb2/p1N1p3/1BP1B3/PP3PPP/R2Q1RK1 w - - 0 15, d1d8, https://www.chess.com/game/daily/761339391, 2025-01-21, Italian Game
+656, Tattica Generica, Media, r1q1r1k1/1ppb1pp1/p1n4p/2bnp3/B3N3/P1PP1N1P/1P3PP1/R1BQR1K1 b - - 3 14, c5a7, https://www.chess.com/game/daily/761339469, 2025-01-21, Italian Game
+657, Scoperta, Difficile, 1r4k1/3r1pp1/p6p/1p1N4/2pRPb2/8/PPP2PPP/4R1K1 w - - 2 26, d5f6, https://www.chess.com/game/daily/683213447, 2024-07-26, Italian Game
+658, Tattica Generica, Difficile, 1r4k1/3R1pp1/p6p/1p6/2p1P3/8/PbP2PPP/4R1K1 w - - 0 29, e1d1, https://www.chess.com/game/daily/683213447, 2024-07-26, Italian Game
+659, Tattica Generica, Difficile, 6k1/R4pp1/pr5p/1p6/2pbP3/8/P1P2PPP/1R4K1 w - - 4 31, b1d1, https://www.chess.com/game/daily/683213447, 2024-07-26, Italian Game
+660, Tattica Generica, Media, 1R6/3R1ppk/5b1p/8/2p5/7P/2P1rPPK/8 w - - 5 38, h2g3, https://www.chess.com/game/daily/683213447, 2024-07-26, Italian Game
+661, Tattica Generica, Media, 1R6/5Rpk/5b1p/8/2p5/7P/2P2rPK/8 w - - 0 39, h2g3, https://www.chess.com/game/daily/683213447, 2024-07-26, Italian Game
+662, Tattica Generica, Media, r1q1r3/pp3p1k/2p1bbpp/4p3/1P2Pn1N/P1N3QP/2P1BPP1/3R1RK1 w - - 5 26, h4f3, https://www.chess.com/game/daily/685625303, 2024-08-02, Pirc Defense
+663, Tattica Generica, Difficile, r1bqr1k1/1pp2ppp/1b3n2/pP6/P1B1Pn2/2P2N1P/1B1N1PP1/R2Q1RK1 w - - 1 15, e4e5, https://www.chess.com/game/daily/685625437, 2024-08-02, Italian Game
+664, Tattica Generica, Difficile, r1b1r1k1/1pp2ppp/1b6/pP4qn/P1BNPn2/2P2Q2/1B1N1PPK/R3R3 w - - 2 19, e4e5, https://www.chess.com/game/daily/685625437, 2024-08-02, Italian Game
+665, Tattica Generica, Difficile, r3r1k1/1p3pp1/1b5p/pPp3qn/P1BNPnb1/2P1Q1N1/1B3PPK/R3R3 w - c6 0 22, d4f3, https://www.chess.com/game/daily/685625437, 2024-08-02, Italian Game
+666, Tattica Generica, Facile, r5k1/1p3pp1/1b2r2p/pPp3qn/P3Pn2/2P1Q1N1/1BN2PPK/R3R3 w - - 0 24, c3c4, https://www.chess.com/game/daily/685625437, 2024-08-02, Italian Game
+667, Tattica Generica, Difficile, 8/pp3k1p/4p3/4p1P1/8/5K2/PPP4P/8 w - - 1 28, c2c4, https://www.chess.com/game/daily/683199405, 2024-07-26, C10
+668, Tattica Generica, Media, 8/pp5p/4p1k1/6P1/4p1KP/8/PPP5/8 w - - 0 30, h4h5, https://www.chess.com/game/daily/683199405, 2024-07-26, C10
+669, Tattica Generica, Difficile, r1b2rk1/ppp2ppp/1bnp1q2/4p3/3P4/2PBBN2/PP1Q1PPP/R4RK1 b - - 2 12, h7h6, https://www.chess.com/game/daily/682493711, 2024-07-24, Petrov's Defense
+670, Scoperta, Media, r1b1r1k1/ppp2ppp/1bnp1q2/4p3/3PB3/2P1BN2/PP1Q1PPP/R4RK1 b - - 4 13, e5d4, https://www.chess.com/game/daily/682493711, 2024-07-24, Petrov's Defense
+671, Tattica Generica, Media, r3r1k1/pppb1ppp/1bnp1q2/3Pp3/4B3/2P1BN2/PP1Q1PPP/R4RK1 b - - 0 14, b6e3, https://www.chess.com/game/daily/682493711, 2024-07-24, Petrov's Defense
+672, Tattica Generica, Difficile, r3r1k1/5p1p/8/ppQ5/P2pP1q1/1P1P2P1/1B5P/R5K1 b - - 2 26, e8d8, https://www.chess.com/game/daily/675300519, 2024-07-03, English Opening
+673, Tattica Generica, Media, r3r1k1/5p1p/8/p1Q5/P2pP1q1/3P2P1/1B5P/R5K1 b - - 0 27, e8d8, https://www.chess.com/game/daily/675300519, 2024-07-03, English Opening
+674, Tattica Generica, Facile, 5rk1/5p1p/8/p1B1PQ2/P5r1/6P1/4q2P/5RK1 b - - 6 34, e2e4, https://www.chess.com/game/daily/675300519, 2024-07-03, English Opening
+675, Tattica Generica, Media, r1bq1rk1/ppp2ppp/1bn1p3/3n4/1P1PpP2/P5P1/2P1N2P/R1BQKBNR b KQ - 3 11, c6d4, https://www.chess.com/game/daily/620860135, 2024-02-10, C15
+676, Tattica Generica, Difficile, 4rr1k/np2q1pp/1b6/pPpQ1p2/P1P2P2/3BB1PN/5K1P/R3R3 b - - 8 25, e8d8, https://www.chess.com/game/daily/620860135, 2024-02-10, C15
+677, Pezzo Appeso, Difficile, 4r2k/np2q1p1/1b3r1p/pPpQ1pN1/P1PB1P2/3B2P1/5K1P/R3R3 b - - 1 27, c5d4, https://www.chess.com/game/daily/620860135, 2024-02-10, C15
+678, Forchetta, Difficile, r6r/1n1bk1p1/2pp1q1p/p2PpP1B/1PN3Qb/P3B3/5PPP/R4RK1 w - - 6 24, d5c6, https://www.chess.com/game/daily/618756375, 2024-02-05, Italian Game
+679, Tattica Generica, Difficile, r6r/1n2k1p1/2pp1q1p/p2Ppb1B/1PN3Qb/P3B3/5PPP/1R3RK1 w - - 0 25, g4d1, https://www.chess.com/game/daily/618756375, 2024-02-05, Italian Game
+680, Tattica Generica, Difficile, r6r/1n2k1p1/3p1b1p/p2pp2B/1PN5/P3B3/5PPP/1R4K1 w - - 0 28, c4b6, https://www.chess.com/game/daily/618756375, 2024-02-05, Italian Game
+681, Tattica Generica, Difficile, r1bqr1k1/ppp2pb1/3p1n1p/2n5/3NP1p1/2N1QBB1/PPP2PPP/R4RK1 w - - 0 14, b2b4, https://www.chess.com/game/daily/618758369, 2024-02-05, Philidor Defense
+682, Tattica Generica, Difficile, 4r1k1/pppb1p2/3p3p/2n5/6P1/6B1/q1r1BQPP/5RK1 w - - 0 26, f2f6, https://www.chess.com/game/daily/618758369, 2024-02-05, Philidor Defense
+683, Tattica Generica, Facile, r4r2/2pq1pk1/p7/1p3PN1/2pPP1Q1/2P3B1/PP6/R5K1 b - - 0 25, f7f6, https://www.chess.com/game/daily/597021773, 2023-12-17, Spanish Game
+684, Tattica Generica, Difficile, 1kr5/p1pRQp2/1pq4p/1N6/P1n5/1P3P2/2P3PP/2K5 b - - 0 24, c4e3, https://www.chess.com/game/daily/597021783, 2023-12-17, Scotch Game
+685, Tattica Generica, Difficile, 1kr5/2pRQp2/pp4qp/8/P1PN4/5P2/2P3PP/2K5 b - - 0 26, h6h5, https://www.chess.com/game/daily/597021783, 2023-12-17, Scotch Game
+686, Tattica Generica, Media, 4r3/1pp3bk/p5pp/3P1p2/P1B5/1P3Q2/2P2KPP/4r3 w - - 2 28, g2g3, https://www.chess.com/game/daily/570916505, 2023-10-08, Pirc Defense
+687, Tattica Generica, Media, rq3rk1/2pn1ppp/4pn2/p2pN3/3P1P2/1QN5/PPP2PPP/R3K2R b KQ - 3 12, b8a7, https://www.chess.com/game/daily/569800033, 2023-10-05, Queen's Pawn Opening
+688, Tattica Generica, Facile, k7/2R5/P7/1PK5/8/8/8/3r4 b - - 0 58, d1f1, https://www.chess.com/game/daily/562791737, 2023-09-17, Bishop's Opening
+689, Pezzo Appeso, Difficile, r5k1/1p1q1p1p/3p2p1/2p1P1Nn/2P5/5Q2/5PPP/5RK1 b - - 1 21, d6e5, https://www.chess.com/game/daily/560559355, 2023-09-11, Spanish Game
+690, Tattica Generica, Difficile, 3r2k1/5p1p/5qp1/2Q5/2P5/8/5PPP/5RK1 b - - 0 27, f6c3, https://www.chess.com/game/daily/560559355, 2023-09-11, Spanish Game
+691, Tattica Generica, Difficile, r2r2k1/ppp3pp/2n2n2/2b1p1N1/2P5/7P/PP3PP1/RNBR2K1 w - - 1 15, b1c3, https://www.chess.com/game/daily/558769319, 2023-09-07, Italian Game
+692, Tattica Generica, Difficile, r5k1/pppr2p1/2n2n1p/4p3/2P5/1P3N1P/P2b1PP1/RN3RK1 w - - 0 20, f3d2, https://www.chess.com/game/daily/558769319, 2023-09-07, Italian Game
+693, Tattica Generica, Difficile, r3kbnr/ppp2ppp/3p1q2/3Pp2b/2B1P3/5N1P/PPP2PP1/R1BQK2R w KQkq - 1 9, g2g4, https://www.chess.com/game/daily/562795451, 2023-09-17, Italian Game
+694, Tattica Generica, Difficile, r2q3r/2pkbppp/p2p1nb1/1p1Pp1B1/4P1P1/1B1Q1N1P/PPP2P2/2KRR3 w - - 3 17, c1b1, https://www.chess.com/game/daily/562795451, 2023-09-17, Italian Game
+695, Tattica Generica, Difficile, r2q3r/2pkbpp1/p2p1nbp/1p1Pp1B1/4P1PP/1B1Q1N2/PPP2P2/2KRR3 w - - 0 18, g5f6, https://www.chess.com/game/daily/562795451, 2023-09-17, Italian Game
+696, Tattica Generica, Facile, r1k4r/2p3p1/p2pP2p/1p1P3q/8/1B4Bb/PPP3Q1/1K1R1R2 w - - 1 34, g2h2, https://www.chess.com/game/daily/562795451, 2023-09-17, Italian Game
+697, Tattica Generica, Difficile, r5r1/1kp1P3/p2p2pp/1p1P4/2P5/5bB1/PPB5/1K2R3 w - - 1 40, e1e3, https://www.chess.com/game/daily/562795451, 2023-09-17, Italian Game
+698, Tattica Generica, Difficile, 8/1kp5/p2p4/1p1P3p/2P5/5br1/PP6/1K2R3 w - - 0 44, b2b3, https://www.chess.com/game/daily/562795451, 2023-09-17, Italian Game
+699, Tattica Generica, Difficile, r4rk1/1pp1qpp1/p1p2nbp/4P3/1b4PB/2NP1N1P/PPP1QP2/R3K2R b KQ - 0 15, e7c5, https://www.chess.com/game/daily/552296633, 2023-08-20, Spanish Game
+700, Scoperta, Difficile, r3q1k1/1ppb1pp1/pbn4p/3pN3/B2P4/B7/P1Q2PPP/4R1K1 w - - 2 20, e5f3, https://www.chess.com/game/daily/553603723, 2023-08-24, Italian Game
+701, Tattica Generica, Media, 6k1/1p3p2/p1p2qpp/3p4/P2B4/1Q6/2b2PPP/6K1 w - - 0 31, b3b4, https://www.chess.com/game/daily/553603723, 2023-08-24, Italian Game
+702, Tattica Generica, Difficile, 8/5p2/2p3kp/Q7/3p4/7P/pq4PK/8 w - - 0 49, a5c7, https://www.chess.com/game/daily/553603723, 2023-08-24, Italian Game
+703, Tattica Generica, Difficile, r1bq1rk1/pppp1pp1/2n2n1p/2b1p1N1/2B1P2P/P1N5/1PPP1PP1/R1BQK2R b KQ - 0 7, d7d6, https://www.chess.com/game/daily/553352027, 2023-08-23, Italian Game
+704, Tattica Generica, Facile, r1bq1rk1/pppp1pp1/2n2n2/2b1p1P1/2B1P3/P1N5/1PPP1PP1/R1BQK2R b KQ - 0 8, d7d5, https://www.chess.com/game/daily/553352027, 2023-08-23, Italian Game
+705, Tattica Generica, Difficile, r1b1k1nr/3pqp2/2p4p/ppb3pN/3pP3/1B3Q2/PPPP1PPP/R1B2RK1 w kq - 2 13, a2a4, https://www.chess.com/game/daily/549150033, 2023-08-10, Spanish Game
+706, Tattica Generica, Media, 6r1/R7/4bk2/8/Pp1p4/3Pn2P/1PP2K2/R7 w - - 3 41, a1g1, https://www.chess.com/game/daily/549150033, 2023-08-10, Spanish Game
+707, Tattica Generica, Facile, 8/1b6/5k2/8/Pp1p1K2/3Pn2P/1PP3r1/R7 w - - 0 44, a1h1, https://www.chess.com/game/daily/549150033, 2023-08-10, Spanish Game
+708, Tattica Generica, Facile, 8/8/b4k2/P7/Rp1p1K2/3P3P/1Pn3r1/8 w - - 0 46, h3h4, https://www.chess.com/game/daily/549150033, 2023-08-10, Spanish Game
+709, Tattica Generica, Facile, 8/8/b4k2/P7/Rp1p4/3P1K1P/1Pnr4/8 w - - 2 47, h3h4, https://www.chess.com/game/daily/549150033, 2023-08-10, Spanish Game
+710, Tattica Generica, Difficile, 8/8/5k2/Pb1K4/3p4/1p5P/RPnr4/8 w - - 0 50, a2a1, https://www.chess.com/game/daily/549150033, 2023-08-10, Spanish Game
+711, Tattica Generica, Difficile, 2Rr4/3Pk1p1/4Pp1p/p3nP2/2P3P1/1P5P/6K1/3R4 b - - 0 44, e5d7, https://www.chess.com/game/daily/552296887, 2023-08-20, Italian Game
+712, Tattica Generica, Facile, 2Rr4/3Pk3/4Pp1p/p1P1nP2/8/1P5P/6K1/3R4 b - - 0 46, e5d7, https://www.chess.com/game/daily/552296887, 2023-08-20, Italian Game
+713, Tattica Generica, Difficile, 3rk1r1/p2q1p2/Qpb2p1p/2p5/8/2P1B1P1/PP1N1P1P/R4RK1 w - - 1 22, a1e1, https://www.chess.com/game/daily/549396617, 2023-08-11, Italian Game
+714, Tattica Generica, Difficile, 3rk1r1/p4p2/1pb2p1p/2p5/2Q5/2P1B1Pq/PP1N1P1P/R4RK1 w - - 3 23, d2e4, https://www.chess.com/game/daily/549396617, 2023-08-11, Italian Game
+715, Tattica Generica, Media, 8/p7/1p3R2/4k2p/2P1P3/2P1B1K1/r7/8 w - - 1 43, f6f4, https://www.chess.com/game/daily/549396617, 2023-08-11, Italian Game
+716, Tattica Generica, Difficile, 8/p7/1p5R/7p/2P1k3/2P1B1K1/r7/8 w - - 0 44, e3d4, https://www.chess.com/game/daily/549396617, 2023-08-11, Italian Game
+717, Tattica Generica, Media, 8/p7/1p6/2P1R3/8/2k3K1/r7/8 w - - 0 47, c5c6, https://www.chess.com/game/daily/549396617, 2023-08-11, Italian Game
+718, Tattica Generica, Difficile, 8/p7/1p6/2P5/3k4/4R1K1/r7/8 w - - 2 48, e3e7, https://www.chess.com/game/daily/549396617, 2023-08-11, Italian Game
+719, Tattica Generica, Facile, 8/8/p4B2/kpp5/2r4P/6p1/P3R1P1/5K2 w - - 2 37, e2e3, https://www.chess.com/game/daily/549396653, 2023-08-11, Italian Game
+720, Tattica Generica, Difficile, 8/8/p6P/1p2R3/1kp5/6p1/P6r/1K6 w - - 1 44, e5g5, https://www.chess.com/game/daily/549396653, 2023-08-11, Italian Game
+721, Tattica Generica, Difficile, r2qk2r/pp2n1pp/2p2p2/b3p3/2b1P3/P1N1BN2/1PP2PPP/R2QR1K1 w kq - 1 14, b2b4, https://www.chess.com/game/daily/544436333, 2023-07-27, Italian Game
+722, Tattica Generica, Media, r7/p5kp/bpnR1p2/2p1p1p1/P3q3/1P2BN2/2P2PPP/3Q2K1 w - - 4 27, f3d2, https://www.chess.com/game/daily/544436333, 2023-07-27, Italian Game
+723, Pezzo Appeso, Difficile, r7/p2R3p/bp3p1k/2pQp1p1/Pn6/1P2BN1P/2q2PP1/6K1 w - - 3 30, d5a8, https://www.chess.com/game/daily/544436333, 2023-07-27, Italian Game
+724, Pezzo Appeso, Media, r7/p2R3p/bp5k/2pQp1p1/Pn6/1P3N1P/2q2PP1/6K1 w - - 0 31, d5a8, https://www.chess.com/game/daily/544436333, 2023-07-27, Italian Game
+725, Tattica Generica, Difficile, r6k/p2Q2qp/1p6/2p1N1P1/Pn6/1P6/5PP1/6K1 w - - 1 37, e5f7, https://www.chess.com/game/daily/544436333, 2023-07-27, Italian Game
+726, Tattica Generica, Media, 5rqk/p6p/1p2Q3/2p1N1P1/Pn6/1P6/5PP1/6K1 w - - 5 39, e6d6, https://www.chess.com/game/daily/544436333, 2023-07-27, Italian Game
+727, Tattica Generica, Difficile, 6k1/p4pp1/1p5p/2b5/4rPPK/1BPr3P/P7/R4R2 b - - 4 31, e4f4, https://www.chess.com/game/daily/538212149, 2023-07-08, Italian Game
+728, Tattica Generica, Difficile, 6k1/p3bpp1/1p6/6p1/4rPK1/1BPr3P/P7/R4R2 b - - 1 33, g7g6, https://www.chess.com/game/daily/538212149, 2023-07-08, Italian Game
+729, Matto Mancato, Facile, 6k1/p3bpp1/1p6/5KP1/8/1Br1r2P/P7/R4R2 b - - 0 35, g7g6, https://www.chess.com/game/daily/538212149, 2023-07-08, Italian Game
+730, Tattica Generica, Difficile, 6k1/p3bpp1/1p6/2r3P1/5K2/1B2r2P/P7/R4R2 b - - 2 36, e7g5, https://www.chess.com/game/daily/538212149, 2023-07-08, Italian Game
+731, Tattica Generica, Difficile, 6k1/p3bRp1/1p6/2r3P1/6K1/1Br5/P7/R7 b - - 0 38, c3b3, https://www.chess.com/game/daily/538212149, 2023-07-08, Italian Game
+732, Tattica Generica, Facile, 8/p5pk/1p6/6K1/8/1Br5/P7/R7 b - - 0 41, c3c5, https://www.chess.com/game/daily/538212149, 2023-07-08, Italian Game
+733, Tattica Generica, Facile, 8/6pk/1p6/p5K1/8/1Br5/P7/1R6 b - - 1 42, c3c5, https://www.chess.com/game/daily/538212149, 2023-07-08, Italian Game
+734, Tattica Generica, Difficile, r1b1r1k1/ppp2pp1/3p3p/3Pb3/P6B/3B3P/2P2PP1/1R3RK1 b - - 0 16, e5d4, https://www.chess.com/game/daily/500926919, 2023-04-08, Center Game
+735, Tattica Generica, Difficile, r3r1k1/2pb1pp1/1p1p3p/p2Pb3/P1P4B/7P/2B2PP1/1R2R1K1 b - - 3 19, g7g5, https://www.chess.com/game/daily/500926919, 2023-04-08, Center Game
+736, Tattica Generica, Difficile, r3r1k1/3b1pp1/1p1p3p/p2Bb3/P1P4B/7P/5PP1/1R2R1K1 b - - 0 21, a8b8, https://www.chess.com/game/daily/500926919, 2023-04-08, Center Game
+737, Tattica Generica, Media, 2r3k1/3bBpp1/1R1p3p/p2Bb3/P1P5/7P/5PP1/4K3 b - - 2 25, c8e8, https://www.chess.com/game/daily/500926919, 2023-04-08, Center Game
+738, Tattica Generica, Difficile, 4r1k1/5pp1/1R1B3p/p2Pb3/P7/7P/5PP1/5K2 b - - 2 28, e5d6, https://www.chess.com/game/daily/500926919, 2023-04-08, Center Game
+739, Pezzo Appeso, Facile, 8/8/1R6/P2P4/r6k/4BKbP/8/8 b - - 4 44, h4h3, https://www.chess.com/game/daily/500926919, 2023-04-08, Center Game
+740, Pezzo Appeso, Difficile, 8/8/1R1P4/r7/7k/4BKbP/8/8 b - - 0 45, h4h3, https://www.chess.com/game/daily/500926919, 2023-04-08, Center Game
+741, Pezzo Appeso, Facile, r7/3P4/1R6/8/7k/4BKbP/8/8 b - - 0 46, h4h3, https://www.chess.com/game/daily/500926919, 2023-04-08, Center Game
+742, Tattica Generica, Difficile, 2r2rk1/pp1bbppp/1q1p1n2/2pP2B1/3pP3/P1N5/1PPQBPPP/1R3RK1 w - - 0 13, g5f6, https://www.chess.com/game/daily/501317307, 2023-04-09, Sicilian Defense
+743, Tattica Generica, Difficile, r4rk1/ppp2pp1/2npqn1p/2b1p3/4P2B/2PP1N1P/PP1N1PP1/R2Q1RK1 b - - 1 11, a7a5, https://www.chess.com/game/daily/492016763, 2023-03-20, Italian Game
+744, Tattica Generica, Media, 1r3rk1/p1p2pp1/2n1qn1p/8/2pPP3/5NBP/P1Q2PP1/R3R1K1 b - - 0 19, c6b4, https://www.chess.com/game/daily/492016763, 2023-03-20, Italian Game
+745, Tattica Generica, Facile, 2Q5/p2P1kp1/8/n6p/P2qN3/5P1P/6P1/5K2 b - - 0 37, d4d3, https://www.chess.com/game/daily/492016763, 2023-03-20, Italian Game
+746, Tattica Generica, Difficile, 5Q2/1kp3p1/1p5p/p2pq3/P7/1P5P/5PP1/6K1 w - - 2 32, g2g4, https://www.chess.com/game/daily/492016419, 2023-03-20, Italian Game
+747, Tattica Generica, Media, 8/2k5/1p6/p7/Pqp1Q3/3p3P/5PPK/8 w - - 2 39, e4h7, https://www.chess.com/game/daily/492016419, 2023-03-20, Italian Game
+748, Tattica Generica, Difficile, r1bqr1k1/p3bpp1/1pn2n1p/1B1p4/3P3B/2N2N2/PP1Q1PPP/R4RK1 b - - 1 13, c8d7, https://www.chess.com/game/daily/492117151, 2023-03-20, Queen's Gambit
+749, Tattica Generica, Difficile, r3r1k1/p1q2pp1/bpB4p/4N1b1/3PpB2/8/PP1Q1PPP/2R1R1K1 b - - 3 20, e8e5, https://www.chess.com/game/daily/492117151, 2023-03-20, Queen's Gambit
+750, Tattica Generica, Difficile, r3r1k1/p1q3p1/bpB2p1p/4N1B1/3Pp3/8/PP1Q1PPP/2R1R1K1 b - - 0 21, c7d8, https://www.chess.com/game/daily/492117151, 2023-03-20, Queen's Gambit
+751, Tattica Generica, Difficile, rn1q1rk1/pbpp1ppp/1p2pn2/6B1/1b1PP3/2NB4/PPP2PPP/R2QK1NR w KQ - 8 7, e4e5, https://www.chess.com/game/daily/485338723, 2023-03-04, French Defense
+752, Tattica Generica, Difficile, rn1q1rk1/pbp2ppp/1p2pn2/3p2B1/1b1PP3/2NB1N2/PPP2PPP/R2QK2R w KQ - 0 8, e4e5, https://www.chess.com/game/daily/485338723, 2023-03-04, French Defense
+753, Tattica Generica, Media, rn1q1rk1/pbp2ppp/1p2pn2/3p2B1/3PP3/2bB1N2/PPP2PPP/R2Q1RK1 w - - 0 9, e4e5, https://www.chess.com/game/daily/485338723, 2023-03-04, French Defense
+754, Tattica Generica, Difficile, r1b2rk1/pppq1ppp/2n1pn2/2Pp4/3P4/P1NBPN2/1P3PPP/R2QK2R b KQ - 2 10, d7e7, https://www.chess.com/game/daily/485338699, 2023-03-04, Queen's Gambit
+755, Tattica Generica, Difficile, r1b2rk1/p1pq1ppp/2n2n2/1BPpp3/8/P1N1PN2/1P3PPP/R2Q1RK1 b - - 1 13, d7e6, https://www.chess.com/game/daily/485338699, 2023-03-04, Queen's Gambit
+756, Tattica Generica, Difficile, 3r2k1/3r1ppp/2p1q3/p2p4/N7/P3PQ1P/1P1R1PP1/6K1 b - - 0 28, e6e7, https://www.chess.com/game/daily/485338699, 2023-03-04, Queen's Gambit
+757, Pezzo Appeso, Media, 3r2k1/3N1ppp/2p5/p7/2qp4/P3PQ1P/1P1R1PP1/6K1 b - - 0 30, d8d7, https://www.chess.com/game/daily/485338699, 2023-03-04, Queen's Gambit
+758, Tattica Generica, Difficile, 6k1/3r1ppp/2p5/p7/3P4/P6P/1P3PP1/3R2K1 b - - 0 33, d7b7, https://www.chess.com/game/daily/485338699, 2023-03-04, Queen's Gambit
+759, Tattica Generica, Difficile, 8/5ppp/2k5/p1p5/P7/3K3P/1P3PP1/8 b - - 0 41, c6d5, https://www.chess.com/game/daily/485338699, 2023-03-04, Queen's Gambit
+760, Tattica Generica, Media, 8/7p/6p1/p1pk1p2/P7/1P1K1PPP/8/8 b - - 0 44, g6g5, https://www.chess.com/game/daily/485338699, 2023-03-04, Queen's Gambit

@@ -147,6 +147,30 @@ class ResultGame(enum.Enum):
     LOSE = 1
     DRAW = 2
 
+class TerminationReason(enum.Enum):
+    UNKNOWN = 0
+    CHECKMATE = 1
+    RESIGNATION = 2
+    TIMEOUT = 3
+    ABANDONED = 4
+    STALEMATE = 5
+    INSUFFICIENT_MATERIAL = 6
+    REPETITION = 7
+    AGREEMENT = 8
+
+# Ordine di controllo rilevante: "on time" va cercato prima di "resignation"/"checkmate"
+# perché il testo di chess.com è del tipo "<player> won on time" / "... won by checkmate".
+_TERMINATION_KEYWORDS = [
+    ("time", TerminationReason.TIMEOUT),
+    ("abandon", TerminationReason.ABANDONED),
+    ("checkmate", TerminationReason.CHECKMATE),
+    ("resignation", TerminationReason.RESIGNATION),
+    ("stalemate", TerminationReason.STALEMATE),
+    ("insufficient material", TerminationReason.INSUFFICIENT_MATERIAL),
+    ("repetition", TerminationReason.REPETITION),
+    ("agreement", TerminationReason.AGREEMENT),
+]
+
 class Game:
     def __init__(self, username, game):
         self.game = game
@@ -170,6 +194,9 @@ class Game:
             self.result = ResultGame.WIN
         else:
             self.result = ResultGame.LOSE
+        self.termination_reason = self.__parse_termination()
+        # Numero di semi-mosse (ply) della partita, utile come proxy di quanto è durata.
+        self.num_moves = sum(1 for _ in self.game.mainline_moves())
 
     def __convert_to_local_time(self, date_str, time_str):
         # Combina data e ora in un unico formato datetime
@@ -182,13 +209,23 @@ class Game:
         date_time_local = date_time_utc.astimezone()
         return date_time_local
 
-    def __parse_time_control(self, str):
-        if (str == "600"):
-            return TimeControlType.RAPID
-        elif (str=="1/86400"):
+    def __parse_time_control(self, time_control_str):
+        # Le partite "daily" di chess.com usano il formato "N/secondi" (es. "1/86400").
+        if "/" in time_control_str:
             return TimeControlType.STANDARD
+        base_seconds = int(time_control_str.split("+")[0])
+        if base_seconds < 180:
+            return TimeControlType.BULLET
+        if base_seconds < 600:
+            return TimeControlType.BLITZ
+        return TimeControlType.RAPID
 
-        self.black_player = self.game.headers["TimeControl"]
+    def __parse_termination(self):
+        text = self.game.headers.get("Termination", "").lower()
+        for keyword, reason in _TERMINATION_KEYWORDS:
+            if keyword in text:
+                return reason
+        return TerminationReason.UNKNOWN
 
 class GameCollection:
     def __init__(self, username, num_games=None, time_control=None, color=None):
@@ -198,6 +235,13 @@ class GameCollection:
         self.draw_games = 0;
         self.games = self.__load_games(username, num_games, time_control, color)
         self.games_by_opening = self.__create_opening_map()
+
+    TIME_CONTROL_NAMES = {
+        "rapid": TimeControlType.RAPID,
+        "standard": TimeControlType.STANDARD,
+        "blitz": TimeControlType.BLITZ,
+        "bullet": TimeControlType.BULLET,
+    }
 
     def __load_games(self, username, num_games=None, time_control=None, color=None):
         games = []
@@ -209,8 +253,7 @@ class GameCollection:
                     break
                 game = Game(username, chess_game)
                 if ((time_control is None) or \
-                    (time_control=="rapid" and game.time_control == TimeControlType.RAPID) or \
-                    (time_control=="standard" and game.time_control == TimeControlType.STANDARD)) and \
+                    (game.time_control == self.TIME_CONTROL_NAMES.get(time_control))) and \
                    (color is None or \
                     (color == "white" and game.white_player == username) or \
                     (color == "black" and game.black_player == username)):
