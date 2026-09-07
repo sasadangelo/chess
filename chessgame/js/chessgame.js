@@ -72,24 +72,28 @@ function updateBoard(fen) {
 console.log(game.turn())
 // Configurazione iniziale della scacchiera
 var config = {
-    draggable: true,
+    draggable: false,
     position: 'start',
-    orientation: game.turn() === 'b' ? 'black' : 'white',
-    onDrop: function(source, target) {
-        var move = game.move({
-            from: source,
-            to: target,
-            promotion: 'q' // sempre promuovi a regina per semplicità
-        });
-
-        // Se la mossa è illegale, ritorna il pezzo indietro
-        if (move === null) return 'snapback';
-
-        // Se la mossa è valida, fai muovere il computer
-        window.setTimeout(makeBestMove, 250);            }
+    orientation: game.turn() === 'b' ? 'black' : 'white'
 };
 
 board = Chessboard('board', config);
+
+attachClickToMove(board, game, function(source, target) {
+    var move = game.move({
+        from: source,
+        to: target,
+        promotion: 'q' // sempre promuovi a regina per semplicità
+    });
+
+    // Se la mossa è illegale, ritorna il pezzo indietro
+    if (move === null) return 'snapback';
+
+    // Se la mossa è valida, fai muovere il computer
+    window.setTimeout(makeBestMove, 250);
+});
+
+$(window).on('resize', function() { board.resize(); });
 
 // Funzione per far giocare il computer
 function makeBestMove() {

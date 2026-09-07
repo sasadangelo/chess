@@ -78,3 +78,44 @@ footer {
   text-align: center;
   padding: 10px 0;
 }
+
+/* Mobile: sidebar sopra il contenuto, invece che a fianco a 20% larghezza */
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 12px;
+  }
+
+  #logo img {
+    height: 70px;
+  }
+
+  .main {
+    flex-direction: column;
+  }
+
+  #sidebar {
+    width: 100%;
+    padding: 10px 0;
+  }
+
+  #sidebar ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 16px;
+  }
+
+  #sidebar ul li {
+    margin-bottom: 0;
+  }
+
+  #content {
+    padding: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  #logo img {
+    height: 50px;
+  }
+}

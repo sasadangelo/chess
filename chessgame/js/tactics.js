@@ -94,34 +94,34 @@ function showCorrectFeedback(move) {
 }
 
 var config = {
-    draggable: true,
-    position: 'start',
-    onDrop: function(source, target) {
-        if (solved || !currentPuzzle) return 'snapback';
-
-        var move = game.move({ from: source, to: target, promotion: 'q' });
-        if (move === null) return 'snapback';
-
-        var playedUci = source + target + (move.promotion ? move.promotion : '');
-        if (playedUci === currentPuzzle.Solution) {
-            solved = true;
-            showCorrectFeedback(move);
-        } else {
-            game.undo();
-            attempts++;
-            $('#feedback').text('Non corretto, riprova (tentativo ' + attempts + ').').removeClass('correct').addClass('wrong');
-            if (attempts >= 2) {
-                $('#showSolutionBtn').show();
-            }
-            return 'snapback';
-        }
-    },
-    onSnapEnd: function() {
-        board.position(game.fen());
-    }
+    draggable: false,
+    position: 'start'
 };
 
 board = Chessboard('board', config);
+
+attachClickToMove(board, game, function(source, target) {
+    if (solved || !currentPuzzle) return 'snapback';
+
+    var move = game.move({ from: source, to: target, promotion: 'q' });
+    if (move === null) return 'snapback';
+
+    var playedUci = source + target + (move.promotion ? move.promotion : '');
+    if (playedUci === currentPuzzle.Solution) {
+        solved = true;
+        showCorrectFeedback(move);
+    } else {
+        game.undo();
+        attempts++;
+        $('#feedback').text('Non corretto, riprova (tentativo ' + attempts + ').').removeClass('correct').addClass('wrong');
+        if (attempts >= 2) {
+            $('#showSolutionBtn').show();
+        }
+        return 'snapback';
+    }
+});
+
+$(window).on('resize', function() { board.resize(); });
 
 $('#newPuzzleBtn').on('click', loadPuzzle);
 

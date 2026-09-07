@@ -232,26 +232,25 @@ function handlePuzzleDrop(source, target) {
 }
 
 var config = {
-    draggable: true,
-    position: 'start',
-    onDrop: function(source, target) {
-        if (currentMode === 'endgame') {
-            var move = game.move({ from: source, to: target, promotion: 'q' });
-            if (move === null) return 'snapback';
-            if (checkEndgameOver()) return;
-            window.setTimeout(makeBestMove, 250);
-        } else if (currentMode === 'puzzle') {
-            return handlePuzzleDrop(source, target);
-        }
-    },
-    onSnapEnd: function() {
-        if (currentMode === 'endgame' || currentMode === 'puzzle') {
-            board.position(game.fen());
-        }
-    },
+    draggable: false,
+    position: 'start'
 };
 
 board = Chessboard('board', config);
+
+attachClickToMove(board, game, function(source, target) {
+    if (currentMode === 'endgame') {
+        var move = game.move({ from: source, to: target, promotion: 'q' });
+        if (move === null) return 'snapback';
+        if (checkEndgameOver()) return;
+        window.setTimeout(makeBestMove, 250);
+    } else if (currentMode === 'puzzle') {
+        return handlePuzzleDrop(source, target);
+    }
+});
+
+$(window).on('resize', function() { board.resize(); });
+
 renderSettings();
 
 $('#applySettingsBtn').on('click', saveSettingsAndRestart);
