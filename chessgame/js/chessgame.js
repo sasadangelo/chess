@@ -69,6 +69,26 @@ function updateBoard(fen) {
     board.position(fen); // Aggiorna la scacchiera visiva
 }
 
+// Mostra/nasconde il bottone "Come si risolve?" in base alla tecnica nota per la categoria corrente
+function updateExplainButton(categoryId) {
+    var technique = ENDGAME_TECHNIQUES[categoryId];
+    $('#explainPanel').hide().empty();
+
+    if (!technique) {
+        $('#explainBtn').hide();
+        return;
+    }
+
+    $('#explainBtn').show().off('click').on('click', function() {
+        var html = '<h3>' + technique.title + '</h3><ol>';
+        technique.steps.forEach(function(step) {
+            html += '<li>' + step + '</li>';
+        });
+        html += '</ol>';
+        $('#explainPanel').html(html).toggle();
+    });
+}
+
 console.log(game.turn())
 // Configurazione iniziale della scacchiera
 var config = {
@@ -159,6 +179,7 @@ function startNewGame() {
             var selectedGame = games[categoryId].find(game => game.ID === gameId);
             if (selectedGame) {
                 updateBoard(selectedGame.FEN);
+                updateExplainButton(categoryId);
             }
         } else {
             alert('Please select a category and a game.');
@@ -167,6 +188,7 @@ function startNewGame() {
         var randomCategory = Object.keys(games)[Math.floor(Math.random() * Object.keys(games).length)];
         var randomGame = games[randomCategory][Math.floor(Math.random() * games[randomCategory].length)];
         updateBoard(randomGame.FEN);
+        updateExplainButton(randomCategory);
         alert('Automatically selected game: ' + randomGame.Name);
     }
 }

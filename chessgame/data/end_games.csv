@@ -41,3 +41,6 @@ ID, Category_ID, Name, FEN, Objective
 41, 8, Test: Watch the Knight Fork, 8/8/2Q5/8/2nk4/8/5K2/8 w - - 0 1, Win
 42, 8, Test: Rook-Pawn King Move, 8/6k1/7P/7K/8/8/8/8 b - - 0 1, Draw
 43, 8, Test: Two Knights Cannot Win, 8/8/3N4/8/3N4/k7/8/1K6 w - - 0 1, Draw
+50, 9, Two Queens vs King (Staircase Mate), 8/8/8/3k4/8/8/8/QQ4K1 w - - 0 1, Win
+51, 10, Queen and Rook vs King (Staircase Mate), 8/8/8/4k3/8/8/6Q1/5R1K w - - 0 1, Win
+52, 2, Two Rooks vs King (Staircase Mate), 8/8/8/8/8/4k3/6R1/6RK w - - 0 1, Win
